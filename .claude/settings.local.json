@@ -1,0 +1,6 @@
+{
+  "skillOverrides": {
+    "anthropic-skills:built-in-browser": "name-only",
+    "anthropic-skills:docs": "name-only"
+  }
+}

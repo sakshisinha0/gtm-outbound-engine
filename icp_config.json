@@ -1,0 +1,36 @@
+{
+  "max_age_days": 30,
+
+  "yc_roles": ["marketing", "operations", "sales-manager"],
+
+  "title_include": [
+    "revops", "revenue operations", "gtm", "go-to-market", "growth",
+    "marketing operations", "marketing ops", "sales operations", "sales ops",
+    "marketing automation", "demand generation", "business operations"
+  ],
+
+  "title_exclude": [
+    "sales development", "sdr", "bdr", "business development representative",
+    "account executive", "inside sales", "telecaller", "tele-caller",
+    "intern", "internship"
+  ],
+
+  "locations_include": [
+    "india", "bengaluru", "bangalore", "remote", "anywhere"
+  ],
+
+  "tool_keywords": [
+    "hubspot", "salesforce", "clay", "n8n", "make.com", "zapier", "apollo",
+    "instantly", "smartlead", "heyreach", "salesloft", "outreach.io"
+  ],
+
+  "automation_keywords": [
+    "automation", "automate", "workflow", "workflows", "api", "apis",
+    "webhook", "llm", "ai agent", "ai agents", "python", "sql"
+  ],
+
+  "build_keywords": [
+    "from scratch", "from zero", "0 to 1", "0-1", "zero to one",
+    "first hire", "greenfield", "build the"
+  ]
+}

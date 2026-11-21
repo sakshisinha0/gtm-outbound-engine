@@ -1,0 +1,8 @@
+company,domain,website,confidence,method,source_url
+Sprinto,sprinto.com,http://www.sprinto.com,high,apollo lookup,
+Clera,getclera.com,http://www.getclera.com,high,apollo lookup,
+Nectar Life,nectarlife.com,https://nectarlife.com,low,web search (apollo domain malformed),
+Omnistrate,omnistrate.com,http://www.omnistrate.com,high,yc page,https://www.ycombinator.com/companies/omnistrate
+XO Health,xohealth.com,http://www.xohealth.com,high,apollo lookup,
+Marrina Decisions,marrinadecisions.com,http://www.marrinadecisions.com,high,apollo lookup,
+Mederva,medervahealth.com,https://medervahealth.com/,high,yc page,https://www.ycombinator.com/companies/mederva
