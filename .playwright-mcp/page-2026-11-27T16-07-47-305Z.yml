@@ -1,0 +1,1169 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - complementary [ref=e5]:
+      - generic [ref=e6]:
+        - link "HiringCafe" [ref=e8] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e12]:
+          - navigation "Site" [ref=e13]:
+            - list [ref=e14]:
+              - listitem [ref=e15]:
+                - link "Search" [ref=e16] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=e21]:
+                - link "Tracker" [ref=e22] [cursor=pointer]:
+                  - /url: /myhiringcafe/tracker
+              - listitem [ref=e27]:
+                - link "Network" [ref=e28] [cursor=pointer]:
+                  - /url: /talent-network
+              - listitem [ref=e33]:
+                - button "Support us" [ref=e34] [cursor=pointer]
+              - listitem [ref=e46]:
+                - link "Add jobs" [ref=e47] [cursor=pointer]:
+                  - /url: https://docs.google.com/forms/d/e/1FAIpQLScAu_64rXROytp48mGplJBM9Pc-HsEd-m0eXHUiaEG4QLiK0Q/viewform
+              - listitem [ref=e52]:
+                - link "Employers" [ref=e53] [cursor=pointer]:
+                  - /url: https://tally.so/r/n9rv4p
+          - button "Collapse menu" [ref=e59] [cursor=pointer]
+    - generic [ref=e64]:
+      - generic [ref=e69]:
+        - generic [ref=e71]:
+          - group "Search mode" [ref=e73]:
+            - link "Talent Agent" [ref=e75] [cursor=pointer]:
+              - /url: /ai-search
+              - generic [ref=e78]: Agent
+            - link "Classic Search" [ref=e79] [cursor=pointer]:
+              - /url: /classic
+              - generic [ref=e82]: Classic
+          - generic [ref=e83]:
+            - generic [ref=e84]:
+              - generic [ref=e85]:
+                - combobox "Job title or keyword" [ref=e86]: growth
+                - button "Clear job title or keyword" [ref=e87] [cursor=pointer]
+              - button "Choose location and work environment" [ref=e91] [cursor=pointer]:
+                - generic [ref=e96]:
+                  - generic [ref=e97]: Location
+                  - generic [ref=e98]: Remote · Hybrid · Onsite · Field
+            - button "Search jobs" [ref=e101] [cursor=pointer]
+        - generic [ref=e104]:
+          - generic [ref=e105] [cursor=pointer]: Sign up
+          - button "Account" [ref=e108] [cursor=pointer]
+      - generic [ref=e109]:
+        - generic [ref=e115]:
+          - generic [ref=e116]:
+            - button "Filters 1" [ref=e117] [cursor=pointer]:
+              - generic [ref=e120]: Filters
+              - generic [ref=e121]: "1"
+            - button "Collapse filter row" [expanded] [ref=e122] [cursor=pointer]
+          - generic [ref=e126]:
+            - button "Date Posted 1" [ref=e127] [cursor=pointer]:
+              - generic [ref=e128]: Date Posted
+              - generic [ref=e129]: "1"
+            - button "Apply Process" [ref=e130] [cursor=pointer]
+            - button "Exclude Jobs" [ref=e132] [cursor=pointer]
+            - button "Activity & Outcomes New" [ref=e134] [cursor=pointer]:
+              - generic [ref=e135]: Activity & Outcomes
+              - generic: New
+            - button "Departments" [ref=e136] [cursor=pointer]
+            - button "Job Titles & Keywords" [ref=e138] [cursor=pointer]
+            - button "Experience" [ref=e140] [cursor=pointer]
+            - button "Commitment" [ref=e142] [cursor=pointer]
+            - button "Salary" [ref=e144] [cursor=pointer]
+            - button "Benefits & Perks" [ref=e146] [cursor=pointer]
+            - button "Education" [ref=e148] [cursor=pointer]
+            - button "Licenses & Certifications" [ref=e150] [cursor=pointer]
+            - button "Security Clearance" [ref=e152] [cursor=pointer]
+            - button "Languages" [ref=e154] [cursor=pointer]
+            - button "Encouraged to Apply" [ref=e156] [cursor=pointer]
+            - button "Shifts & Schedules" [ref=e158] [cursor=pointer]
+            - button "Travel Requirement" [ref=e160] [cursor=pointer]
+            - button "Company" [ref=e162] [cursor=pointer]
+            - button "Industry" [ref=e164] [cursor=pointer]
+            - button "Stage & Funding" [ref=e166] [cursor=pointer]
+            - button "Size" [ref=e168] [cursor=pointer]
+            - button "Founding Year" [ref=e170] [cursor=pointer]
+          - button "Clear filters" [ref=e173] [cursor=pointer]
+        - generic [ref=e180]:
+          - generic [ref=e182]:
+            - generic [ref=e184]:
+              - generic [ref=e185]: 1,940 jobs
+              - button "Learn about collapsed companies" [ref=e186] [cursor=pointer]:
+                - generic [ref=e187]: · 694 companies
+              - generic [ref=e190]: "-"
+              - generic [ref=e191]: India
+            - 'button "Sort by: Relevance" [ref=e195] [cursor=pointer]'
+            - button "Rank" [ref=e201] [cursor=pointer]
+            - button "Save or update search" [ref=e206] [cursor=pointer]
+            - link "Join our community" [ref=e210] [cursor=pointer]:
+              - /url: https://www.reddit.com/r/hiringcafe/
+          - generic [ref=e215]:
+            - generic [ref=e220]:
+              - generic [ref=e221]:
+                - generic [ref=e222]:
+                  - generic [ref=e223]: 3mo
+                  - generic [ref=e227]: Growth Management- Senior Manager - Paytm for Business
+                  - generic [ref=e229]: Noida, Uttar Pradesh, India
+                  - generic [ref=e234]:
+                    - generic [ref=e235]: Onsite
+                    - generic [ref=e236]: Full Time
+                - generic [ref=e237]:
+                  - generic [ref=e238]:
+                    - img "Paytm Payment Services Limited" [ref=e241]
+                    - generic [ref=e242]: "Paytm Payment Services Limited: Indian payment aggregator providing online, offline, and cross-border payment gateway services to merchants and businesses."
+                  - generic [ref=e243]: Requires product growth, lifecycle marketing, app growth, analytics, experimentation, segmentation, personalization, AI capabilities, strategic thinking, and people-management experience.
+                  - generic [ref=e247]: A/B testing, AI
+              - generic [ref=e253]:
+                - generic [ref=e254]:
+                  - link "Job Posting" [ref=e255] [cursor=pointer]:
+                    - /url: /job/growth-management-senior-manager-paytm-for-business-paytm-payment-wcm55bf0xp0ccvv4
+                  - generic [ref=e259]:
+                    - button "Previous job at this company" [disabled] [ref=e260]
+                    - generic [ref=e263]:
+                      - button "Show job 1" [ref=e265] [cursor=pointer]
+                      - button "Show job 2" [ref=e267] [cursor=pointer]
+                      - button "Show job 3" [ref=e269] [cursor=pointer]
+                      - button "Show job 4" [ref=e271] [cursor=pointer]
+                    - button "Next job at this company" [ref=e272] [cursor=pointer]
+                  - button "View all" [ref=e275] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e277] [cursor=pointer]
+            - generic [ref=e286]:
+              - generic [ref=e287]:
+                - generic [ref=e288]:
+                  - generic [ref=e289]: 3mo
+                  - generic [ref=e293]: Growth Intern - Nek
+                  - generic [ref=e295]: Bengaluru, Karnataka, India
+                  - generic [ref=e300]:
+                    - generic [ref=e301]: Onsite
+                    - generic [ref=e302]: Part Time
+                - generic [ref=e303]:
+                  - generic [ref=e304]:
+                    - img "Jar" [ref=e307]
+                    - generic [ref=e308]: "Jar: Indian fintech savings app helping Indians save and invest in digital gold from ₹10."
+                  - generic [ref=e309]: Bachelor’s degree in engineering, math, statistics, or related field, or an MBA; strong Excel/Google Sheets proficiency; analytical, creative, adaptable, and eager to learn product analytics.
+                  - generic [ref=e313]: A/B, Microsoft Excel, Google Sheets, Plotline, CleverTap
+              - generic [ref=e319]:
+                - generic [ref=e320]:
+                  - link "Job Posting" [ref=e321] [cursor=pointer]:
+                    - /url: /job/growth-intern-nek-jar-bengaluru-karnataka-6528dk1iurb4rlr9
+                  - link "View all" [ref=e325] [cursor=pointer]:
+                    - /url: /org/myjar.app?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e327] [cursor=pointer]
+            - generic [ref=e336]:
+              - generic [ref=e337]:
+                - generic [ref=e338]:
+                  - generic [ref=e339]: 5y
+                  - generic [ref=e343]: Growth Marketer
+                  - generic [ref=e345]: Mira Bhayandar, MH, India
+                  - generic [ref=e350]:
+                    - generic [ref=e351]: Remote
+                    - generic [ref=e352]: Full Time
+                - generic [ref=e353]:
+                  - generic [ref=e354]:
+                    - img "TexAu" [ref=e357]
+                    - generic [ref=e358]: "TexAu: Private GTM software helping agencies, founders, and sales teams automate lead enrichment and CRM syncing."
+                  - generic [ref=e359]: Experience in Growth Marketing, strong understanding of marketing funnels, and ability to identify growth opportunities.
+                  - generic [ref=e363]: SEO, marketing automation tools, data science
+              - generic [ref=e369]:
+                - generic [ref=e370]:
+                  - link "Job Posting" [ref=e371] [cursor=pointer]:
+                    - /url: /job/growth-marketer-texau-mira-bhayandar-mh-ljp0f8dxgu8aka8v
+                  - link "View all" [ref=e375] [cursor=pointer]:
+                    - /url: /org/texau.com?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e377] [cursor=pointer]
+            - generic [ref=e386]:
+              - generic [ref=e387]:
+                - generic [ref=e388]:
+                  - generic [ref=e389]: 5y
+                  - generic [ref=e393]: VP, Growth
+                  - generic [ref=e395]: Nagpur, Maharashtra, India
+                  - generic [ref=e400]:
+                    - generic [ref=e401]: Onsite
+                    - generic [ref=e402]: Full Time
+                - generic [ref=e403]:
+                  - generic [ref=e404]:
+                    - img "LUCID Implants" [ref=e407]
+                    - generic [ref=e408]: "LUCID Implants: Indian medical-device manufacturer creating patient-specific 3D-printed cranial, maxillofacial, and orthopedic implants for surgeons."
+                  - generic [ref=e412]:
+                    - generic [ref=e413]: 5+ YOE
+                    - text: 5+ years in sales/marketing or growth in medical devices; entrepreneurial, capable of building initiatives from scratch; strong communication with executives; travel willingness.
+              - generic [ref=e414]:
+                - generic [ref=e415]:
+                  - link "Job Posting" [ref=e416] [cursor=pointer]:
+                    - /url: /job/vp-growth-lucid-implants-nagpur-maharashtra-zat695oxpay141v1
+                  - link "View all" [ref=e420] [cursor=pointer]:
+                    - /url: /org/lucidimplants.com?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e422] [cursor=pointer]
+            - generic [ref=e433]:
+              - generic [ref=e434]:
+                - generic [ref=e435]:
+                  - generic [ref=e436]: 4mo
+                  - generic [ref=e440]: Growth Lead
+                  - generic [ref=e442]: Bengaluru, Karnataka, India
+                  - generic [ref=e447]:
+                    - generic [ref=e448]: Onsite
+                    - generic [ref=e449]: Full Time
+                - generic [ref=e450]:
+                  - generic [ref=e451]:
+                    - img "Emergent" [ref=e454]
+                    - generic [ref=e455]: "Emergent: Venture-backed AI app builder helping entrepreneurs and businesses create production-ready web and mobile software from plain-language prompts."
+                  - generic [ref=e459]:
+                    - generic [ref=e460]: 5+ YOE
+                    - text: 5+ years experience (5–7 preferred), product/consumer-tech growth or subscription background, strong ownership, excellent cross-functional communication, management or function-running experience.
+              - generic [ref=e461]:
+                - generic [ref=e462]:
+                  - link "Job Posting" [ref=e463] [cursor=pointer]:
+                    - /url: /job/growth-lead-emergent-bengaluru-karnataka-3ujvlulx04xr5fxm
+                  - generic [ref=e467]:
+                    - button "Previous job at this company" [disabled] [ref=e468]
+                    - generic [ref=e471]:
+                      - button "Show job 1" [ref=e473] [cursor=pointer]
+                      - button "Show job 2" [ref=e475] [cursor=pointer]
+                      - button "Show job 3" [ref=e477] [cursor=pointer]
+                      - button "Show job 4" [ref=e479] [cursor=pointer]
+                    - button "Next job at this company" [ref=e480] [cursor=pointer]
+                  - button "View all" [ref=e483] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e485] [cursor=pointer]
+            - generic [ref=e496]:
+              - generic [ref=e497]:
+                - generic [ref=e498]:
+                  - generic [ref=e499]: 10mo
+                  - generic [ref=e503]: Growth Management
+                  - generic [ref=e505]: Gurugram, Haryana, India
+                  - generic [ref=e510]:
+                    - generic [ref=e511]: Onsite
+                    - generic [ref=e512]: Full Time
+                - generic [ref=e513]:
+                  - generic [ref=e514]:
+                    - img "Paytm Payment Services Limited" [ref=e517]
+                    - generic [ref=e518]: "Paytm Payment Services Limited: Indian payment aggregator providing online, offline, and cross-border payment gateway services to merchants and businesses."
+                  - generic [ref=e522]:
+                    - generic [ref=e523]: 10+ YOE
+                    - text: Requires 10–15 years of experience in growth management or a related business function.
+              - generic [ref=e524]:
+                - generic [ref=e525]:
+                  - link "Job Posting" [ref=e526] [cursor=pointer]:
+                    - /url: /job/growth-management-paytm-payment-services-limited-gurugram-haryana-ujuhhkyc0mq9uzqd
+                  - generic [ref=e530]:
+                    - button "Previous job at this company" [disabled] [ref=e531]
+                    - generic [ref=e534]:
+                      - button "Show job 1" [ref=e536] [cursor=pointer]
+                      - button "Show job 2" [ref=e538] [cursor=pointer]
+                      - button "Show job 3" [ref=e540] [cursor=pointer]
+                    - button "Next job at this company" [ref=e541] [cursor=pointer]
+                  - button "View all" [ref=e544] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e546] [cursor=pointer]
+            - generic [ref=e555]:
+              - generic [ref=e556]:
+                - generic [ref=e557]:
+                  - generic [ref=e558]: 1y
+                  - generic [ref=e562]: Growth Associate
+                  - generic [ref=e564]: Bangalore, Karnataka, India
+                  - generic [ref=e569]:
+                    - generic [ref=e570]: Onsite
+                    - generic [ref=e571]: Full Time
+                - generic [ref=e572]:
+                  - generic [ref=e573]:
+                    - img "PensionBox" [ref=e576]
+                    - generic [ref=e577]: "PensionBox: Digital pension platform helping Indian private employees, employers, and individuals open, manage, and track NPS accounts."
+                  - generic [ref=e581]:
+                    - generic [ref=e582]: 0+ YOE
+                    - text: Fresh graduates with 0-1 year experience in growth, research, or sales roles preferred.
+              - generic [ref=e583]:
+                - generic [ref=e584]:
+                  - link "Job Posting" [ref=e585] [cursor=pointer]:
+                    - /url: /job/growth-associate-pensionbox-bangalore-karnataka-c3bqz70mi7gi7w92
+                  - link "View all" [ref=e589] [cursor=pointer]:
+                    - /url: /org/pensionbox.in?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e591] [cursor=pointer]
+            - generic [ref=e600]:
+              - generic [ref=e601]:
+                - generic [ref=e602]:
+                  - generic [ref=e603]: 1y
+                  - generic [ref=e607]: Growth IC (SEO)
+                  - generic [ref=e609]: New Delhi, Delhi, India
+                  - generic [ref=e614]:
+                    - generic [ref=e615]: Onsite
+                    - generic [ref=e616]: Full Time
+                - generic [ref=e617]:
+                  - generic [ref=e618]:
+                    - img "Anuvaya Labs" [ref=e621]
+                    - generic [ref=e622]: "Anuvaya Labs: Indian software building conversational-AI agents for professional services, starting with a Vedic astrology app."
+                  - generic [ref=e626]:
+                    - generic [ref=e627]: 3+ YOE
+                    - text: 3+ years in SEO or organic growth with proven user acquisition impact. Strong technical SEO, data-driven mindset, and ability to work with engineers.
+                  - generic [ref=e628]: Google Analytics, Screaming Frog, Ahrefs, Google Search Console, Schema.org, CMS tooling
+              - generic [ref=e634]:
+                - generic [ref=e635]:
+                  - link "Job Posting" [ref=e636] [cursor=pointer]:
+                    - /url: /job/growth-ic-seo-anuvaya-labs-new-delhi-delhi-avxjblhogx3ahgt8
+                  - link "View all" [ref=e640] [cursor=pointer]:
+                    - /url: /org/anuvaya.com?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e642] [cursor=pointer]
+            - generic [ref=e652]:
+              - generic [ref=e653]:
+                - generic [ref=e654]:
+                  - generic [ref=e655]: 1y
+                  - generic [ref=e659]: Product Growth Marketer
+                  - generic [ref=e661]: New Delhi, Delhi, India
+                  - generic [ref=e666]:
+                    - generic [ref=e667]: Onsite
+                    - generic [ref=e668]: Full Time
+                - generic [ref=e669]:
+                  - generic [ref=e670]:
+                    - img "Hubhopper" [ref=e673]
+                    - generic [ref=e674]: "Hubhopper: Indian podcast hosting, creation, and distribution platform serving creators, businesses, brands, and enterprises."
+                  - generic [ref=e678]:
+                    - generic [ref=e679]: 2+ YOE
+                    - text: 2 years growth/marketing experience; proficient with SQL, GA4, Mixpanel; lifecycle marketing, A/B testing, data-driven growth
+                  - generic [ref=e680]: SQL, GA4, Mixpanel, Looker Studio
+              - generic [ref=e686]:
+                - generic [ref=e687]:
+                  - link "Job Posting" [ref=e688] [cursor=pointer]:
+                    - /url: /job/product-growth-marketer-hubhopper-new-delhi-delhi-g4xhoequy989fhvs
+                  - generic [ref=e692]:
+                    - button "Previous job at this company" [disabled] [ref=e693]
+                    - generic [ref=e696]:
+                      - button "Show job 1" [ref=e698] [cursor=pointer]
+                      - button "Show job 2" [ref=e700] [cursor=pointer]
+                    - button "Next job at this company" [ref=e701] [cursor=pointer]
+                  - button "View all" [ref=e704] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e706] [cursor=pointer]
+            - generic [ref=e715]:
+              - generic [ref=e716]:
+                - generic [ref=e717]:
+                  - generic [ref=e718]: 2mo
+                  - generic [ref=e722]: Growth Manager
+                  - generic [ref=e724]: Bangalore, Karnataka, India
+                  - generic [ref=e729]:
+                    - generic [ref=e730]: Onsite
+                    - generic [ref=e731]: Full Time
+                - generic [ref=e732]:
+                  - generic [ref=e733]:
+                    - img "BrandCrest Holdings" [ref=e736]
+                    - generic [ref=e737]: "BrandCrest Holdings: Indian business enablement group helping startups and SMEs grow through AI software, integrated advertising, and CFO services."
+                  - generic [ref=e741]:
+                    - generic [ref=e742]: 2+ YOE
+                    - text: 2-3 years in growth, performance marketing, or demand generation with significant B2B SaaS experience; proven track record owning growth funnel and moving core metrics; hands-on with paid acquisition, SEO, lifecycle/email marketing, and analytics tools like GA4, HubSpot/Zoho, Mixpanel/Amplitude, Meta/Google Ads.
+                  - generic [ref=e743]: GA4, HubSpot, Zoho, Mixpanel, Amplitude, Meta Ads, Google Ads
+              - generic [ref=e749]:
+                - generic [ref=e750]:
+                  - link "Job Posting" [ref=e751] [cursor=pointer]:
+                    - /url: /job/growth-manager-brandcrest-holdings-bangalore-karnataka-8m4ymgm3g25d0klt
+                  - link "View all" [ref=e755] [cursor=pointer]:
+                    - /url: /org/brandcrest.in?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e757] [cursor=pointer]
+            - generic [ref=e766]:
+              - generic [ref=e767]:
+                - generic [ref=e768]:
+                  - generic [ref=e769]: 1y
+                  - generic [ref=e773]: Growth Marketer
+                  - generic [ref=e775]: Pune, Maharashtra, India
+                  - generic [ref=e780]:
+                    - generic [ref=e781]: Onsite
+                    - generic [ref=e782]: Full Time
+                - generic [ref=e783]:
+                  - generic [ref=e784]:
+                    - img "Wynploy" [ref=e787]
+                    - generic [ref=e788]: "Wynploy: India-based talent acquisition and recruitment firm placing elite engineering candidates with employers."
+                  - generic [ref=e792]:
+                    - generic [ref=e793]: 2+ YOE
+                    - text: Bachelor's in Marketing/Business; 1-3 years growth/digital marketing; analytics/A/B testing tools; data-driven; SEO/PPC/email; strong communication.
+                  - generic [ref=e794]: Google Analytics, Mixpanel, Amplitude, CRM, Excel, SQL, Python
+              - generic [ref=e800]:
+                - generic [ref=e801]:
+                  - link "Job Posting" [ref=e802] [cursor=pointer]:
+                    - /url: /job/growth-marketer-wynploy-pune-maharashtra-9xvc9jwadbfzva6r
+                  - link "View all" [ref=e806] [cursor=pointer]:
+                    - /url: /org/wynploy.com?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e808] [cursor=pointer]
+            - generic [ref=e817]:
+              - generic [ref=e818]:
+                - generic [ref=e819]:
+                  - generic [ref=e820]: 6mo
+                  - generic [ref=e824]: Growth Manager
+                  - generic [ref=e826]: Delhi, Delhi, India
+                  - generic [ref=e831]:
+                    - generic [ref=e832]: Onsite
+                    - generic [ref=e833]: Full Time
+                - generic [ref=e834]:
+                  - generic [ref=e835]:
+                    - img "Atlys" [ref=e838]
+                    - generic [ref=e839]: "Atlys: AI-powered visa processing platform helping travelers plan, apply for, and track visas across destinations."
+                  - generic [ref=e843]:
+                    - generic [ref=e844]: 3+ YOE
+                    - text: Requires 3–6 years in growth, category expansion, or similar startup roles, acquisition-channel scaling experience, experimentation skills, budget ownership, negotiation, and partnership-building abilities.
+              - generic [ref=e845]:
+                - generic [ref=e846]:
+                  - link "Job Posting" [ref=e847] [cursor=pointer]:
+                    - /url: /job/growth-manager-atlys-delhi-delhi-oyb0iiq8ro73nzml
+                  - link "View all" [ref=e851] [cursor=pointer]:
+                    - /url: /org/atlys.com?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e853] [cursor=pointer]
+            - generic [ref=e863]:
+              - generic [ref=e864]:
+                - generic [ref=e865]:
+                  - generic [ref=e866]: 1y
+                  - generic [ref=e870]: Growth Analyst
+                  - generic [ref=e872]: Hyderabad, Telangana, India
+                  - generic [ref=e877]:
+                    - generic [ref=e878]: ₹3500k/yr
+                    - generic [ref=e879]: Onsite
+                    - generic [ref=e880]: Full Time
+                - generic [ref=e881]:
+                  - generic [ref=e882]:
+                    - img "Saras Analytics" [ref=e885]
+                    - generic [ref=e886]: "Saras Analytics: AI agents for eCommerce data, built on 200+ data connectors. Trusted answers, not hallucinations."
+                  - generic [ref=e890]:
+                    - generic [ref=e891]: 3+ YOE
+                    - text: 3-5+ years in growth/ecommerce analytics; strong data analysis, ability to translate data into insights; knowledge of e-commerce KPIs; SQL and BI tools; cross-functional collaboration.
+                  - generic [ref=e892]: SQL, BI tools
+              - generic [ref=e898]:
+                - generic [ref=e899]:
+                  - link "Job Posting" [ref=e900] [cursor=pointer]:
+                    - /url: /job/growth-analyst-saras-analytics-hyderabad-telangana-0vh3cbxoh8d3hgst
+                  - generic [ref=e904]:
+                    - button "Previous job at this company" [disabled] [ref=e905]
+                    - generic [ref=e908]:
+                      - button "Show job 1" [ref=e910] [cursor=pointer]
+                      - button "Show job 2" [ref=e912] [cursor=pointer]
+                    - button "Next job at this company" [ref=e913] [cursor=pointer]
+                  - button "View all" [ref=e916] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e918] [cursor=pointer]
+            - generic [ref=e928]:
+              - generic [ref=e929]:
+                - generic [ref=e930]:
+                  - generic [ref=e931]: 5mo
+                  - generic [ref=e935]: Growth Manager
+                  - generic [ref=e937]: Ahmedabad, Gujarat, India
+                  - generic [ref=e942]:
+                    - generic [ref=e943]: Onsite
+                    - generic [ref=e944]: Full Time
+                - generic [ref=e945]:
+                  - generic [ref=e946]:
+                    - img "Dermatouch" [ref=e949]
+                    - generic [ref=e950]: "Dermatouch: Indian dermocosmetics brand making dermatologically tested skincare products for people with skin concerns."
+                  - generic [ref=e954]:
+                    - generic [ref=e955]: 4+ YOE
+                    - text: 4–7 years in D2C/e-commerce growth or performance marketing; hands-on with Shopify and marketplaces; experience with paid acquisition, funnel optimization, A/B testing, and analytics (GA4, Excel, Data Studio).
+                  - generic [ref=e956]: Shopify, Amazon Seller Central, Flipkart, Nykaa, Meta, Google, WebEngage, MoEngage, Klaviyo, Hotjar, Google Optimize, GA4, Excel, Data Studio, Unicommerce, Razorpay, AMS
+              - generic [ref=e962]:
+                - generic [ref=e963]:
+                  - link "Job Posting" [ref=e964] [cursor=pointer]:
+                    - /url: /job/growth-manager-dermatouch-ahmedabad-gujarat-fbsjlvxeofegffp1
+                  - generic [ref=e968]:
+                    - button "Previous job at this company" [disabled] [ref=e969]
+                    - generic [ref=e972]:
+                      - button "Show job 1" [ref=e974] [cursor=pointer]
+                      - button "Show job 2" [ref=e976] [cursor=pointer]
+                    - button "Next job at this company" [ref=e977] [cursor=pointer]
+                  - button "View all" [ref=e980] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e982] [cursor=pointer]
+            - generic [ref=e991]:
+              - generic [ref=e992]:
+                - generic [ref=e993]:
+                  - generic [ref=e994]: 4mo
+                  - generic [ref=e998]: Growth Head
+                  - generic [ref=e1000]: Pune, Maharashtra, India
+                  - generic [ref=e1005]:
+                    - generic [ref=e1006]: Onsite
+                    - generic [ref=e1007]: Full Time
+                - generic [ref=e1008]:
+                  - generic [ref=e1009]:
+                    - img "Repos Energy" [ref=e1012]
+                    - generic [ref=e1013]: "Repos Energy: Indian fuel-management technology helping businesses procure, monitor, and pay for fuel through IoT-enabled distribution."
+                  - generic [ref=e1017]:
+                    - generic [ref=e1018]: 10+ YOE
+                    - text: 10+ years experience in growth, revenue, GTM or business development; proven scaling track record; strong commercial acumen, analytics, and cross-functional leadership; experience in startups, SaaS, logistics, mobility, energy or IoT preferred.
+              - generic [ref=e1019]:
+                - generic [ref=e1020]:
+                  - link "Job Posting" [ref=e1021] [cursor=pointer]:
+                    - /url: /job/growth-head-repos-energy-pune-maharashtra-qjy0gwntkanpso1p
+                  - link "View all" [ref=e1025] [cursor=pointer]:
+                    - /url: /org/reposenergy.com?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e1027] [cursor=pointer]
+            - generic [ref=e1036]:
+              - generic [ref=e1037]:
+                - generic [ref=e1038]:
+                  - generic [ref=e1039]: 1mo
+                  - generic [ref=e1043]: Growth Marketer
+                  - generic [ref=e1045]: Pune, Maharashtra, India
+                  - generic [ref=e1050]:
+                    - generic [ref=e1051]: Onsite
+                    - generic [ref=e1052]: Full Time
+                - generic [ref=e1053]:
+                  - generic [ref=e1054]:
+                    - img "Intangles" [ref=e1057]
+                    - generic [ref=e1058]: "Intangles: Indian fleet-intelligence providing AI predictive maintenance and vehicle analytics to commercial fleet operators."
+                  - generic [ref=e1062]:
+                    - generic [ref=e1063]: 4+ YOE
+                    - text: 4-7 years B2B growth/performance/SEO experience, 2+ in B2B SaaS; hands-on Google Ads and LinkedIn Ads; strong technical SEO; AEO/GEO knowledge; CRM fluency; analytical discipline; AI-native working habits.
+                  - generic [ref=e1064]: Google Ads, LinkedIn Ads, Meta, GA4, Google Search Console, Microsoft Clarity, HubSpot, Supermetrics, Google Sheets, Looker Studio, Ahrefs, Semrush, Screaming Frog, ChatGPT, Gemini, Perplexity, Claude, Google AI Overviews, ZoomInfo, Apollo, Python, Apps Script
+              - generic [ref=e1070]:
+                - generic [ref=e1071]:
+                  - link "Job Posting" [ref=e1072] [cursor=pointer]:
+                    - /url: /job/growth-marketer-intangles-pune-maharashtra-evhp4kfl2iilw9qw
+                  - link "View all" [ref=e1076] [cursor=pointer]:
+                    - /url: /org/intangles.ai?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e1078] [cursor=pointer]
+            - generic [ref=e1089]:
+              - generic [ref=e1090]:
+                - generic [ref=e1091]:
+                  - generic [ref=e1092]: 11mo
+                  - generic [ref=e1096]: Team Lead- Growth & Marketing
+                  - generic [ref=e1098]: Gurugram or Haryana
+                  - generic [ref=e1103]:
+                    - generic [ref=e1104]: Onsite
+                    - generic [ref=e1105]: Full Time
+                - generic [ref=e1106]:
+                  - generic [ref=e1107]:
+                    - img "CashKaro" [ref=e1110]
+                    - generic [ref=e1111]: "CashKaro: Indian cashback and coupons platform that helps online shoppers earn money through purchases at partner retailers."
+                  - generic [ref=e1115]:
+                    - generic [ref=e1116]: 5+ YOE
+                    - text: Requires 5–6 years in growth or marketing for Indian B2C consumer apps, measurable growth ownership, Excel and analytics skills, experimentation experience, cross-functional collaboration, Clevertap, and SQL.
+                  - generic [ref=e1117]: Microsoft Excel, Clevertap, SQL
+              - generic [ref=e1123]:
+                - generic [ref=e1124]:
+                  - link "Job Posting" [ref=e1125] [cursor=pointer]:
+                    - /url: /job/team-lead-growth-and-marketing-cashkaro-gurugram-haryana-t1ym6d16t8bigexr
+                  - generic [ref=e1129]:
+                    - button "Previous job at this company" [disabled] [ref=e1130]
+                    - generic [ref=e1133]:
+                      - button "Show job 1" [ref=e1135] [cursor=pointer]
+                      - button "Show job 2" [ref=e1137] [cursor=pointer]
+                      - button "Show job 3" [ref=e1139] [cursor=pointer]
+                      - button "Show job 4" [ref=e1141] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1142] [cursor=pointer]
+                  - button "View all" [ref=e1145] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1147] [cursor=pointer]
+            - generic [ref=e1156]:
+              - generic [ref=e1157]:
+                - generic [ref=e1158]:
+                  - generic [ref=e1159]: 8mo
+                  - generic [ref=e1163]: Head of Growth
+                  - generic [ref=e1165]: Mumbai or Maharashtra
+                  - generic [ref=e1170]:
+                    - generic [ref=e1171]: Onsite
+                    - generic [ref=e1172]: Full Time
+                - generic [ref=e1173]:
+                  - generic [ref=e1174]:
+                    - img "QuickSell" [ref=e1177]
+                    - generic [ref=e1178]: "QuickSell: WhatsApp-first conversational commerce and digital catalog tools for businesses"
+                  - generic [ref=e1182]:
+                    - generic [ref=e1183]: 7+ YOE
+                    - text: Requires 7–12+ years in growth, marketing, or SaaS revenue roles; proven B2B SaaS growth scaling, funnel and experimentation expertise, cross-functional experience, and data-driven leadership.
+                  - generic [ref=e1184]: SEO, HubSpot, Segment, Amplitude, Mixpanel, Google Analytics
+              - generic [ref=e1190]:
+                - generic [ref=e1191]:
+                  - link "Job Posting" [ref=e1192] [cursor=pointer]:
+                    - /url: /job/head-of-growth-quicksell-mumbai-maharashtra-ekrje92hcf0d261e
+                  - link "View all" [ref=e1196] [cursor=pointer]:
+                    - /url: /org/quicksell.co?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e1198] [cursor=pointer]
+            - generic [ref=e1207]:
+              - generic [ref=e1208]:
+                - generic [ref=e1209]:
+                  - generic [ref=e1210]: 4mo
+                  - generic [ref=e1214]: Growth Marketing Lead
+                  - generic [ref=e1216]: United States or India
+                  - generic [ref=e1221]:
+                    - generic [ref=e1222]: Remote
+                    - generic [ref=e1223]: Full Time
+                - generic [ref=e1224]:
+                  - generic [ref=e1225]:
+                    - img "Finn" [ref=e1228]
+                    - generic [ref=e1229]: "Finn: Finn is a private Indian enterprise voice-AI platform helping businesses automate inbound and outbound customer calls."
+                  - generic [ref=e1233]:
+                    - generic [ref=e1234]: 4+ YOE
+                    - text: Requires 4+ years of B2B SaaS growth or demand generation experience and strong analytics skills; full-funnel marketing experience required. Developer, AI, or infrastructure audiences are a bonus.
+              - generic [ref=e1235]:
+                - generic [ref=e1236]:
+                  - link "Job Posting" [ref=e1237] [cursor=pointer]:
+                    - /url: /job/growth-marketing-lead-finn-united-states-y7pf4iddawcueief
+                  - link "View all" [ref=e1241] [cursor=pointer]:
+                    - /url: /org/hirefinn.ai?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e1243] [cursor=pointer]
+            - generic [ref=e1252]:
+              - generic [ref=e1253]:
+                - generic [ref=e1254]:
+                  - generic [ref=e1255]: 3w
+                  - generic [ref=e1259]: Head of Growth
+                  - generic [ref=e1261]: Africa or Asia or Australia or Europe or North America or South America
+                  - generic [ref=e1266]:
+                    - generic [ref=e1267]: Remote
+                    - generic [ref=e1268]: Full Time
+                - generic [ref=e1269]:
+                  - generic [ref=e1270]:
+                    - img "Calo" [ref=e1273]
+                    - generic [ref=e1274]: "Calo: Private Saudi food-tech delivering chef-prepared, personalized meal subscriptions to health-conscious customers."
+                  - generic [ref=e1278]:
+                    - generic [ref=e1279]: 8+ YOE
+                    - text: 8-12+ years growth leadership, direct subscription DTC experience, $100M+ revenue scale, $10M+ annual marketing budgets, incrementality testing, growth analytics, commercial fluency in contribution margin and payback modeling.
+              - generic [ref=e1280]:
+                - generic [ref=e1281]:
+                  - link "Job Posting" [ref=e1282] [cursor=pointer]:
+                    - /url: /job/head-of-growth-calo-africa-7t8zuzor549t9yer
+                  - link "View all" [ref=e1286] [cursor=pointer]:
+                    - /url: /org/calo.app?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e1288] [cursor=pointer]
+            - generic [ref=e1297]:
+              - generic [ref=e1298]:
+                - generic [ref=e1299]:
+                  - generic [ref=e1300]: 2mo
+                  - generic [ref=e1304]: Digital Growth Analyst
+                  - generic [ref=e1306]: Surat, Gujarat, India
+                  - generic [ref=e1311]:
+                    - generic [ref=e1312]: Onsite
+                    - generic [ref=e1313]: Full Time
+                - generic [ref=e1314]:
+                  - generic [ref=e1315]:
+                    - img "OptimumBrew Technology" [ref=e1318]
+                    - generic [ref=e1319]: "OptimumBrew Technology: Indian product-based software building marketing tools and mobile apps for businesses worldwide."
+                  - generic [ref=e1323]:
+                    - generic [ref=e1324]: 3+ YOE
+                    - text: Bachelor’s degree in a relevant field and 3–8 years in product or growth marketing. Requires acquisition-channel optimization, analytics platforms, A/B testing, analytical problem-solving, and cross-functional collaboration.
+                  - generic [ref=e1325]: Mixpanel, Firebase, Looker Studio, Google Ads, Apple Search Ads, Meta Ads, Firebase Analytics, Google Analytics 4 (GA4)
+              - generic [ref=e1331]:
+                - generic [ref=e1332]:
+                  - link "Job Posting" [ref=e1333] [cursor=pointer]:
+                    - /url: /job/digital-growth-analyst-optimumbrew-technology-surat-gujarat-6xhrqcj2al3c10ht
+                  - link "View all" [ref=e1337] [cursor=pointer]:
+                    - /url: /org/optimumbrew.com?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e1339] [cursor=pointer]
+            - generic [ref=e1348]:
+              - generic [ref=e1349]:
+                - generic [ref=e1350]:
+                  - generic [ref=e1351]: 2mo
+                  - generic [ref=e1355]: Founding Growth Marketer
+                  - generic [ref=e1357]: United Kingdom or Italy or Milan or Portland or Australia or Salt Lake City or Washington or Toulouse or Oran or Tunis or Algiers or Oslo or Lisbon or Minneapolis or Astana or Malaysia or Costa Rica or India or Los Angeles or Puerto Rico or Hanoi or Lille or Columbus or Houston or Phoenix or Warsaw or Taipei or Detroit or Nice or Manila or Dublin or Vienna or Beijing or Bangkok or Helsinki or Lima or Montpellier or Athens or Dallas or San Francisco or Buenos Aires or Austin or Nantes or Mexico City or Indonesia or Strasbourg or Aix-en-Provence or Tampa or Angers or Copenhagen or United States or Nashville or Chicago or Dominican Republic or Brussels or Riyadh or Paris or London or Toulon or San Jose or Istanbul or Rennes or Santiago or San Diego or Orlando or Dijon or Hawaii or New York City or Boston or Charlotte or Berlin or Quito or Constantine or Seattle or Seoul or Bern or Philadelphia or Bucharest or Fort Worth or Lyon or Jacksonville or Atlanta or Bogotá or Bordeaux or Marseille or Nîmes or Brazil or Sweden or Canada or Reims or Indianapolis or Annaba or Amsterdam or Miami or Israel or Las Vegas or France or Cannes or Denver or Dubai or South Africa or Wellington or Morocco or Tokyo or Madrid or San Antonio or Europe or New Orleans or Annecy or Zagreb or Grenoble
+                  - generic [ref=e1362]:
+                    - generic [ref=e1363]: Remote
+                    - generic [ref=e1364]: Full Time
+                - generic [ref=e1365]:
+                  - generic [ref=e1366]:
+                    - img "Base360.AI" [ref=e1369]
+                    - generic [ref=e1370]: "Base360.AI: AI-powered short-term-rental property-management software for professional short-let operators."
+                  - generic [ref=e1371]: Hands-on growth marketer with experience in paid ads, SEO, outbound, content, lifecycle marketing, or partnerships; AI-savvy; analytical; self-directed; bonus for B2B SaaS or short-term rental experience.
+              - generic [ref=e1375]:
+                - generic [ref=e1376]:
+                  - link "Job Posting" [ref=e1377] [cursor=pointer]:
+                    - /url: /job/founding-growth-marketer-base360-ai-milan-lombardy-ecdrj8xj6ie8otl8
+                  - link "View all" [ref=e1381] [cursor=pointer]:
+                    - /url: /org/base360.ai?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e1383] [cursor=pointer]
+            - generic [ref=e1393]:
+              - generic [ref=e1394]:
+                - generic [ref=e1395]:
+                  - generic [ref=e1396]: 5mo
+                  - generic [ref=e1400]: PLG Growth Manager
+                  - generic [ref=e1402]: Bangalore, Karnataka, India
+                  - generic [ref=e1407]:
+                    - generic [ref=e1408]: Onsite
+                    - generic [ref=e1409]: Full Time
+                - generic [ref=e1410]:
+                  - generic [ref=e1411]:
+                    - img "Hevo Data" [ref=e1414]
+                    - generic [ref=e1415]: "Hevo Data: The Only True ELT for AI-ready Data."
+                  - generic [ref=e1419]:
+                    - generic [ref=e1420]: 4+ YOE
+                    - text: 4+ years in Product Marketing, Growth, or PLG at B2B SaaS with ownership of trial/self-serve conversion; strong behavioral analytics, experimentation, lifecycle marketing, technical writing, and ability to work with data practitioners.
+                  - generic [ref=e1421]: Amplitude, Mixpanel, PostHog, Hotjar, FullStory, Appcues, Pendo, Customer.io, Braze, Arcade, Navattic, Storylane, HTML, CSS
+              - generic [ref=e1427]:
+                - generic [ref=e1428]:
+                  - link "Job Posting" [ref=e1429] [cursor=pointer]:
+                    - /url: /job/plg-growth-manager-hevo-data-bangalore-karnataka-zsr6ghrhiqzii28b
+                  - generic [ref=e1433]:
+                    - button "Previous job at this company" [disabled] [ref=e1434]
+                    - generic [ref=e1437]:
+                      - button "Show job 1" [ref=e1439] [cursor=pointer]
+                      - button "Show job 2" [ref=e1441] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1442] [cursor=pointer]
+                  - button "View all" [ref=e1445] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1447] [cursor=pointer]
+            - generic [ref=e1456]:
+              - generic [ref=e1457]:
+                - generic [ref=e1458]:
+                  - generic [ref=e1459]: 2w
+                  - generic [ref=e1463]: Growth Strategy & Analyst
+                  - generic [ref=e1465]: Kochi, Kerala, India
+                  - generic [ref=e1470]:
+                    - generic [ref=e1471]: Onsite
+                    - generic [ref=e1472]: Full Time
+                - generic [ref=e1473]:
+                  - generic [ref=e1474]:
+                    - img "KeyValue Software Systems" [ref=e1477]
+                    - generic [ref=e1478]: "KeyValue Software Systems: AI-powered product engineering building end-to-end software products for startups and scale-ups."
+                  - generic [ref=e1482]:
+                    - generic [ref=e1483]: 3+ YOE
+                    - text: 3-5 years in growth analytics or related roles; strong marketing analytics and sales funnel understanding; proficiency in Excel/Google Sheets, SQL, and data visualization tools; familiarity with growth metrics; analytical and problem-solving skills.
+                  - generic [ref=e1484]: Microsoft Excel, Google Sheets, SQL, Power BI, Tableau, Looker Studio, HubSpot, Salesforce, Google Analytics, Mixpanel, Amplitude
+              - generic [ref=e1490]:
+                - generic [ref=e1491]:
+                  - link "Job Posting" [ref=e1492] [cursor=pointer]:
+                    - /url: /job/growth-strategy-and-analyst-keyvalue-software-systems-kochi-kerala-t89ba4qi23aasrfb
+                  - link "View all" [ref=e1496] [cursor=pointer]:
+                    - /url: /org/keyvalue.systems?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e1498] [cursor=pointer]
+            - generic [ref=e1507]:
+              - generic [ref=e1508]:
+                - generic [ref=e1509]:
+                  - generic [ref=e1510]: 3y
+                  - generic [ref=e1514]: Growth Hacker - Remote Job
+                  - generic [ref=e1516]: India
+                  - generic [ref=e1521]:
+                    - generic [ref=e1522]: Remote
+                    - generic [ref=e1523]: Full Time
+                - generic [ref=e1524]:
+                  - generic [ref=e1525]:
+                    - img "Enthu.ai" [ref=e1528]
+                    - generic [ref=e1529]: "Enthu.ai: Agentic AI for contact center intelligence."
+                  - generic [ref=e1533]:
+                    - generic [ref=e1534]: 1+ YOE
+                    - text: Proven digital marketing expertise with analytical skills; experience with marketing automation, A/B testing, and growth strategies.
+                  - generic [ref=e1535]: Marketing Automation, A/B Testing, Web Analytics, Data Visualization
+              - generic [ref=e1541]:
+                - generic [ref=e1542]:
+                  - link "Job Posting" [ref=e1543] [cursor=pointer]:
+                    - /url: /job/growth-hacker-remote-job-enthu-ai-india-is0i3t4s3xi9cml4
+                  - link "View all" [ref=e1547] [cursor=pointer]:
+                    - /url: /org/enthu.ai?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e1549] [cursor=pointer]
+            - generic [ref=e1560]:
+              - generic [ref=e1561]:
+                - generic [ref=e1562]:
+                  - generic [ref=e1563]: 2d
+                  - generic [ref=e1567]: Growth Manager I
+                  - generic [ref=e1569]: Kolkata, West Bengal, India +1 more
+                  - generic [ref=e1574]:
+                    - generic [ref=e1575]: Field
+                    - generic [ref=e1576]: Full Time
+                - generic [ref=e1577]:
+                  - generic [ref=e1578]:
+                    - img "Swiggy" [ref=e1581]
+                    - generic [ref=e1582]:
+                      - text: Swiggy
+                      - generic [ref=e1583]: "NSE: SWIGGY"
+                      - text: ": Indian public technology platform serving consumers with food delivery, quick-commerce groceries, dining reservations, and convenience services."
+                  - generic [ref=e1587]:
+                    - generic [ref=e1588]: 0+ YOE
+                    - text: 0-2 years in B2B sales, field sales, or business development; advanced Excel/Googlesheet skills; post-graduate degree preferred in marketing or sales; must own restaurant portfolio growth and conduct 80-90 in-person meetings monthly.
+                  - generic [ref=e1589]: Microsoft Excel, Google Sheets
+              - generic [ref=e1595]:
+                - generic [ref=e1596]:
+                  - link "Job Posting" [ref=e1597] [cursor=pointer]:
+                    - /url: /job/growth-manager-i-swiggy-kolkata-west-bengal-e47eiqksltg3jf4a
+                  - generic [ref=e1601]:
+                    - button "Previous job at this company" [disabled] [ref=e1602]
+                    - generic [ref=e1605]:
+                      - button "Show job 1" [ref=e1607] [cursor=pointer]
+                      - button "Show job 2" [ref=e1609] [cursor=pointer]
+                      - button "Show job 3" [ref=e1611] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1612] [cursor=pointer]
+                  - button "View all" [ref=e1615] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1617] [cursor=pointer]
+            - generic [ref=e1626]:
+              - generic [ref=e1627]:
+                - generic [ref=e1628]:
+                  - generic [ref=e1629]: 8mo
+                  - generic [ref=e1633]: Growth Leader – Middle Market
+                  - generic [ref=e1635]: Gurgaon, Haryana, India
+                  - generic [ref=e1640]:
+                    - generic [ref=e1641]: Onsite
+                    - generic [ref=e1642]: Full Time
+                - generic [ref=e1643]:
+                  - generic [ref=e1644]:
+                    - img "Veolia Water Technologies" [ref=e1647]
+                    - generic [ref=e1648]: "Veolia Water Technologies: Veolia Water Technologies is a Veolia subsidiary designing municipal and industrial drinking-water, wastewater, and sludge-treatment systems."
+                  - generic [ref=e1652]:
+                    - generic [ref=e1653]: 10+ YOE
+                    - text: Sell, retain and grow water treatment chemicals in middle market; develop growth strategy; manage pipeline; lead sales team.
+              - generic [ref=e1654]:
+                - generic [ref=e1655]:
+                  - link "Job Posting" [ref=e1656] [cursor=pointer]:
+                    - /url: /job/growth-leader-middle-market-veolia-water-technologies-gurgaon-haryana-hapa2ifukqi67mc4
+                  - link "View all" [ref=e1660] [cursor=pointer]:
+                    - /url: /org/veoliawatertechnologies.com?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e1662] [cursor=pointer]
+            - generic [ref=e1673]:
+              - generic [ref=e1674]:
+                - generic [ref=e1675]:
+                  - generic [ref=e1676]: 2mo
+                  - generic [ref=e1680]: credit card bill payments growth
+                  - generic [ref=e1682]: Bengaluru, Karnataka, India
+                  - generic [ref=e1687]:
+                    - generic [ref=e1688]: Onsite
+                    - generic [ref=e1689]: Full Time
+                - generic [ref=e1690]:
+                  - generic [ref=e1691]:
+                    - img "CRED" [ref=e1694]
+                    - generic [ref=e1695]: "CRED: Indian members-only fintech platform helping creditworthy consumers manage payments, credit and rewards."
+                  - generic [ref=e1699]:
+                    - generic [ref=e1700]: 4+ YOE
+                    - text: 4-7 years in user growth or category management, or 3-5 years in consulting/strategy; data-driven; track record of end-to-end growth initiatives; strong project management.
+              - generic [ref=e1701]:
+                - generic [ref=e1702]:
+                  - link "Job Posting" [ref=e1703] [cursor=pointer]:
+                    - /url: /job/credit-card-bill-payments-growth-cred-bengaluru-karnataka-02mhxlwus4bf262d
+                  - generic [ref=e1707]:
+                    - button "Previous job at this company" [disabled] [ref=e1708]
+                    - generic [ref=e1711]:
+                      - button "Show job 1" [ref=e1713] [cursor=pointer]
+                      - button "Show job 2" [ref=e1715] [cursor=pointer]
+                      - button "Show job 3" [ref=e1717] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1718] [cursor=pointer]
+                  - button "View all" [ref=e1721] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1723] [cursor=pointer]
+            - generic [ref=e1732]:
+              - generic [ref=e1733]:
+                - generic [ref=e1734]:
+                  - generic [ref=e1735]: 11y
+                  - generic [ref=e1739]: GROWTH HACKING INTERN
+                  - generic [ref=e1741]: Hyderabad, Telangana, India
+                  - generic [ref=e1746]:
+                    - generic [ref=e1747]: ₹10k/mo
+                    - generic [ref=e1748]: Onsite
+                    - generic [ref=e1749]: All Commitments Available
+                - generic [ref=e1750]:
+                  - generic [ref=e1751]:
+                    - img "Take Zero" [ref=e1754]
+                    - generic [ref=e1755]: "Take Zero: Indian private talent marketplace connecting models, actors, and other creative professionals with agencies and industry opportunities."
+                  - generic [ref=e1759]:
+                    - generic [ref=e1760]: 0+ YOE
+                    - text: Growth hacking, funnel marketing, content marketing, analytics; lean methods; basic HTML/CSS/JS a plus.
+                  - generic [ref=e1761]: Photoshop, HTML, CSS, JavaScript, jQuery, A/B Testing, Content Marketing, Social Media Marketing, Analytics
+              - generic [ref=e1767]:
+                - generic [ref=e1768]:
+                  - link "Job Posting" [ref=e1769] [cursor=pointer]:
+                    - /url: /job/growth-hacking-intern-take-zero-hyderabad-telangana-ogc5d3t9ylq7cqpc
+                  - link "View all" [ref=e1773] [cursor=pointer]:
+                    - /url: /org/takezero.in?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e1775] [cursor=pointer]
+            - generic [ref=e1784]:
+              - generic [ref=e1785]:
+                - generic [ref=e1786]:
+                  - generic [ref=e1787]: 3mo
+                  - generic [ref=e1791]: Product Growth Strategist
+                  - generic [ref=e1793]: Anywhere in the world
+                  - generic [ref=e1798]:
+                    - generic [ref=e1799]: Remote
+                    - generic [ref=e1800]: Full Time
+                - generic [ref=e1801]:
+                  - generic [ref=e1802]:
+                    - img "Fueled" [ref=e1805]
+                    - generic [ref=e1806]: "Fueled: Digital transformation agency serving startups, global brands, Fortune 500 companies, and institutions through strategy, design, and engineering."
+                  - generic [ref=e1807]: Experience developing product growth strategies, proficiency with behavioral analytics and experimentation, strong communication and cross-functional collaboration skills.
+                  - generic [ref=e1811]: Mixpanel, Amplitude, GA4
+              - generic [ref=e1817]:
+                - generic [ref=e1818]:
+                  - link "Job Posting" [ref=e1819] [cursor=pointer]:
+                    - /url: /job/product-growth-strategist-fueled-africa-8y7vpsqqfksccmh7
+                  - link "View all" [ref=e1823] [cursor=pointer]:
+                    - /url: /org/fueled.com?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e1825] [cursor=pointer]
+            - generic [ref=e1836]:
+              - generic [ref=e1837]:
+                - generic [ref=e1838]:
+                  - generic [ref=e1839]: 1mo
+                  - generic [ref=e1843]: Growth Manager (Marketing Manager)
+                  - generic [ref=e1845]: Bangalore North, Karnataka, India
+                  - generic [ref=e1850]:
+                    - generic [ref=e1851]: Onsite
+                    - generic [ref=e1852]: Full Time
+                - generic [ref=e1853]:
+                  - generic [ref=e1854]:
+                    - img "PlaySimple Games" [ref=e1857]
+                    - generic [ref=e1858]: "PlaySimple Games: Indian mobile gaming studio developing free-to-play word and casual puzzle games for players worldwide."
+                  - generic [ref=e1862]:
+                    - generic [ref=e1863]: 3+ YOE
+                    - text: 3-5 years experience in growth marketing or user acquisition; strong Excel skills; experience with mobile analytics and optimization; SQL or programming experience a plus.
+                  - generic [ref=e1864]: Microsoft Excel, SQL, Facebook, Google, Applovin
+              - generic [ref=e1870]:
+                - generic [ref=e1871]:
+                  - link "Job Posting" [ref=e1872] [cursor=pointer]:
+                    - /url: /job/growth-manager-marketing-manager-playsimple-games-bangalore-north-38bgobrb7kv9p269
+                  - generic [ref=e1876]:
+                    - button "Previous job at this company" [disabled] [ref=e1877]
+                    - generic [ref=e1880]:
+                      - button "Show job 1" [ref=e1882] [cursor=pointer]
+                      - button "Show job 2" [ref=e1884] [cursor=pointer]
+                      - button "Show job 3" [ref=e1886] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1887] [cursor=pointer]
+                  - button "View all" [ref=e1890] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1892] [cursor=pointer]
+            - generic [ref=e1901]:
+              - generic [ref=e1902]:
+                - generic [ref=e1903]:
+                  - generic [ref=e1904]: 1w
+                  - generic [ref=e1908]: Senior Manager, Growth (Asia & MEPA)
+                  - generic [ref=e1910]: India
+                  - generic [ref=e1915]:
+                    - generic [ref=e1916]: ₹226k-₹261k/mo
+                    - generic [ref=e1917]: Remote
+                    - generic [ref=e1918]: Full Time
+                - generic [ref=e1919]:
+                  - generic [ref=e1920]:
+                    - img "Entrepreneurs' Organization (EO)" [ref=e1923]
+                    - generic [ref=e1924]: "Entrepreneurs' Organization (EO): A membership network helping business founders learn and grow through education, resources, and peer connections."
+                  - generic [ref=e1928]:
+                    - generic [ref=e1929]: 7+ YOE
+                    - text: Bachelor's degree or equivalent experience; 7+ years in growth, business development, membership, or sales; experience developing regional growth strategies; strong analytical, project management, and people management skills; ability to travel regionally and internationally.
+              - generic [ref=e1930]:
+                - generic [ref=e1931]:
+                  - link "Job Posting" [ref=e1932] [cursor=pointer]:
+                    - /url: /job/senior-manager-growth-asia-and-mepa-entrepreneurs-organization-eo-6zuo439ad0kvqlqa
+                  - link "View all" [ref=e1936] [cursor=pointer]:
+                    - /url: /org/eonetwork.org?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e1938] [cursor=pointer]
+            - generic [ref=e1949]:
+              - generic [ref=e1950]:
+                - generic [ref=e1951]:
+                  - generic [ref=e1952]: 1mo
+                  - generic [ref=e1956]: D2C Supply - Growth Manager
+                  - generic [ref=e1958]: New Delhi, Delhi, India
+                  - generic [ref=e1963]:
+                    - generic [ref=e1964]: Onsite
+                    - generic [ref=e1965]: Full Time
+                - generic [ref=e1966]:
+                  - generic [ref=e1967]:
+                    - img "Open Network for Digital Commerce (ONDC)" [ref=e1970]
+                    - generic [ref=e1971]: "Open Network for Digital Commerce (ONDC): An Indian nonprofit building open digital-commerce infrastructure for buyers, sellers and businesses."
+                  - generic [ref=e1975]:
+                    - generic [ref=e1976]: 3+ YOE
+                    - text: 3-5 years of experience in sales and growth in key account management; digital marketplace experience preferred; strong execution, attention to detail, and problem-solving skills.
+              - generic [ref=e1977]:
+                - generic [ref=e1978]:
+                  - link "Job Posting" [ref=e1979] [cursor=pointer]:
+                    - /url: /job/d2c-supply-growth-manager-open-network-for-digital-commerce-ondc-new-t7myfu2ufrw47j9y
+                  - generic [ref=e1983]:
+                    - button "Previous job at this company" [disabled] [ref=e1984]
+                    - generic [ref=e1987]:
+                      - button "Show job 1" [ref=e1989] [cursor=pointer]
+                      - button "Show job 2" [ref=e1991] [cursor=pointer]
+                      - button "Show job 3" [ref=e1993] [cursor=pointer]
+                      - button "Show job 4" [ref=e1995] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1996] [cursor=pointer]
+                  - button "View all" [ref=e1999] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e2001] [cursor=pointer]
+            - generic [ref=e2010]:
+              - generic [ref=e2011]:
+                - generic [ref=e2012]:
+                  - generic [ref=e2013]: 3y
+                  - generic [ref=e2017]: Chief Growth Hacker
+                  - generic [ref=e2019]: Hyderabad, Telangana, India
+                  - generic [ref=e2024]:
+                    - generic [ref=e2025]: Onsite
+                    - generic [ref=e2026]: Full Time
+                - generic [ref=e2027]:
+                  - generic [ref=e2028]:
+                    - img "Drucare" [ref=e2031]
+                    - generic [ref=e2032]: "Drucare: Healthcare SaaS providing hospital, clinic, and practice-management software to healthcare organizations."
+                  - generic [ref=e2036]:
+                    - generic [ref=e2037]: 6+ YOE
+                    - text: 6+ years growth hacking experience; degree in relevant field; immediate joining; Hyderabad location; strong English; analytical and goals-driven.
+              - generic [ref=e2038]:
+                - generic [ref=e2039]:
+                  - link "Job Posting" [ref=e2040] [cursor=pointer]:
+                    - /url: /job/chief-growth-hacker-drucare-hyderabad-telangana-wi812qmugzit3l1p
+                  - link "View all" [ref=e2044] [cursor=pointer]:
+                    - /url: /org/dru.care?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e2046] [cursor=pointer]
+            - generic [ref=e2055]:
+              - generic [ref=e2056]:
+                - generic [ref=e2057]:
+                  - generic [ref=e2058]: 4y
+                  - generic [ref=e2062]: Growth Marketing Manager
+                  - generic [ref=e2064]: Noida, Uttar Pradesh, India
+                  - generic [ref=e2069]:
+                    - generic [ref=e2070]: Onsite
+                    - generic [ref=e2071]: Full Time
+                - generic [ref=e2072]:
+                  - generic [ref=e2073]:
+                    - img "Blue Berry e-Services" [ref=e2076]
+                    - generic [ref=e2077]: "Blue Berry e-Services: Indian enterprise IT services firm delivering infrastructure, systems integration, cloud, cybersecurity, and digital transformation solutions to businesses."
+                  - generic [ref=e2081]:
+                    - generic [ref=e2082]: 3+ YOE
+                    - text: 3-5 years’ experience in Growth/Performance Marketing roles, proficient with Data Analytics, SEO experience is a plus, MBA from a reputed college.
+                  - generic [ref=e2083]: Data Analytics, SEO
+              - generic [ref=e2089]:
+                - generic [ref=e2090]:
+                  - link "Job Posting" [ref=e2091] [cursor=pointer]:
+                    - /url: /job/growth-marketing-manager-blue-berry-e-services-noida-uttar-pradesh-8x6ahb39djn3u55i
+                  - link "View all" [ref=e2095] [cursor=pointer]:
+                    - /url: /org/blueberryeservices.com?rank_q=growth&sort=relevance
+                - button "See how many viewed or applied" [ref=e2097] [cursor=pointer]
+            - generic [ref=e2107]:
+              - generic [ref=e2108]:
+                - generic [ref=e2109]:
+                  - generic [ref=e2110]: 1w
+                  - generic [ref=e2114]: Category Growth Manager
+                  - generic [ref=e2116]: New Delhi, Delhi, India
+                  - generic [ref=e2121]:
+                    - generic [ref=e2122]: Hybrid
+                    - generic [ref=e2123]: Full Time
+                - generic [ref=e2124]:
+                  - generic [ref=e2125]:
+                    - img "Emma – The Sleep Company" [ref=e2128]
+                    - generic [ref=e2129]: "Emma – The Sleep Company: The world’s leading direct-to-consumer sleep brand, designing and selling mattresses, beds, pillows, and bedding products."
+                  - generic [ref=e2133]:
+                    - generic [ref=e2134]: 2+ YOE
+                    - text: 2-5 years in category management or growth with D2C and marketplace experience; data-driven with Excel or Google Sheets proficiency; strong negotiation and collaboration skills.
+                  - generic [ref=e2135]: Microsoft Excel, Google Sheets
+              - generic [ref=e2141]:
+                - generic [ref=e2142]:
+                  - link "Job Posting" [ref=e2143] [cursor=pointer]:
+                    - /url: /job/category-growth-manager-emma-the-sleep-company-new-delhi-delhi-9pcgpvnz08zupd6o
+                  - generic [ref=e2147]:
+                    - button "Previous job at this company" [disabled] [ref=e2148]
+                    - generic [ref=e2151]:
+                      - button "Show job 1" [ref=e2153] [cursor=pointer]
+                      - button "Show job 2" [ref=e2155] [cursor=pointer]
+                    - button "Next job at this company" [ref=e2156] [cursor=pointer]
+                  - button "View all" [ref=e2159] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e2161] [cursor=pointer]
+            - generic [ref=e2171]:
+              - generic [ref=e2172]:
+                - generic [ref=e2173]:
+                  - generic [ref=e2174]: 5mo
+                  - generic [ref=e2178]: Business Growth Specialist
+                  - generic [ref=e2180]: Argentina or India
+                  - generic [ref=e2185]:
+                    - generic [ref=e2186]: Onsite
+                    - generic [ref=e2187]: Full Time, Part Time
+                - generic [ref=e2188]:
+                  - generic [ref=e2189]:
+                    - img "Frost & Sullivan" [ref=e2192]
+                    - generic [ref=e2193]: "Frost & Sullivan: Private market research and management consulting firm serving companies, governments, and investors."
+                  - generic [ref=e2194]: Conduct outbound outreach to senior stakeholders, build strategic relationships, identify client growth opportunities, collaborate with internal teams, fluent English, strong communication and teamwork.
+              - generic [ref=e2198]:
+                - generic [ref=e2199]:
+                  - link "Job Posting" [ref=e2200] [cursor=pointer]:
+                    - /url: /job/business-growth-specialist-frost-and-sullivan-argentina-8o6u4jpco2ha393z
+                  - generic [ref=e2204]:
+                    - button "Previous job at this company" [disabled] [ref=e2205]
+                    - generic [ref=e2208]:
+                      - button "Show job 1" [ref=e2210] [cursor=pointer]
+                      - button "Show job 2" [ref=e2212] [cursor=pointer]
+                    - button "Next job at this company" [ref=e2213] [cursor=pointer]
+                  - button "View all" [ref=e2216] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e2218] [cursor=pointer]
+            - generic [ref=e2229]:
+              - generic [ref=e2230]:
+                - generic [ref=e2231]:
+                  - generic [ref=e2232]: 6mo
+                  - generic [ref=e2236]: Senior Growth Manager HPE
+                  - generic [ref=e2238]: Mumbai, Maharashtra, India
+                  - generic [ref=e2243]:
+                    - generic [ref=e2244]: Onsite
+                    - generic [ref=e2245]: Full Time
+                - generic [ref=e2246]:
+                  - generic [ref=e2247]:
+                    - img "IDFC FIRST Bank" [ref=e2250]
+                    - generic [ref=e2251]:
+                      - text: IDFC FIRST Bank
+                      - generic [ref=e2252]: "National Stock Exchange (NSE): IDFCFIRSTB"
+                      - text: ": Indian private sector bank providing comprehensive financial services."
+                  - generic [ref=e2256]:
+                    - generic [ref=e2257]: 5+ YOE
+                    - text: Bachelor's in Science, Commerce, or B.Tech in Computer Science/IT; MBA required; 5-8 years relevant experience; proven digital campaign growth; CleverTap and Salesforce Marketing Cloud; team leadership; Agile environment.
+                  - generic [ref=e2258]: CleverTap, Salesforce Marketing Cloud
+              - generic [ref=e2264]:
+                - generic [ref=e2265]:
+                  - link "Job Posting" [ref=e2266] [cursor=pointer]:
+                    - /url: /job/senior-growth-manager-hpe-idfc-first-bank-mumbai-maharashtra-mxrq4p2u6h2w0h73
+                  - generic [ref=e2270]:
+                    - button "Previous job at this company" [disabled] [ref=e2271]
+                    - generic [ref=e2274]:
+                      - button "Show job 1" [ref=e2276] [cursor=pointer]
+                      - button "Show job 2" [ref=e2278] [cursor=pointer]
+                      - button "Show job 3" [ref=e2280] [cursor=pointer]
+                      - button "Show job 4" [ref=e2282] [cursor=pointer]
+                    - button "Next job at this company" [ref=e2283] [cursor=pointer]
+                  - button "View all" [ref=e2286] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e2288] [cursor=pointer]
+            - generic [ref=e2299]:
+              - generic [ref=e2300]:
+                - generic [ref=e2301]:
+                  - generic [ref=e2302]: 2d
+                  - generic [ref=e2306]: Growth Marketing Intern
+                  - generic [ref=e2308]: Bengaluru, Karnataka, India
+                  - generic [ref=e2313]:
+                    - generic [ref=e2314]: Onsite
+                    - generic [ref=e2315]: Internship
+                - generic [ref=e2316]:
+                  - generic [ref=e2317]:
+                    - img "Reo.Dev" [ref=e2320]
+                    - generic [ref=e2321]: "Reo.Dev: Private AI revenue-intelligence platform helping developer-tool companies identify technical buyers and convert developer activity into pipeline."
+                  - generic [ref=e2322]: Hungry, motivated, coachable, comfortable with laborious work, good communication, fast learner, commitment of at least 6 months; prior marketing or growth internship and LinkedIn prospecting preferred.
+                  - generic [ref=e2326]: LinkedIn, spreadsheets, AI tools
+              - generic [ref=e2332]:
+                - generic [ref=e2333]:
+                  - link "Job Posting" [ref=e2334] [cursor=pointer]:
+                    - /url: /job/growth-marketing-intern-reo-dev-bengaluru-karnataka-ije72vivox75vepr
+                  - generic [ref=e2338]:
+                    - button "Previous job at this company" [disabled] [ref=e2339]
+                    - generic [ref=e2342]:
+                      - button "Show job 1" [ref=e2344] [cursor=pointer]
+                      - button "Show job 2" [ref=e2346] [cursor=pointer]
+                      - button "Show job 3" [ref=e2348] [cursor=pointer]
+                      - button "Show job 4" [ref=e2350] [cursor=pointer]
+                    - button "Next job at this company" [ref=e2351] [cursor=pointer]
+                  - button "View all" [ref=e2354] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e2356] [cursor=pointer]
+          - navigation "Pagination" [ref=e2363]:
+            - generic [ref=e2367]:
+              - link "1" [ref=e2368] [cursor=pointer]:
+                - /url: /classic?searchState=%7B%22searchQuery%22%3A%22growth%22%2C%22dateFetchedPastNDays%22%3A30%7D
+              - link "2" [ref=e2369] [cursor=pointer]:
+                - /url: /classic?searchState=%7B%22searchQuery%22%3A%22growth%22%2C%22dateFetchedPastNDays%22%3A30%7D&page=1
+              - link "3" [ref=e2370] [cursor=pointer]:
+                - /url: /classic?searchState=%7B%22searchQuery%22%3A%22growth%22%2C%22dateFetchedPastNDays%22%3A30%7D&page=2
+              - link "4" [ref=e2371] [cursor=pointer]:
+                - /url: /classic?searchState=%7B%22searchQuery%22%3A%22growth%22%2C%22dateFetchedPastNDays%22%3A30%7D&page=3
+              - link "5" [ref=e2372] [cursor=pointer]:
+                - /url: /classic?searchState=%7B%22searchQuery%22%3A%22growth%22%2C%22dateFetchedPastNDays%22%3A30%7D&page=4
+              - link "6" [ref=e2373] [cursor=pointer]:
+                - /url: /classic?searchState=%7B%22searchQuery%22%3A%22growth%22%2C%22dateFetchedPastNDays%22%3A30%7D&page=5
+              - link "7" [ref=e2374] [cursor=pointer]:
+                - /url: /classic?searchState=%7B%22searchQuery%22%3A%22growth%22%2C%22dateFetchedPastNDays%22%3A30%7D&page=6
+              - link "8" [ref=e2375] [cursor=pointer]:
+                - /url: /classic?searchState=%7B%22searchQuery%22%3A%22growth%22%2C%22dateFetchedPastNDays%22%3A30%7D&page=7
+              - link "9" [ref=e2376] [cursor=pointer]:
+                - /url: /classic?searchState=%7B%22searchQuery%22%3A%22growth%22%2C%22dateFetchedPastNDays%22%3A30%7D&page=8
+              - link "10" [ref=e2377] [cursor=pointer]:
+                - /url: /classic?searchState=%7B%22searchQuery%22%3A%22growth%22%2C%22dateFetchedPastNDays%22%3A30%7D&page=9
+            - link "Next page" [ref=e2378] [cursor=pointer]:
+              - /url: /classic?searchState=%7B%22searchQuery%22%3A%22growth%22%2C%22dateFetchedPastNDays%22%3A30%7D&page=1
+          - contentinfo [ref=e2381]:
+            - generic [ref=e2382]:
+              - generic [ref=e2383]:
+                - link "Browse all jobs" [ref=e2384] [cursor=pointer]:
+                  - /url: /jobs
+                - navigation [ref=e2385]:
+                  - link "About" [ref=e2386] [cursor=pointer]:
+                    - /url: /about
+                  - link "Blog" [ref=e2387] [cursor=pointer]:
+                    - /url: /insights
+                  - link "Careers" [ref=e2388] [cursor=pointer]:
+                    - /url: /work-here
+                  - link "Talent Network" [ref=e2389] [cursor=pointer]:
+                    - /url: /talent-network
+                  - button "Espresso Club" [ref=e2390] [cursor=pointer]
+                  - link "Terms" [ref=e2391] [cursor=pointer]:
+                    - /url: /terms-and-conditions
+                  - link "Privacy" [ref=e2392] [cursor=pointer]:
+                    - /url: /private-policy
+                  - link "Your Privacy Choices" [ref=e2393] [cursor=pointer]:
+                    - /url: /private-policy#do-not-sell-or-share
+                  - link [ref=e2399] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/hiringcafe/
+                  - link [ref=e2402] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/hiring-cafe
+              - paragraph [ref=e2405]: © 2026 HiringCafe. All rights reserved.
+  - alert [ref=e2406]
+  - generic:
+    - region "Notifications-top"
+    - region "Notifications-top-left"
+    - region "Notifications-top-right"
+    - region "Notifications-bottom-left"
+    - region "Notifications-bottom"
+    - region "Notifications-bottom-right"

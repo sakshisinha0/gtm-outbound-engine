@@ -1,0 +1,1081 @@
+- generic [active] [ref=f3e1]:
+  - generic [ref=f3e4]:
+    - complementary [ref=f3e5]:
+      - generic [ref=f3e6]:
+        - link "HiringCafe" [ref=f3e8] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f3e12]:
+          - navigation "Site" [ref=f3e13]:
+            - list [ref=f3e14]:
+              - listitem [ref=f3e15]:
+                - link "Search" [ref=f3e16] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=f3e21]:
+                - link "Tracker" [ref=f3e22] [cursor=pointer]:
+                  - /url: /myhiringcafe/tracker
+              - listitem [ref=f3e27]:
+                - link "Network" [ref=f3e28] [cursor=pointer]:
+                  - /url: /talent-network
+              - listitem [ref=f3e33]:
+                - button "Support us" [ref=f3e34] [cursor=pointer]
+              - listitem [ref=f3e46]:
+                - link "Add jobs" [ref=f3e47] [cursor=pointer]:
+                  - /url: https://docs.google.com/forms/d/e/1FAIpQLScAu_64rXROytp48mGplJBM9Pc-HsEd-m0eXHUiaEG4QLiK0Q/viewform
+              - listitem [ref=f3e52]:
+                - link "Employers" [ref=f3e53] [cursor=pointer]:
+                  - /url: https://tally.so/r/n9rv4p
+          - button "Collapse menu" [ref=f3e59] [cursor=pointer]
+    - generic [ref=f3e64]:
+      - generic [ref=f3e69]:
+        - generic [ref=f3e71]:
+          - group "Search mode" [ref=f3e73]:
+            - link "Talent Agent" [ref=f3e75] [cursor=pointer]:
+              - /url: /ai-search
+              - generic [ref=f3e78]: Agent
+            - link "Classic Search" [ref=f3e79] [cursor=pointer]:
+              - /url: /classic
+              - generic [ref=f3e82]: Classic
+          - generic [ref=f3e83]:
+            - generic [ref=f3e84]:
+              - generic [ref=f3e85]:
+                - combobox "Job title or keyword" [ref=f3e86]: revenue operations
+                - button "Clear job title or keyword" [ref=f3e87] [cursor=pointer]
+              - button "Choose location and work environment" [ref=f3e91] [cursor=pointer]:
+                - generic [ref=f3e96]:
+                  - generic [ref=f3e97]: Location
+                  - generic [ref=f3e98]: Remote · Hybrid · Onsite · Field
+            - button "Search jobs" [ref=f3e101] [cursor=pointer]
+        - generic [ref=f3e104]:
+          - generic [ref=f3e105] [cursor=pointer]: Sign up
+          - button "Account" [ref=f3e108] [cursor=pointer]
+      - generic [ref=f3e109]:
+        - generic [ref=f3e115]:
+          - generic [ref=f3e116]:
+            - button "Filters 1" [ref=f3e117] [cursor=pointer]:
+              - generic [ref=f3e120]: Filters
+              - generic [ref=f3e121]: "1"
+            - button "Collapse filter row" [expanded] [ref=f3e122] [cursor=pointer]
+          - generic [ref=f3e126]:
+            - button "Date Posted 1" [ref=f3e127] [cursor=pointer]:
+              - generic [ref=f3e128]: Date Posted
+              - generic [ref=f3e129]: "1"
+            - button "Apply Process" [ref=f3e130] [cursor=pointer]
+            - button "Exclude Jobs" [ref=f3e132] [cursor=pointer]
+            - button "Activity & Outcomes New" [ref=f3e134] [cursor=pointer]:
+              - generic [ref=f3e135]: Activity & Outcomes
+              - generic: New
+            - button "Departments" [ref=f3e136] [cursor=pointer]
+            - button "Job Titles & Keywords" [ref=f3e138] [cursor=pointer]
+            - button "Experience" [ref=f3e140] [cursor=pointer]
+            - button "Commitment" [ref=f3e142] [cursor=pointer]
+            - button "Salary" [ref=f3e144] [cursor=pointer]
+            - button "Benefits & Perks" [ref=f3e146] [cursor=pointer]
+            - button "Education" [ref=f3e148] [cursor=pointer]
+            - button "Licenses & Certifications" [ref=f3e150] [cursor=pointer]
+            - button "Security Clearance" [ref=f3e152] [cursor=pointer]
+            - button "Languages" [ref=f3e154] [cursor=pointer]
+            - button "Encouraged to Apply" [ref=f3e156] [cursor=pointer]
+            - button "Shifts & Schedules" [ref=f3e158] [cursor=pointer]
+            - button "Travel Requirement" [ref=f3e160] [cursor=pointer]
+            - button "Company" [ref=f3e162] [cursor=pointer]
+            - button "Industry" [ref=f3e164] [cursor=pointer]
+            - button "Stage & Funding" [ref=f3e166] [cursor=pointer]
+            - button "Size" [ref=f3e168] [cursor=pointer]
+            - button "Founding Year" [ref=f3e170] [cursor=pointer]
+          - button "Clear filters" [ref=f3e173] [cursor=pointer]
+        - generic [ref=f3e180]:
+          - generic [ref=f3e182]:
+            - generic [ref=f3e184]:
+              - generic [ref=f3e185]: 669 jobs
+              - button "Learn about collapsed companies" [ref=f3e186] [cursor=pointer]:
+                - generic [ref=f3e187]: · 247 companies
+              - generic [ref=f3e190]: "-"
+              - generic [ref=f3e191]: India
+            - 'button "Sort by: Relevance" [ref=f3e195] [cursor=pointer]'
+            - button "Rank" [ref=f3e201] [cursor=pointer]
+            - button "Save or update search" [ref=f3e206] [cursor=pointer]
+            - link "Join our community" [ref=f3e210] [cursor=pointer]:
+              - /url: https://www.reddit.com/r/hiringcafe/
+          - generic [ref=f3e215]:
+            - generic [ref=f3e218]:
+              - generic [ref=f3e219]:
+                - generic [ref=f3e220]:
+                  - generic [ref=f3e221]: 1mo
+                  - generic [ref=f3e225]: Revenue Operations Specialist
+                  - generic [ref=f3e227]: India
+                  - generic [ref=f3e232]:
+                    - generic [ref=f3e233]: Remote
+                    - generic [ref=f3e234]: Full Time
+                - generic [ref=f3e235]:
+                  - generic [ref=f3e236]:
+                    - img "Termgrid" [ref=f3e239]
+                    - generic [ref=f3e240]: "Termgrid: SaaS platform for private capital markets serving private equity sponsors, lenders, debt advisors, and legal counsel."
+                  - generic [ref=f3e244]:
+                    - generic [ref=f3e245]: 4+ YOE
+                    - text: 4-8 years in Revenue Operations, Sales Operations, or GTM Operations in B2B SaaS; strong CRM expertise in HubSpot or Salesforce; experience applying AI tools or LLMs to GTM workflows; analytical thinking.
+                  - generic [ref=f3e246]: HubSpot, Salesforce, Clay, n8n, Make, SQL, Python, Apollo, ZoomInfo, LinkedIn Sales Navigator
+              - generic [ref=f3e252]:
+                - generic [ref=f3e253]:
+                  - link "Job Posting" [ref=f3e254] [cursor=pointer]:
+                    - /url: /job/revenue-operations-specialist-termgrid-india-wbib89lmm27ndk5y
+                  - link "View all" [ref=f3e258] [cursor=pointer]:
+                    - /url: /org/termgrid.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e260] [cursor=pointer]
+            - generic [ref=f3e269]:
+              - generic [ref=f3e270]:
+                - generic [ref=f3e271]:
+                  - generic [ref=f3e272]: 1mo
+                  - generic [ref=f3e276]: Revenue Operations Engineer
+                  - generic [ref=f3e278]: Costa Rica or Argentina or India
+                  - generic [ref=f3e283]:
+                    - generic [ref=f3e284]: Remote
+                    - generic [ref=f3e285]: Full Time
+                - generic [ref=f3e286]:
+                  - generic [ref=f3e287]:
+                    - img "Venn" [ref=f3e290]
+                    - generic [ref=f3e291]: "Venn: B2B security software protecting data, apps, and AI workflows for employees and contractors on unmanaged devices."
+                  - generic [ref=f3e295]:
+                    - generic [ref=f3e296]: 3+ YOE
+                    - text: 3-5 years revenue operations or similar technical GTM experience; deep HubSpot expertise; MCP knowledge; integration experience with APIs, webhooks, iPaaS; strong reporting and analytics; startup comfort.
+                  - generic [ref=f3e297]: HubSpot, Vitally, Nooks, Swan AI, Gong, Zuora, Zapier, Workato, Make, n8n, SQL, JavaScript, Python, Looker, Tableau, Metabase, Google Sheets, BigQuery
+              - generic [ref=f3e303]:
+                - generic [ref=f3e304]:
+                  - link "Job Posting" [ref=f3e305] [cursor=pointer]:
+                    - /url: /job/revenue-operations-engineer-venn-costa-rica-u6lr7wm9ojp621sz
+                  - link "View all" [ref=f3e309] [cursor=pointer]:
+                    - /url: /org/venn.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e311] [cursor=pointer]
+            - generic [ref=f3e320]:
+              - generic [ref=f3e321]:
+                - generic [ref=f3e322]:
+                  - generic [ref=f3e323]: 1mo
+                  - generic [ref=f3e327]: Manager Revenue Operations
+                  - generic [ref=f3e329]: Bengaluru, Karnataka, India
+                  - generic [ref=f3e334]:
+                    - generic [ref=f3e335]: Onsite
+                    - generic [ref=f3e336]: Full Time
+                - generic [ref=f3e337]:
+                  - generic [ref=f3e338]:
+                    - img "Netradyne" [ref=f3e341]
+                    - generic [ref=f3e342]: "Netradyne: Private AI fleet-safety and video-telematics serving commercial vehicle operators."
+                  - generic [ref=f3e346]:
+                    - generic [ref=f3e347]: 8+ YOE1+ Mgmt
+                    - text: 8-12 years in GTM/Revenue/Sales/Data Operations; 1-2 years people management; hands-on Salesforce, Clay, ZoomInfo, PrimeRole, LinkedIn Sales Navigator; advanced Excel; strong data governance and stakeholder management.
+                  - generic [ref=f3e348]: Salesforce, Clay, ZoomInfo, PrimeRole, LinkedIn Sales Navigator, Microsoft Excel
+              - generic [ref=f3e354]:
+                - generic [ref=f3e355]:
+                  - link "Job Posting" [ref=f3e356] [cursor=pointer]:
+                    - /url: /job/manager-revenue-operations-netradyne-bengaluru-karnataka-8jwpi34fqcidr5mk
+                  - link "View all" [ref=f3e360] [cursor=pointer]:
+                    - /url: /org/netradyne.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e362] [cursor=pointer]
+            - generic [ref=f3e371]:
+              - generic [ref=f3e372]:
+                - generic [ref=f3e373]:
+                  - generic [ref=f3e374]: 6d
+                  - generic [ref=f3e378]: Revenue Operations Manager (HubSpot)
+                  - generic [ref=f3e380]: Pune, Maharashtra, India
+                  - generic [ref=f3e385]:
+                    - generic [ref=f3e386]: Onsite
+                    - generic [ref=f3e387]: Full Time
+                - generic [ref=f3e388]:
+                  - generic [ref=f3e389]:
+                    - img "BreachLock" [ref=f3e392]
+                    - generic [ref=f3e393]: "BreachLock: Cybersecurity SaaS provider helping organizations validate exploitable risks through penetration testing, attack-surface management, and red teaming."
+                  - generic [ref=f3e397]:
+                    - generic [ref=f3e398]: 4+ YOE
+                    - text: 4+ years in Revenue/Sales/Marketing Operations, 3+ years hands-on HubSpot administration, proven CRM cleanup and documentation, strong reporting and communication skills.
+                  - generic [ref=f3e399]: HubSpot, HubSpot Operations Hub
+              - generic [ref=f3e405]:
+                - generic [ref=f3e406]:
+                  - link "Job Posting" [ref=f3e407] [cursor=pointer]:
+                    - /url: /job/revenue-operations-manager-hubspot-breachlock-pune-maharashtra-bztincau4efdvdyu
+                  - link "View all" [ref=f3e411] [cursor=pointer]:
+                    - /url: /org/breachlock.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e413] [cursor=pointer]
+            - generic [ref=f3e422]:
+              - generic [ref=f3e423]:
+                - generic [ref=f3e424]:
+                  - generic [ref=f3e425]: 1w
+                  - generic [ref=f3e429]: Revenue Operations Specialist, CRM & Deal Operations
+                  - generic [ref=f3e431]: Bengaluru, Karnataka, India
+                  - generic [ref=f3e436]:
+                    - generic [ref=f3e437]: Onsite
+                    - generic [ref=f3e438]: Full Time
+                - generic [ref=f3e439]:
+                  - generic [ref=f3e440]:
+                    - img "Sanas" [ref=f3e443]
+                    - generic [ref=f3e444]: "Sanas: Private speech AI providing real-time accent, language, and audio enhancement for enterprises and contact centers."
+                  - generic [ref=f3e448]:
+                    - generic [ref=f3e449]: 3+ YOE
+                    - text: 3+ years in Revenue Operations, Sales Operations, CRM administration, Deal Desk, or Order Management; strong Salesforce experience; advanced Excel or Google Sheets; understanding of SaaS commercial concepts; attention to detail.
+                  - generic [ref=f3e450]: Salesforce, DealHub, Salesforce CPQ, Microsoft Excel, Google Sheets
+              - generic [ref=f3e456]:
+                - generic [ref=f3e457]:
+                  - link "Job Posting" [ref=f3e458] [cursor=pointer]:
+                    - /url: /job/revenue-operations-specialist-crm-and-deal-operations-sanas-bengaluru-01ciib2iz8ze251y
+                  - link "View all" [ref=f3e462] [cursor=pointer]:
+                    - /url: /org/sanas.ai?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e464] [cursor=pointer]
+            - generic [ref=f3e473]:
+              - generic [ref=f3e474]:
+                - generic [ref=f3e475]:
+                  - generic [ref=f3e476]: 1w
+                  - generic [ref=f3e480]: Senior Revenue Operations Manager
+                  - generic [ref=f3e482]: Bangalore, Karnataka, India
+                  - generic [ref=f3e487]:
+                    - generic [ref=f3e488]: Hybrid
+                    - generic [ref=f3e489]: Full Time
+                - generic [ref=f3e490]:
+                  - generic [ref=f3e491]:
+                    - img "BlueOptima" [ref=f3e494]
+                    - generic [ref=f3e495]: "BlueOptima: Software engineering analytics helping enterprises improve developer productivity, code quality, security, and AI impact."
+                  - generic [ref=f3e496]: Proven experience in Revenue Operations or Sales Operations at a B2B SaaS company with enterprise sales motion; forecasting track record; deep CRM knowledge (Salesforce, HubSpot); advanced spreadsheet skills plus SQL or BI tool; working knowledge of enterprise deals and MEDDPICC; M&A integration experience; AI tools and automation experience; quota...
+                  - generic [ref=f3e500]: Salesforce, HubSpot, SQL, BI tool
+              - generic [ref=f3e506]:
+                - generic [ref=f3e507]:
+                  - link "Job Posting" [ref=f3e508] [cursor=pointer]:
+                    - /url: /job/senior-revenue-operations-manager-blueoptima-bangalore-karnataka-e6arj2r7hi82fs8g
+                  - link "View all" [ref=f3e512] [cursor=pointer]:
+                    - /url: /org/blueoptima.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e514] [cursor=pointer]
+            - generic [ref=f3e523]:
+              - generic [ref=f3e524]:
+                - generic [ref=f3e525]:
+                  - generic [ref=f3e526]: 1w
+                  - generic [ref=f3e530]: Revenue operations analyst
+                  - generic [ref=f3e532]: Bangalore, Karnataka, India
+                  - generic [ref=f3e537]:
+                    - generic [ref=f3e538]: Onsite
+                    - generic [ref=f3e539]: Full Time
+                - generic [ref=f3e540]:
+                  - generic [ref=f3e541]:
+                    - img "SUSE" [ref=f3e544]
+                    - generic [ref=f3e545]: "SUSE: Enterprise open-source software serving businesses with Linux, Kubernetes, edge, AI infrastructure, and security solutions."
+                  - generic [ref=f3e549]:
+                    - generic [ref=f3e550]: 3+ YOE
+                    - text: 3-5 years in Sales Operations, Partner Operations, RevOps, or Commercial Analytics; hands-on Salesforce experience; proficiency in Power BI and Google Workspace; strong communication and analytical skills.
+                  - generic [ref=f3e551]: Salesforce, Power BI, Google Workspace, Gemini, Notebook LM, Claude
+              - generic [ref=f3e557]:
+                - generic [ref=f3e558]:
+                  - link "Job Posting" [ref=f3e559] [cursor=pointer]:
+                    - /url: /job/revenue-operations-analyst-suse-bangalore-karnataka-mzqd7l0m7wgbi5vf
+                  - link "View all" [ref=f3e563] [cursor=pointer]:
+                    - /url: /org/suse.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e565] [cursor=pointer]
+            - generic [ref=f3e576]:
+              - generic [ref=f3e577]:
+                - generic [ref=f3e578]:
+                  - generic [ref=f3e579]: 6mo
+                  - generic [ref=f3e583]: Revenue & Operations Intern
+                  - generic [ref=f3e585]: Bengaluru, Karnataka, India
+                  - generic [ref=f3e590]:
+                    - generic [ref=f3e591]: Remote
+                    - generic [ref=f3e592]: Internship
+                - generic [ref=f3e593]:
+                  - generic [ref=f3e594]:
+                    - img "Sprinto" [ref=f3e597]
+                    - generic [ref=f3e598]: "Sprinto: N AI-native GRC platform helping global businesses manage compliance and security."
+                  - generic [ref=f3e599]: Internship in Revenue Operations; strong analytical and data skills; Excel/Sheets experience; excellent communication; pursuing/final year bachelor’s in engineering, business management, analytics.
+                  - generic [ref=f3e603]: Excel, Google Sheets, SQL, Tableau, Looker
+              - generic [ref=f3e609]:
+                - generic [ref=f3e610]:
+                  - link "Job Posting" [ref=f3e611] [cursor=pointer]:
+                    - /url: /job/revenue-and-operations-intern-sprinto-bengaluru-karnataka-7ipddskxieejozhx
+                  - generic [ref=f3e615]:
+                    - button "Previous job at this company" [disabled] [ref=f3e616]
+                    - generic [ref=f3e619]:
+                      - button "Show job 1" [ref=f3e621] [cursor=pointer]
+                      - button "Show job 2" [ref=f3e623] [cursor=pointer]
+                      - button "Show job 3" [ref=f3e625] [cursor=pointer]
+                    - button "Next job at this company" [ref=f3e626] [cursor=pointer]
+                  - button "View all" [ref=f3e629] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=f3e631] [cursor=pointer]
+            - generic [ref=f3e640]:
+              - generic [ref=f3e641]:
+                - generic [ref=f3e642]:
+                  - generic [ref=f3e643]: 8mo
+                  - generic [ref=f3e647]: Revenue Operations Manager
+                  - generic [ref=f3e649]: Mumbai, Maharashtra, India
+                  - generic [ref=f3e654]:
+                    - generic [ref=f3e655]: Hybrid
+                    - generic [ref=f3e656]: Full Time
+                - generic [ref=f3e657]:
+                  - generic [ref=f3e658]:
+                    - img "MODIFI" [ref=f3e661]
+                    - generic [ref=f3e662]: "MODIFI: MODIFI is a private B2B fintech helping SMEs manage cross-border payments, trade financing, and international commerce."
+                  - generic [ref=f3e666]:
+                    - generic [ref=f3e667]: 5+ YOE
+                    - text: Bachelor or Masters degree with 5+ years sales/sales operations; strong Salesforce data hygiene and integration skills; data-driven, process-oriented; able to translate strategy into systems and onboarding; excellent stakeholder management.
+                  - generic [ref=f3e668]: Salesforce, Data integration tools
+              - generic [ref=f3e674]:
+                - generic [ref=f3e675]:
+                  - link "Job Posting" [ref=f3e676] [cursor=pointer]:
+                    - /url: /job/revenue-operations-manager-modifi-mumbai-maharashtra-0z34bqb1rzyt2sms
+                  - link "View all" [ref=f3e680] [cursor=pointer]:
+                    - /url: /org/modifi.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e682] [cursor=pointer]
+            - generic [ref=f3e691]:
+              - generic [ref=f3e692]:
+                - generic [ref=f3e693]:
+                  - generic [ref=f3e694]: 1mo
+                  - generic [ref=f3e698]: Revenue Operations Analyst
+                  - generic [ref=f3e700]: Hyderabad, Telangana, India
+                  - generic [ref=f3e705]:
+                    - generic [ref=f3e706]: Onsite
+                    - generic [ref=f3e707]: Full Time
+                - generic [ref=f3e708]:
+                  - generic [ref=f3e709]:
+                    - img "Blackbaud" [ref=f3e712]
+                    - generic [ref=f3e713]:
+                      - text: Blackbaud
+                      - generic [ref=f3e714]: "Nasdaq: BLKB"
+                      - text: ": Public AI-powered cloud software provider serving nonprofits, schools, foundations, companies, and social-impact organizations."
+                  - generic [ref=f3e718]:
+                    - generic [ref=f3e719]: 2+ YOE
+                    - text: 2+ years professional experience in revenue operations, order management, billing, finance operations, or related; knowledge of contract administration and order-to-cash processes; experience with CRM/billing/financial systems; proficiency with Microsoft Excel, Outlook, Word, and PowerPoint.
+                  - generic [ref=f3e720]: Salesforce, Salesforce CPQ, Workday Financials, Microsoft Excel, Microsoft Outlook, Microsoft Word, Microsoft PowerPoint
+              - generic [ref=f3e726]:
+                - generic [ref=f3e727]:
+                  - link "Job Posting" [ref=f3e728] [cursor=pointer]:
+                    - /url: /job/revenue-operations-analyst-blackbaud-hyderabad-telangana-sji5i15s801amfe4
+                  - link "View all" [ref=f3e732] [cursor=pointer]:
+                    - /url: /org/blackbaud.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e734] [cursor=pointer]
+            - generic [ref=f3e743]:
+              - generic [ref=f3e744]:
+                - generic [ref=f3e745]:
+                  - generic [ref=f3e746]: 1mo
+                  - generic [ref=f3e750]: Revenue Operations Associate
+                  - generic [ref=f3e752]: Gurugram, Haryana, India
+                  - generic [ref=f3e757]:
+                    - generic [ref=f3e758]: Field
+                    - generic [ref=f3e759]: Full Time, Contract
+                - generic [ref=f3e760]:
+                  - generic [ref=f3e761]:
+                    - img "Flix" [ref=f3e764]
+                    - generic [ref=f3e765]: "Flix: Global travel-tech operating intercity bus and train services."
+                  - generic [ref=f3e769]:
+                    - generic [ref=f3e770]: 2+ YOE
+                    - text: 2-4 years in business development, commercial partnerships, field operations or program management; Bachelor's degree; proven ability to own commercial relationships; data skills with Excel/Google Sheets; Hindi and English communication; extensive travel across Indian highway corridors.
+                  - generic [ref=f3e771]: Microsoft Excel, Google Sheets
+              - generic [ref=f3e777]:
+                - generic [ref=f3e778]:
+                  - link "Job Posting" [ref=f3e779] [cursor=pointer]:
+                    - /url: /job/revenue-operations-associate-flix-gurugram-haryana-9v752kfdltfgtq5o
+                  - link "View all" [ref=f3e783] [cursor=pointer]:
+                    - /url: /org/flixbus.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e785] [cursor=pointer]
+            - generic [ref=f3e794]:
+              - generic [ref=f3e795]:
+                - generic [ref=f3e796]:
+                  - generic [ref=f3e797]: 9mo
+                  - generic [ref=f3e801]: Revenue Operations Analyst
+                  - generic [ref=f3e803]: Pune, Maharashtra, India
+                  - generic [ref=f3e808]:
+                    - generic [ref=f3e809]: ₹700k-₹1300k/yr
+                    - generic [ref=f3e810]: Hybrid
+                    - generic [ref=f3e811]: Full Time
+                - generic [ref=f3e812]:
+                  - generic [ref=f3e813]:
+                    - img "Madison Logic" [ref=f3e816]
+                    - generic [ref=f3e817]: "Madison Logic: B2B marketing technology helping marketers identify buying groups, activate campaigns, and measure pipeline with intent data."
+                  - generic [ref=f3e821]:
+                    - generic [ref=f3e822]: 2+ YOE
+                    - text: 2+ years in Revenue Operations, Sales Operations, or analytics in B2B SaaS; proficient in Excel/Google Sheets; dashboards in Looker Studio; basic SQL; Snowflake experience; Salesforce familiarity; strong data quality and communication in English; distributed team capable.
+                  - generic [ref=f3e823]: Excel, Google Sheets, Looker Studio, Snowflake, SQL, Salesforce
+              - generic [ref=f3e829]:
+                - generic [ref=f3e830]:
+                  - link "Job Posting" [ref=f3e831] [cursor=pointer]:
+                    - /url: /job/revenue-operations-analyst-madison-logic-pune-maharashtra-xbo4uwlj36dbgi3t
+                  - link "View all" [ref=f3e835] [cursor=pointer]:
+                    - /url: /org/madisonlogic.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e837] [cursor=pointer]
+            - generic [ref=f3e846]:
+              - generic [ref=f3e847]:
+                - generic [ref=f3e848]:
+                  - generic [ref=f3e849]: 2mo
+                  - generic [ref=f3e853]: Senior Revenue Operations & AI Adoption Executive
+                  - generic [ref=f3e855]: Bangalore, Karnataka, India
+                  - generic [ref=f3e860]:
+                    - generic [ref=f3e861]: Onsite
+                    - generic [ref=f3e862]: Full Time
+                - generic [ref=f3e863]:
+                  - generic [ref=f3e864]:
+                    - img "Increff" [ref=f3e867]
+                    - generic [ref=f3e868]: "Increff: AI-powered retail SaaS platform helping brands and retailers optimize inventory, merchandising, and multichannel fulfillment."
+                  - generic [ref=f3e872]:
+                    - generic [ref=f3e873]: 2+ YOE
+                    - text: 2-3 years in Revenue Operations, Sales Operations, or GTM Analytics with end-to-end CRM ownership; deep Salesforce administration; automation/integration experience (n8n, Make, AI tools); quantitative fluency in SaaS metrics; excellent written communication.
+                  - generic [ref=f3e874]: Salesforce, n8n, Make, Claude, OpenAI, Factors.ai, Apollo, Seamless
+              - generic [ref=f3e880]:
+                - generic [ref=f3e881]:
+                  - link "Job Posting" [ref=f3e882] [cursor=pointer]:
+                    - /url: /job/senior-revenue-operations-and-ai-adoption-executive-increff-bangalore-t9hrvwchpy10qxnl
+                  - link "View all" [ref=f3e886] [cursor=pointer]:
+                    - /url: /org/increff.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e888] [cursor=pointer]
+            - generic [ref=f3e897]:
+              - generic [ref=f3e898]:
+                - generic [ref=f3e899]:
+                  - generic [ref=f3e900]: 3w
+                  - generic [ref=f3e904]: "Founder’s Office: Revenue Operations & Systems (RevOps)"
+                  - generic [ref=f3e906]: Bengaluru, Karnataka, India
+                  - generic [ref=f3e911]:
+                    - generic [ref=f3e912]: Hybrid
+                    - generic [ref=f3e913]: Full Time
+                - generic [ref=f3e914]:
+                  - generic [ref=f3e915]:
+                    - img "Enterpret" [ref=f3e918]
+                    - generic [ref=f3e919]: "Enterpret: AI-native customer intelligence software for product, customer experience, support, operations, and go-to-market teams."
+                  - generic [ref=f3e920]: Experience owning revenue operations or business systems; hands-on CRM (Salesforce or HubSpot); strong analytical skills with spreadsheets and SQL; ability to build integrations using APIs, n8n, Zapier, or lightweight code; practical AI tool use.
+                  - generic [ref=f3e924]: Salesforce, HubSpot, SQL, n8n, Zapier, APIs
+              - generic [ref=f3e930]:
+                - generic [ref=f3e931]:
+                  - link "Job Posting" [ref=f3e932] [cursor=pointer]:
+                    - /url: /job/founders-office-revenue-operations-and-systems-revops-enterpret-5a9p7c60c8gzfyy4
+                  - link "View all" [ref=f3e936] [cursor=pointer]:
+                    - /url: /org/enterpret.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e938] [cursor=pointer]
+            - generic [ref=f3e947]:
+              - generic [ref=f3e948]:
+                - generic [ref=f3e949]:
+                  - generic [ref=f3e950]: 1w
+                  - generic [ref=f3e954]: Senior Revenue Operations Systems Manager
+                  - generic [ref=f3e956]: Hyderabad, Telangana, India
+                  - generic [ref=f3e961]:
+                    - generic [ref=f3e962]: Onsite
+                    - generic [ref=f3e963]: Full Time
+                - generic [ref=f3e964]:
+                  - generic [ref=f3e965]:
+                    - img "Arup" [ref=f3e968]
+                    - generic [ref=f3e969]: "Arup: Global professional services firm specializing in built environment solutions."
+                  - generic [ref=f3e973]:
+                    - generic [ref=f3e974]: 10+ YOE
+                    - text: 10+ years relevant experience including several years leading Revenue Operations, Commercial Operations or Business Systems in a B2B software/SaaS business; ownership of Dynamics 365 or comparable CRM and HubSpot; experience leading CRM developers and delivering automation/AI initiatives.
+                  - generic [ref=f3e975]: Dynamics 365, HubSpot, CRM
+              - generic [ref=f3e981]:
+                - generic [ref=f3e982]:
+                  - link "Job Posting" [ref=f3e983] [cursor=pointer]:
+                    - /url: /job/senior-revenue-operations-systems-manager-arup-hyderabad-telangana-ba9j3d3uoxm2e46x
+                  - link "View all" [ref=f3e987] [cursor=pointer]:
+                    - /url: /org/arup.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e989] [cursor=pointer]
+            - generic [ref=f3e999]:
+              - generic [ref=f3e1000]:
+                - generic [ref=f3e1001]:
+                  - generic [ref=f3e1002]: 5mo
+                  - generic [ref=f3e1006]: Director - Revenue Operations (Strategy & Transformation)
+                  - generic [ref=f3e1008]: Gurgaon, Haryana, India
+                  - generic [ref=f3e1013]:
+                    - generic [ref=f3e1014]: Onsite
+                    - generic [ref=f3e1015]: Full Time
+                - generic [ref=f3e1016]:
+                  - generic [ref=f3e1017]:
+                    - img "Mastercard" [ref=f3e1020]
+                    - generic [ref=f3e1021]:
+                      - text: Mastercard
+                      - generic [ref=f3e1022]: "NYSE: MA"
+                      - text: ": Global payments technology powering digital economies."
+                  - generic [ref=f3e1026]:
+                    - generic [ref=f3e1027]: 10+ YOE
+                    - text: 10+ years in strategy, transformation, consulting, or revenue/sales operations; proven large-scale transformation leadership; deep understanding of revenue lifecycle, process engineering, analytics, and stakeholder influence in B2B/SaaS/payments.
+                  - generic [ref=f3e1028]: Salesforce, O2C, Business Process Management, CRM, workflow automation, analytics
+              - generic [ref=f3e1034]:
+                - generic [ref=f3e1035]:
+                  - link "Job Posting" [ref=f3e1036] [cursor=pointer]:
+                    - /url: /job/director-revenue-operations-strategy-and-transformation-mastercard-2rhqsw9xretl4tzt
+                  - generic [ref=f3e1040]:
+                    - button "Previous job at this company" [disabled] [ref=f3e1041]
+                    - generic [ref=f3e1044]:
+                      - button "Show job 1" [ref=f3e1046] [cursor=pointer]
+                      - button "Show job 2" [ref=f3e1048] [cursor=pointer]
+                    - button "Next job at this company" [ref=f3e1049] [cursor=pointer]
+                  - button "View all" [ref=f3e1052] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=f3e1054] [cursor=pointer]
+            - generic [ref=f3e1063]:
+              - generic [ref=f3e1064]:
+                - generic [ref=f3e1065]:
+                  - generic [ref=f3e1066]: 3mo
+                  - generic [ref=f3e1070]: Revenue Operation Analyst
+                  - generic [ref=f3e1072]: India
+                  - generic [ref=f3e1077]:
+                    - generic [ref=f3e1078]: Remote
+                    - generic [ref=f3e1079]: Full Time
+                - generic [ref=f3e1080]:
+                  - generic [ref=f3e1081]:
+                    - img "Level AI" [ref=f3e1084]
+                    - generic [ref=f3e1085]: "Level AI: Level AI is an AI customer-experience platform helping enterprise contact centers analyze interactions and automate quality assurance."
+                  - generic [ref=f3e1089]:
+                    - generic [ref=f3e1090]: 3+ YOE
+                    - text: 3+ years revenue or sales operations experience in SaaS; strong GTM tool expertise, advanced spreadsheet and Google Workspace skills, cross-functional collaboration, and project management.
+                  - generic [ref=f3e1091]: Gong, Salesforce, Hubspot, ZoomInfo, LinkedIn Sales Navigator, Apollo, Outreach, CPQ, Google Workspace
+              - generic [ref=f3e1097]:
+                - generic [ref=f3e1098]:
+                  - link "Job Posting" [ref=f3e1099] [cursor=pointer]:
+                    - /url: /job/revenue-operation-analyst-level-ai-india-dayvqzhntfi3i2wm
+                  - link "View all" [ref=f3e1103] [cursor=pointer]:
+                    - /url: /org/thelevel.ai?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e1105] [cursor=pointer]
+            - generic [ref=f3e1114]:
+              - generic [ref=f3e1115]:
+                - generic [ref=f3e1116]:
+                  - generic [ref=f3e1117]: 3d
+                  - generic [ref=f3e1121]: Revenue Excellence Operations Manager
+                  - generic [ref=f3e1123]: Bangalore, Karnataka, India
+                  - generic [ref=f3e1128]:
+                    - generic [ref=f3e1129]: Onsite
+                    - generic [ref=f3e1130]: Full Time
+                - generic [ref=f3e1131]:
+                  - generic [ref=f3e1132]:
+                    - img "UiPath" [ref=f3e1135]
+                    - generic [ref=f3e1136]:
+                      - text: UiPath
+                      - generic [ref=f3e1137]: "NYSE: PATH"
+                      - text: ": Develops AI-powered enterprise automation software."
+                  - generic [ref=f3e1141]:
+                    - generic [ref=f3e1142]: 7+ YOE
+                    - text: MBA from a premier B School; 7+ years in strategy, sales operations, business operations, or finance; strong business-process design, data analysis, and visualization skills; proficiency in Excel, Salesforce, Power BI, and PowerPoint.
+                  - generic [ref=f3e1143]: Microsoft Excel, Salesforce, Microsoft Power BI, Microsoft PowerPoint
+              - generic [ref=f3e1149]:
+                - generic [ref=f3e1150]:
+                  - link "Job Posting" [ref=f3e1151] [cursor=pointer]:
+                    - /url: /job/revenue-excellence-operations-manager-uipath-bangalore-karnataka-exw2kjsp5d3k3po9
+                  - link "View all" [ref=f3e1155] [cursor=pointer]:
+                    - /url: /org/uipath.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e1157] [cursor=pointer]
+            - generic [ref=f3e1166]:
+              - generic [ref=f3e1167]:
+                - generic [ref=f3e1168]:
+                  - generic [ref=f3e1169]: 3w
+                  - generic [ref=f3e1173]: Senior Revenue Operations Systems Manager in Hyderabad, -, India
+                  - generic [ref=f3e1175]: Hyderabad, Telangana, India
+                  - generic [ref=f3e1180]:
+                    - generic [ref=f3e1181]: Onsite
+                    - generic [ref=f3e1182]: Full Time
+                - generic [ref=f3e1183]:
+                  - generic [ref=f3e1184]:
+                    - img "Arup" [ref=f3e1187]
+                    - generic [ref=f3e1188]: "Arup: Global professional services firm specializing in built environment solutions."
+                  - generic [ref=f3e1192]:
+                    - generic [ref=f3e1193]: 10+ YOE
+                    - text: 10+ years relevant experience including several years leading Revenue Operations, Commercial Operations or Business Systems in a B2B software/SaaS business; ownership of Dynamics 365 or comparable CRM and HubSpot or similar; experience leading CRM developers and delivering automation/AI initiatives.
+                  - generic [ref=f3e1194]: Dynamics 365, HubSpot, AI, automation
+              - generic [ref=f3e1200]:
+                - generic [ref=f3e1201]:
+                  - link "Job Posting" [ref=f3e1202] [cursor=pointer]:
+                    - /url: /job/senior-revenue-operations-systems-manager-in-hyderabad-india-arup-o5r3gmaf3wmnoe2l
+                  - link "View all" [ref=f3e1206] [cursor=pointer]:
+                    - /url: /org/arup.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e1208] [cursor=pointer]
+            - generic [ref=f3e1217]:
+              - generic [ref=f3e1218]:
+                - generic [ref=f3e1219]:
+                  - generic [ref=f3e1220]: 1mo
+                  - generic [ref=f3e1224]: Revenue Operations Associate -Gurugram (Contractual)
+                  - generic [ref=f3e1226]: Gurugram, Haryana, India
+                  - generic [ref=f3e1231]:
+                    - generic [ref=f3e1232]: Field
+                    - generic [ref=f3e1233]: Full Time, Contract
+                - generic [ref=f3e1234]:
+                  - generic [ref=f3e1235]:
+                    - img "Flix" [ref=f3e1238]
+                    - generic [ref=f3e1239]: "Flix: Global travel-tech operating intercity bus and train services."
+                  - generic [ref=f3e1243]:
+                    - generic [ref=f3e1244]: 2+ YOE
+                    - text: 2-4 years experience in business development, commercial partnerships, field operations or programme management; Bachelor's degree; Excel/Google Sheets; Hindi and English communication; willingness to travel extensively across Indian highway corridors.
+                  - generic [ref=f3e1245]: Microsoft Excel, Google Sheets
+              - generic [ref=f3e1251]:
+                - generic [ref=f3e1252]:
+                  - link "Job Posting" [ref=f3e1253] [cursor=pointer]:
+                    - /url: /job/revenue-operations-associate-gurugram-contractual-flix-gurugram-506mnilt4n27p5qy
+                  - link "View all" [ref=f3e1257] [cursor=pointer]:
+                    - /url: /org/flixbus.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e1259] [cursor=pointer]
+            - generic [ref=f3e1268]:
+              - generic [ref=f3e1269]:
+                - generic [ref=f3e1270]:
+                  - generic [ref=f3e1271]: 3d
+                  - generic [ref=f3e1275]: Sr Analyst, Revenue Operations
+                  - generic [ref=f3e1277]: Chennai, Tamil Nadu, India
+                  - generic [ref=f3e1282]:
+                    - generic [ref=f3e1283]: Hybrid
+                    - generic [ref=f3e1284]: Full Time
+                - generic [ref=f3e1285]:
+                  - generic [ref=f3e1286]:
+                    - img "PayPal" [ref=f3e1289]
+                    - generic [ref=f3e1290]:
+                      - text: PayPal
+                      - generic [ref=f3e1291]: "NASDAQ: PYPL"
+                      - text: ": Global digital payment platform for consumers and businesses."
+                  - generic [ref=f3e1295]:
+                    - generic [ref=f3e1296]: 3+ YOE
+                    - text: 3+ years relevant experience and a Bachelor's degree or equivalent combination; strong analytical, communication, and data skills; ability to mentor junior analysts.
+              - generic [ref=f3e1297]:
+                - generic [ref=f3e1298]:
+                  - link "Job Posting" [ref=f3e1299] [cursor=pointer]:
+                    - /url: /job/sr-analyst-revenue-operations-paypal-chennai-tamil-nadu-lv8r95ogsatk5s9d
+                  - link "View all" [ref=f3e1303] [cursor=pointer]:
+                    - /url: /org/paypal.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e1305] [cursor=pointer]
+            - generic [ref=f3e1314]:
+              - generic [ref=f3e1315]:
+                - generic [ref=f3e1316]:
+                  - generic [ref=f3e1317]: 1mo
+                  - generic [ref=f3e1321]: Revenue Operations / GTM Engineer
+                  - generic [ref=f3e1323]: India
+                  - generic [ref=f3e1328]:
+                    - generic [ref=f3e1329]: Hybrid
+                    - generic [ref=f3e1330]: Full Time
+                - generic [ref=f3e1331]:
+                  - generic [ref=f3e1332]:
+                    - img "Lyric" [ref=f3e1335]
+                    - generic [ref=f3e1336]: "Lyric: AI-native supply-chain decision platform for enterprises to model, plan, and operate their supply chains."
+                  - generic [ref=f3e1340]:
+                    - generic [ref=f3e1341]: 5+ YOE
+                    - text: 5-8 years in B2B SaaS RevOps, marketing ops, sales ops or GTM engineering; hands-on CRM experience (HubSpot or Salesforce); experience with GTM automation and enrichment tools; strong data hygiene and analytical thinking; project management and clear written communication.
+                  - generic [ref=f3e1342]: HubSpot, Salesforce, Clay, Zapier, Make, n8n
+              - generic [ref=f3e1348]:
+                - generic [ref=f3e1349]:
+                  - link "Job Posting" [ref=f3e1350] [cursor=pointer]:
+                    - /url: /job/revenue-operations-gtm-engineer-lyric-india-4ubyuwsit4fxork7
+                  - link "View all" [ref=f3e1354] [cursor=pointer]:
+                    - /url: /org/lyric.tech?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e1356] [cursor=pointer]
+            - generic [ref=f3e1365]:
+              - generic [ref=f3e1366]:
+                - generic [ref=f3e1367]:
+                  - generic [ref=f3e1368]: 2mo
+                  - generic [ref=f3e1372]: Revenue Operations and AI Systems Engineer
+                  - generic [ref=f3e1374]: Bengaluru, Karnataka, India
+                  - generic [ref=f3e1379]:
+                    - generic [ref=f3e1380]: Remote
+                    - generic [ref=f3e1381]: Full Time
+                - generic [ref=f3e1382]:
+                  - generic [ref=f3e1383]:
+                    - img "Datahash" [ref=f3e1386]
+                    - generic [ref=f3e1387]: "Datahash: First-party data activation platform that helps brands route privacy-safe customer events to advertising platforms."
+                  - generic [ref=f3e1391]:
+                    - generic [ref=f3e1392]: 4+ YOE
+                    - text: 4-5 years in revenue operations, sales operations, business systems or analytics engineering in B2B software; hands-on CRM builder (Zoho preferred, Salesforce or HubSpot fine); Python or JavaScript, SQL, APIs; LLM tooling experience (Claude, agent SDKs, MCP); data rigor.
+                  - generic [ref=f3e1393]: Zoho, Salesforce, HubSpot, Python, JavaScript, SQL, Claude, MCP
+              - generic [ref=f3e1399]:
+                - generic [ref=f3e1400]:
+                  - link "Job Posting" [ref=f3e1401] [cursor=pointer]:
+                    - /url: /job/revenue-operations-and-ai-systems-engineer-datahash-bengaluru-ursaxkde92vmazcs
+                  - link "View all" [ref=f3e1405] [cursor=pointer]:
+                    - /url: /org/datahash.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e1407] [cursor=pointer]
+            - generic [ref=f3e1416]:
+              - generic [ref=f3e1417]:
+                - generic [ref=f3e1418]:
+                  - generic [ref=f3e1419]: 3w
+                  - generic [ref=f3e1423]: Revenue Operations CRM Manager
+                  - generic [ref=f3e1425]: Warsaw or Bengaluru or Hyderabad
+                  - generic [ref=f3e1430]:
+                    - generic [ref=f3e1431]: Hybrid
+                    - generic [ref=f3e1432]: Full Time
+                - generic [ref=f3e1433]:
+                  - generic [ref=f3e1434]:
+                    - img "Syncron" [ref=f3e1437]
+                    - generic [ref=f3e1438]: "Syncron: Privately held Swedish SaaS provider of aftermarket parts-planning, pricing, and warranty software for manufacturers and distributors."
+                  - generic [ref=f3e1439]: Experience owning CRM strategy in complex B2B environment, deep Salesforce expertise with hands-on configuration, data governance, integration design; SaaS experience and Salesforce certification preferred.
+                  - generic [ref=f3e1443]: Salesforce, NetSuite
+              - generic [ref=f3e1449]:
+                - generic [ref=f3e1450]:
+                  - link "Job Posting" [ref=f3e1451] [cursor=pointer]:
+                    - /url: /job/revenue-operations-crm-manager-syncron-warsaw-masovian-voivodeship-7kd56e7azzl2giy5
+                  - link "View all" [ref=f3e1455] [cursor=pointer]:
+                    - /url: /org/syncron.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e1457] [cursor=pointer]
+            - generic [ref=f3e1466]:
+              - generic [ref=f3e1467]:
+                - generic [ref=f3e1468]:
+                  - generic [ref=f3e1469]: 1w
+                  - generic [ref=f3e1473]: Sr. Revenue Operations BI Analyst
+                  - generic [ref=f3e1475]: Hyderabad, Telangana, India
+                  - generic [ref=f3e1480]:
+                    - generic [ref=f3e1481]: Onsite
+                    - generic [ref=f3e1482]: Full Time
+                - generic [ref=f3e1483]:
+                  - generic [ref=f3e1484]:
+                    - img "Cyara" [ref=f3e1487]
+                    - generic [ref=f3e1488]: "Cyara: AI-powered customer-experience assurance software serving enterprises with testing and monitoring across voice, digital, and messaging channels."
+                  - generic [ref=f3e1492]:
+                    - generic [ref=f3e1493]: 5+ YOE
+                    - text: 5+ years in data analyst, BI, or revenue operations for Enterprise SaaS; expert SQL; extensive BI tool experience (Tableau, Qlik, Power BI); deep Salesforce data knowledge; strong communication and attention to detail.
+                  - generic [ref=f3e1494]: Tableau, Qlik, Power BI, SQL, Salesforce
+              - generic [ref=f3e1500]:
+                - generic [ref=f3e1501]:
+                  - link "Job Posting" [ref=f3e1502] [cursor=pointer]:
+                    - /url: /job/sr-revenue-operations-bi-analyst-cyara-hyderabad-telangana-dmyetxvscj3r7hzr
+                  - link "View all" [ref=f3e1506] [cursor=pointer]:
+                    - /url: /org/cyara.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e1508] [cursor=pointer]
+            - generic [ref=f3e1517]:
+              - generic [ref=f3e1518]:
+                - generic [ref=f3e1519]:
+                  - generic [ref=f3e1520]: 1mo
+                  - generic [ref=f3e1524]: Lead Revenue Accountant & Operations Analyst
+                  - generic [ref=f3e1526]: India
+                  - generic [ref=f3e1531]:
+                    - generic [ref=f3e1532]: Remote
+                    - generic [ref=f3e1533]: Full Time
+                - generic [ref=f3e1534]:
+                  - generic [ref=f3e1535]:
+                    - img "ChargePoint Technologies India Pvt. Ltd." [ref=f3e1538]
+                    - generic [ref=f3e1539]: "ChargePoint Technologies India Pvt. Ltd.: Indian private subsidiary developing EV charging hardware, software, and services for organizations and fleets."
+                  - generic [ref=f3e1543]:
+                    - generic [ref=f3e1544]: 12+ YOE
+                    - text: 12-15 years progressive revenue accounting/operations experience; expert ASC 606; NetSuite and Salesforce expertise; advanced Excel/Google Sheets; process automation and SOX compliance track record; Bachelor's in Accounting/Finance or CA/CPA.
+                  - generic [ref=f3e1545]: NetSuite, Salesforce, Microsoft Excel, Google Sheets, Tableau, Power BI
+              - generic [ref=f3e1551]:
+                - generic [ref=f3e1552]:
+                  - link "Job Posting" [ref=f3e1553] [cursor=pointer]:
+                    - /url: /job/lead-revenue-accountant-and-operations-analyst-chargepoint-ngrqj79m35naxn35
+                  - link "View all" [ref=f3e1557] [cursor=pointer]:
+                    - /url: /org/chargepoint.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e1559] [cursor=pointer]
+            - generic [ref=f3e1568]:
+              - generic [ref=f3e1569]:
+                - generic [ref=f3e1570]:
+                  - generic [ref=f3e1571]: 2mo
+                  - generic [ref=f3e1575]: Revenue Operation Analyst
+                  - generic [ref=f3e1577]: Noida, Uttar Pradesh, India
+                  - generic [ref=f3e1582]:
+                    - generic [ref=f3e1583]: Onsite
+                    - generic [ref=f3e1584]: Full Time
+                - generic [ref=f3e1585]:
+                  - generic [ref=f3e1586]:
+                    - img "apexanalytix" [ref=f3e1589]
+                    - generic [ref=f3e1590]: "apexanalytix: Enterprise supplier management and risk software serving Fortune 500 and Global 2000 organizations."
+                  - generic [ref=f3e1594]:
+                    - generic [ref=f3e1595]: 4+ YOE
+                    - text: Requires 4–5+ years in revenue, sales operations, or business/data analysis; hands-on Salesforce, advanced Excel or Google Sheets, SQL, BI dashboards, statistical analysis, and strong English communication.
+                  - generic [ref=f3e1596]: Salesforce, Microsoft Excel, SQL, Power BI, Tableau, Google Sheets, Power Query, Power Pivot, Python, HubSpot, Groove, Koncert, Seismic, Salesforce Flow Builder, SOQL
+              - generic [ref=f3e1602]:
+                - generic [ref=f3e1603]:
+                  - link "Job Posting" [ref=f3e1604] [cursor=pointer]:
+                    - /url: /job/revenue-operation-analyst-apexanalytix-noida-uttar-pradesh-y58aonq8jv5xgiti
+                  - link "View all" [ref=f3e1608] [cursor=pointer]:
+                    - /url: /org/apexanalytix.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e1610] [cursor=pointer]
+            - generic [ref=f3e1621]:
+              - generic [ref=f3e1622]:
+                - generic [ref=f3e1623]:
+                  - generic [ref=f3e1624]: 3mo
+                  - generic [ref=f3e1628]: Manager Revenue
+                  - generic [ref=f3e1630]: Noida, Uttar Pradesh, India
+                  - generic [ref=f3e1635]:
+                    - generic [ref=f3e1636]: Onsite
+                    - generic [ref=f3e1637]: Full Time
+                - generic [ref=f3e1638]:
+                  - generic [ref=f3e1639]:
+                    - img "Radisson Blu" [ref=f3e1642]
+                    - generic [ref=f3e1643]: "Radisson Blu: Upper-upscale hotel brand serving business and leisure travelers with stylish accommodations, wellness facilities, dining, and meeting spaces."
+                  - generic [ref=f3e1644]: Bachelor's degree in hospitality, business, or related field preferred; hospitality revenue management experience; strong analytical, forecasting, pricing, communication, leadership, and stakeholder management skills.
+                  - generic [ref=f3e1648]: PMS, CRS, Channel Manager, RMS, CRM
+              - generic [ref=f3e1654]:
+                - generic [ref=f3e1655]:
+                  - link "Job Posting" [ref=f3e1656] [cursor=pointer]:
+                    - /url: /job/manager-revenue-radisson-blu-noida-uttar-pradesh-qmdef2bytz8adwhp
+                  - generic [ref=f3e1660]:
+                    - button "Previous job at this company" [disabled] [ref=f3e1661]
+                    - generic [ref=f3e1664]:
+                      - button "Show job 1" [ref=f3e1666] [cursor=pointer]
+                      - button "Show job 2" [ref=f3e1668] [cursor=pointer]
+                      - button "Show job 3" [ref=f3e1670] [cursor=pointer]
+                    - button "Next job at this company" [ref=f3e1671] [cursor=pointer]
+                  - button "View all" [ref=f3e1674] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=f3e1676] [cursor=pointer]
+            - generic [ref=f3e1685]:
+              - generic [ref=f3e1686]:
+                - generic [ref=f3e1687]:
+                  - generic [ref=f3e1688]: 2w
+                  - generic [ref=f3e1692]: Revenue Data Operations Specialist
+                  - generic [ref=f3e1694]: Hyderabad, Telangana, India
+                  - generic [ref=f3e1699]:
+                    - generic [ref=f3e1700]: Onsite
+                    - generic [ref=f3e1701]: Full Time
+                - generic [ref=f3e1702]:
+                  - generic [ref=f3e1703]:
+                    - img "C3 India Delivery Centre LLP" [ref=f3e1706]
+                    - generic [ref=f3e1707]: "C3 India Delivery Centre LLP: Indian delivery center providing advisory, consultancy, and technical support services to Crowe LLP."
+                  - generic [ref=f3e1711]:
+                    - generic [ref=f3e1712]: 2+ YOE
+                    - text: At least two years of experience in CRM data operations, data quality, data stewardship, sales or marketing operations, or related field; strong Excel skills; clear written communication; careful execution of documented processes.
+                  - generic [ref=f3e1713]: Microsoft Dynamics 365 Sales, Microsoft Excel, Outreach, ZoomInfo, Dun & Bradstreet, S&P
+              - generic [ref=f3e1719]:
+                - generic [ref=f3e1720]:
+                  - link "Job Posting" [ref=f3e1721] [cursor=pointer]:
+                    - /url: /job/revenue-data-operations-specialist-c3-india-delivery-centre-llp-qe256m1l48ezqhs3
+                  - link "View all" [ref=f3e1725] [cursor=pointer]:
+                    - /url: /org/crowe.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e1727] [cursor=pointer]
+            - generic [ref=f3e1738]:
+              - generic [ref=f3e1739]:
+                - generic [ref=f3e1740]:
+                  - generic [ref=f3e1741]: 1mo
+                  - generic [ref=f3e1745]: Revenue Analyst
+                  - generic [ref=f3e1747]: Pune, Maharashtra, India
+                  - generic [ref=f3e1752]:
+                    - generic [ref=f3e1753]: Onsite
+                    - generic [ref=f3e1754]: Full Time
+                - generic [ref=f3e1755]:
+                  - generic [ref=f3e1756]:
+                    - img "Hilton" [ref=f3e1759]
+                    - generic [ref=f3e1760]:
+                      - text: Hilton
+                      - generic [ref=f3e1761]: "NYSE: HLT"
+                      - text: ": A leading global hospitality managing a diverse hotel portfolio."
+                  - generic [ref=f3e1765]:
+                    - generic [ref=f3e1766]: 5+ YOE
+                    - text: Degree in Hospitality, Business, Finance or related field; 5+ years hospitality revenue analyst experience preferred; skilled in RMS, Excel, PMS; strong analytical, forecasting, and communication skills.
+                  - generic [ref=f3e1767]: Excel, RMS, PMS
+              - generic [ref=f3e1773]:
+                - generic [ref=f3e1774]:
+                  - link "Job Posting" [ref=f3e1775] [cursor=pointer]:
+                    - /url: /job/revenue-analyst-hilton-pune-maharashtra-3woehf7bua6sj13p
+                  - generic [ref=f3e1779]:
+                    - button "Previous job at this company" [disabled] [ref=f3e1780]
+                    - generic [ref=f3e1783]:
+                      - button "Show job 1" [ref=f3e1785] [cursor=pointer]
+                      - button "Show job 2" [ref=f3e1787] [cursor=pointer]
+                      - button "Show job 3" [ref=f3e1789] [cursor=pointer]
+                      - button "Show job 4" [ref=f3e1791] [cursor=pointer]
+                    - button "Next job at this company" [ref=f3e1792] [cursor=pointer]
+                  - button "View all" [ref=f3e1795] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=f3e1797] [cursor=pointer]
+            - generic [ref=f3e1808]:
+              - generic [ref=f3e1809]:
+                - generic [ref=f3e1810]:
+                  - generic [ref=f3e1811]: 1mo
+                  - generic [ref=f3e1815]: Revenue Manager
+                  - generic [ref=f3e1817]: Chandigarh, Chandigarh, India
+                  - generic [ref=f3e1822]:
+                    - generic [ref=f3e1823]: Onsite
+                    - generic [ref=f3e1824]: Full Time
+                - generic [ref=f3e1825]:
+                  - generic [ref=f3e1826]:
+                    - img "Hyatt Centric" [ref=f3e1829]
+                    - generic [ref=f3e1830]: "Hyatt Centric: Hyatt Centric is a full-service lifestyle hotel brand serving business and leisure travelers in prime destinations."
+                  - generic [ref=f3e1834]:
+                    - generic [ref=f3e1835]: 2+ YOE
+                    - text: University degree in Strategic Marketing or Hospitality/Tourism management; MBA preferred; minimum 2 years experience as Revenue Manager with strategic orientation, problem-solving, administrative and interpersonal skills.
+              - generic [ref=f3e1836]:
+                - generic [ref=f3e1837]:
+                  - link "Job Posting" [ref=f3e1838] [cursor=pointer]:
+                    - /url: /job/revenue-manager-hyatt-centric-chandigarh-chandigarh-57qtk6e4p6acfat2
+                  - generic [ref=f3e1842]:
+                    - button "Previous job at this company" [disabled] [ref=f3e1843]
+                    - generic [ref=f3e1846]:
+                      - button "Show job 1" [ref=f3e1848] [cursor=pointer]
+                      - button "Show job 2" [ref=f3e1850] [cursor=pointer]
+                      - button "Show job 3" [ref=f3e1852] [cursor=pointer]
+                    - button "Next job at this company" [ref=f3e1853] [cursor=pointer]
+                  - button "View all" [ref=f3e1856] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=f3e1858] [cursor=pointer]
+            - generic [ref=f3e1869]:
+              - generic [ref=f3e1870]:
+                - generic [ref=f3e1871]:
+                  - generic [ref=f3e1872]: 1mo
+                  - generic [ref=f3e1876]: Mgr-Revenue
+                  - generic [ref=f3e1878]: Bilaspur, Chhattisgarh, India
+                  - generic [ref=f3e1883]:
+                    - generic [ref=f3e1884]: Onsite
+                    - generic [ref=f3e1885]: Full Time
+                - generic [ref=f3e1886]:
+                  - generic [ref=f3e1887]:
+                    - img "Courtyard" [ref=f3e1890]
+                    - generic [ref=f3e1891]: "Courtyard: Courtyard is a Marriott hotel brand serving business and leisure travelers through more than 1,100 hotels worldwide."
+                  - generic [ref=f3e1895]:
+                    - generic [ref=f3e1896]: 1+ YOE
+                    - text: 2-year degree in Business Administration, Finance, Economics, Hotel Management or related with 3 years revenue management/sales experience, OR 4-year bachelor's degree with 1 year experience.
+                  - generic [ref=f3e1897]: reservation system, demand forecasting system
+              - generic [ref=f3e1903]:
+                - generic [ref=f3e1904]:
+                  - link "Job Posting" [ref=f3e1905] [cursor=pointer]:
+                    - /url: /job/mgr-revenue-courtyard-bilaspur-chhattisgarh-71vqldu7vgbr9vzi
+                  - generic [ref=f3e1909]:
+                    - button "Previous job at this company" [disabled] [ref=f3e1910]
+                    - generic [ref=f3e1913]:
+                      - button "Show job 1" [ref=f3e1915] [cursor=pointer]
+                      - button "Show job 2" [ref=f3e1917] [cursor=pointer]
+                      - button "Show job 3" [ref=f3e1919] [cursor=pointer]
+                      - button "Show job 4" [ref=f3e1921] [cursor=pointer]
+                    - button "Next job at this company" [ref=f3e1922] [cursor=pointer]
+                  - button "View all" [ref=f3e1925] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=f3e1927] [cursor=pointer]
+            - generic [ref=f3e1937]:
+              - generic [ref=f3e1938]:
+                - generic [ref=f3e1939]:
+                  - generic [ref=f3e1940]: 5mo
+                  - generic [ref=f3e1944]: Revenue Manager
+                  - generic [ref=f3e1946]: Greater Noida or Noida
+                  - generic [ref=f3e1951]:
+                    - generic [ref=f3e1952]: Onsite
+                    - generic [ref=f3e1953]: Full Time
+                - generic [ref=f3e1954]:
+                  - generic [ref=f3e1955]:
+                    - img "Paytm" [ref=f3e1958]
+                    - generic [ref=f3e1959]:
+                      - text: Paytm
+                      - generic [ref=f3e1960]: "NSE: PAYTM"
+                      - text: ": India's leading mobile payments and financial services distribution."
+                  - generic [ref=f3e1964]:
+                    - generic [ref=f3e1965]: 5+ YOE
+                    - text: 5+ years experience in revenue management, growth, category management, or business analytics; experience in travel/OTA/e-commerce; strong pricing, demand forecasting, profitability, retention, analytics, A/B testing, and stakeholder management.
+                  - generic [ref=f3e1966]: AI, GPT
+              - generic [ref=f3e1972]:
+                - generic [ref=f3e1973]:
+                  - link "Job Posting" [ref=f3e1974] [cursor=pointer]:
+                    - /url: /job/revenue-manager-paytm-greater-noida-uttar-pradesh-jhtjya4x1ao04oc4
+                  - generic [ref=f3e1978]:
+                    - button "Previous job at this company" [disabled] [ref=f3e1979]
+                    - generic [ref=f3e1982]:
+                      - button "Show job 1" [ref=f3e1984] [cursor=pointer]
+                      - button "Show job 2" [ref=f3e1986] [cursor=pointer]
+                    - button "Next job at this company" [ref=f3e1987] [cursor=pointer]
+                  - button "View all" [ref=f3e1990] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=f3e1992] [cursor=pointer]
+            - generic [ref=f3e2001]:
+              - generic [ref=f3e2002]:
+                - generic [ref=f3e2003]:
+                  - generic [ref=f3e2004]: 4mo
+                  - generic [ref=f3e2008]: Revenue Transformation Lead
+                  - generic [ref=f3e2010]: Bangalore or Kuala Lumpur
+                  - generic [ref=f3e2015]:
+                    - generic [ref=f3e2016]: Hybrid
+                    - generic [ref=f3e2017]: Full Time
+                - generic [ref=f3e2018]:
+                  - generic [ref=f3e2019]:
+                    - img "AVEVA" [ref=f3e2022]
+                    - generic [ref=f3e2023]: "AVEVA: Global leader in industrial software and digital transformation solutions."
+                  - generic [ref=f3e2027]:
+                    - generic [ref=f3e2028]: 5+ YOE
+                    - text: 5-8+ years in Sales Operations, Revenue Operations, or LDR/SDR Operations; strong CRM (Salesforce), sales engagement (Outreach), and B2B intelligence (ZoomInfo, Lusha) experience; advanced Excel; process design and analytical skills.
+                  - generic [ref=f3e2029]: Salesforce, Outreach, Lusha, ZoomInfo, Cognism, Wrike, Relevance AI, Microsoft Excel, Power BI
+              - generic [ref=f3e2035]:
+                - generic [ref=f3e2036]:
+                  - link "Job Posting" [ref=f3e2037] [cursor=pointer]:
+                    - /url: /job/revenue-transformation-lead-aveva-bangalore-karnataka-viwilu9iuvwmiuto
+                  - link "View all" [ref=f3e2041] [cursor=pointer]:
+                    - /url: /org/aveva.com?rank_q=revenue+operations&sort=relevance
+                - button "See how many viewed or applied" [ref=f3e2043] [cursor=pointer]
+            - generic [ref=f3e2054]:
+              - generic [ref=f3e2055]:
+                - generic [ref=f3e2056]:
+                  - generic [ref=f3e2057]: 2w
+                  - generic [ref=f3e2061]: Revenue Manager (24281)
+                  - generic [ref=f3e2063]: India
+                  - generic [ref=f3e2068]:
+                    - generic [ref=f3e2069]: Onsite
+                    - generic [ref=f3e2070]: Full Time
+                - generic [ref=f3e2071]:
+                  - generic [ref=f3e2072]:
+                    - img "Indian Hotels Company Limited" [ref=f3e2075]
+                    - generic [ref=f3e2076]:
+                      - text: Indian Hotels Company Limited
+                      - generic [ref=f3e2077]: "BSE / NSE: INDHOTEL"
+                      - text: ": South Asia's largest and most iconic hospitality."
+                  - generic [ref=f3e2081]:
+                    - generic [ref=f3e2082]: 3+ YOE
+                    - text: Bachelor's degree in Hospitality, Business, or related; 3-4 years revenue management experience; MS Excel and PowerPoint proficiency; English required.
+                  - generic [ref=f3e2083]: Microsoft Excel, Microsoft PowerPoint, RMS
+              - generic [ref=f3e2089]:
+                - generic [ref=f3e2090]:
+                  - link "Job Posting" [ref=f3e2091] [cursor=pointer]:
+                    - /url: /job/revenue-manager-24281-indian-hotels-company-limited-india-cvkyovehgigd1up0
+                  - generic [ref=f3e2095]:
+                    - button "Previous job at this company" [disabled] [ref=f3e2096]
+                    - generic [ref=f3e2099]:
+                      - button "Show job 1" [ref=f3e2101] [cursor=pointer]
+                      - button "Show job 2" [ref=f3e2103] [cursor=pointer]
+                      - button "Show job 3" [ref=f3e2105] [cursor=pointer]
+                      - button "Show job 4" [ref=f3e2107] [cursor=pointer]
+                    - button "Next job at this company" [ref=f3e2108] [cursor=pointer]
+                  - button "View all" [ref=f3e2111] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=f3e2113] [cursor=pointer]
+            - generic [ref=f3e2123]:
+              - generic [ref=f3e2124]:
+                - generic [ref=f3e2125]:
+                  - generic [ref=f3e2126]: 5mo
+                  - generic [ref=f3e2130]: Portfolio Revenue Manager - India
+                  - generic [ref=f3e2132]: Gurgaon or India
+                  - generic [ref=f3e2137]:
+                    - generic [ref=f3e2138]: Hybrid
+                    - generic [ref=f3e2139]: Full Time
+                - generic [ref=f3e2140]:
+                  - generic [ref=f3e2141]:
+                    - img "IHG Hotels & Resorts" [ref=f3e2144]
+                    - generic [ref=f3e2145]:
+                      - text: IHG Hotels & Resorts
+                      - generic [ref=f3e2146]: "LSE: IHG"
+                      - text: ": Multinational hospitality managing a global portfolio of hotel brands."
+                  - generic [ref=f3e2150]:
+                    - generic [ref=f3e2151]: 6+ YOE
+                    - text: 6+ years in revenue management/pricing or commercial strategy, strong analytical and stakeholder management skills, ability to translate market insights into revenue strategies, leadership and coaching ability.
+              - generic [ref=f3e2152]:
+                - generic [ref=f3e2153]:
+                  - link "Job Posting" [ref=f3e2154] [cursor=pointer]:
+                    - /url: /job/portfolio-revenue-manager-india-ihg-hotels-and-resorts-gurgaon-haryana-npx0ft89law2rjju
+                  - generic [ref=f3e2158]:
+                    - button "Previous job at this company" [disabled] [ref=f3e2159]
+                    - generic [ref=f3e2162]:
+                      - button "Show job 1" [ref=f3e2164] [cursor=pointer]
+                      - button "Show job 2" [ref=f3e2166] [cursor=pointer]
+                    - button "Next job at this company" [ref=f3e2167] [cursor=pointer]
+                  - button "View all" [ref=f3e2170] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=f3e2172] [cursor=pointer]
+          - navigation "Pagination" [ref=f3e2179]:
+            - generic [ref=f3e2183]:
+              - link "1" [ref=f3e2184] [cursor=pointer]:
+                - /url: /classic?searchState=%7B%22searchQuery%22%3A%22revenue+operations%22%2C%22dateFetchedPastNDays%22%3A30%7D
+              - link "2" [ref=f3e2185] [cursor=pointer]:
+                - /url: /classic?searchState=%7B%22searchQuery%22%3A%22revenue+operations%22%2C%22dateFetchedPastNDays%22%3A30%7D&page=1
+              - link "3" [ref=f3e2186] [cursor=pointer]:
+                - /url: /classic?searchState=%7B%22searchQuery%22%3A%22revenue+operations%22%2C%22dateFetchedPastNDays%22%3A30%7D&page=2
+              - link "4" [ref=f3e2187] [cursor=pointer]:
+                - /url: /classic?searchState=%7B%22searchQuery%22%3A%22revenue+operations%22%2C%22dateFetchedPastNDays%22%3A30%7D&page=3
+              - link "5" [ref=f3e2188] [cursor=pointer]:
+                - /url: /classic?searchState=%7B%22searchQuery%22%3A%22revenue+operations%22%2C%22dateFetchedPastNDays%22%3A30%7D&page=4
+              - link "6" [ref=f3e2189] [cursor=pointer]:
+                - /url: /classic?searchState=%7B%22searchQuery%22%3A%22revenue+operations%22%2C%22dateFetchedPastNDays%22%3A30%7D&page=5
+              - link "7" [ref=f3e2190] [cursor=pointer]:
+                - /url: /classic?searchState=%7B%22searchQuery%22%3A%22revenue+operations%22%2C%22dateFetchedPastNDays%22%3A30%7D&page=6
+            - link "Next page" [ref=f3e2191] [cursor=pointer]:
+              - /url: /classic?searchState=%7B%22searchQuery%22%3A%22revenue+operations%22%2C%22dateFetchedPastNDays%22%3A30%7D&page=1
+          - contentinfo [ref=f3e2194]:
+            - generic [ref=f3e2195]:
+              - generic [ref=f3e2196]:
+                - link "Browse all jobs" [ref=f3e2197] [cursor=pointer]:
+                  - /url: /jobs
+                - navigation [ref=f3e2198]:
+                  - link "About" [ref=f3e2199] [cursor=pointer]:
+                    - /url: /about
+                  - link "Blog" [ref=f3e2200] [cursor=pointer]:
+                    - /url: /insights
+                  - link "Careers" [ref=f3e2201] [cursor=pointer]:
+                    - /url: /work-here
+                  - link "Talent Network" [ref=f3e2202] [cursor=pointer]:
+                    - /url: /talent-network
+                  - button "Espresso Club" [ref=f3e2203] [cursor=pointer]
+                  - link "Terms" [ref=f3e2204] [cursor=pointer]:
+                    - /url: /terms-and-conditions
+                  - link "Privacy" [ref=f3e2205] [cursor=pointer]:
+                    - /url: /private-policy
+                  - link "Your Privacy Choices" [ref=f3e2206] [cursor=pointer]:
+                    - /url: /private-policy#do-not-sell-or-share
+                  - link [ref=f3e2212] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/hiringcafe/
+                  - link [ref=f3e2215] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/hiring-cafe
+              - paragraph [ref=f3e2218]: © 2026 HiringCafe. All rights reserved.
+  - alert [ref=f3e2219]
+  - generic:
+    - region "Notifications-top"
+    - region "Notifications-top-left"
+    - region "Notifications-top-right"
+    - region "Notifications-bottom-left"
+    - region "Notifications-bottom"
+    - region "Notifications-bottom-right"

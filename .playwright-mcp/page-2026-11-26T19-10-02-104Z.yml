@@ -1,0 +1,1486 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - complementary [ref=e5]:
+      - generic [ref=e6]:
+        - link "HiringCafe" [ref=e8] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e12]:
+          - navigation "Site" [ref=e13]:
+            - list [ref=e14]:
+              - listitem [ref=e15]:
+                - link "Search" [ref=e16] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=e21]:
+                - link "Tracker" [ref=e22] [cursor=pointer]:
+                  - /url: /myhiringcafe/tracker
+              - listitem [ref=e27]:
+                - link "Network" [ref=e28] [cursor=pointer]:
+                  - /url: /talent-network
+              - listitem [ref=e33]:
+                - button "Support us" [ref=e34] [cursor=pointer]
+              - listitem [ref=e46]:
+                - link "Add jobs" [ref=e47] [cursor=pointer]:
+                  - /url: https://docs.google.com/forms/d/e/1FAIpQLScAu_64rXROytp48mGplJBM9Pc-HsEd-m0eXHUiaEG4QLiK0Q/viewform
+              - listitem [ref=e52]:
+                - link "Employers" [ref=e53] [cursor=pointer]:
+                  - /url: https://tally.so/r/n9rv4p
+          - button "Collapse menu" [ref=e59] [cursor=pointer]
+    - generic [ref=e64]:
+      - generic [ref=e69]:
+        - generic [ref=e71]:
+          - group "Search mode" [ref=e73]:
+            - link "Talent Agent" [ref=e75] [cursor=pointer]:
+              - /url: /ai-search
+              - generic [ref=e78]: Agent
+            - link "Classic Search" [ref=e79] [cursor=pointer]:
+              - /url: /classic
+              - generic [ref=e82]: Classic
+          - generic [ref=e83]:
+            - generic [ref=e84]:
+              - combobox "Job title or keyword" [ref=e86]
+              - button "Choose location and work environment" [ref=e88] [cursor=pointer]:
+                - generic [ref=e93]:
+                  - generic [ref=e94]: Location
+                  - generic [ref=e95]: Remote · Hybrid · Onsite · Field
+            - button "Search jobs" [ref=e98] [cursor=pointer]
+        - generic [ref=e101]:
+          - generic [ref=e102] [cursor=pointer]: Sign up
+          - button "Account" [ref=e105] [cursor=pointer]
+      - generic [ref=e106]:
+        - generic [ref=e112]:
+          - generic [ref=e113]:
+            - button "Filters" [ref=e114] [cursor=pointer]
+            - button "Collapse filter row" [expanded] [ref=e118] [cursor=pointer]
+          - generic [ref=e122]:
+            - button "Date Posted" [ref=e123] [cursor=pointer]
+            - button "Apply Process" [ref=e125] [cursor=pointer]
+            - button "Exclude Jobs" [ref=e127] [cursor=pointer]
+            - button "Activity & Outcomes New" [ref=e129] [cursor=pointer]:
+              - generic [ref=e130]: Activity & Outcomes
+              - generic: New
+            - button "Departments" [ref=e131] [cursor=pointer]
+            - button "Job Titles & Keywords" [ref=e133] [cursor=pointer]
+            - button "Experience" [ref=e135] [cursor=pointer]
+            - button "Commitment" [ref=e137] [cursor=pointer]
+            - button "Salary" [ref=e139] [cursor=pointer]
+            - button "Benefits & Perks" [ref=e141] [cursor=pointer]
+            - button "Education" [ref=e143] [cursor=pointer]
+            - button "Licenses & Certifications" [ref=e145] [cursor=pointer]
+            - button "Security Clearance" [ref=e147] [cursor=pointer]
+            - button "Languages" [ref=e149] [cursor=pointer]
+            - button "Encouraged to Apply" [ref=e151] [cursor=pointer]
+            - button "Shifts & Schedules" [ref=e153] [cursor=pointer]
+            - button "Travel Requirement" [ref=e155] [cursor=pointer]
+            - button "Company" [ref=e157] [cursor=pointer]
+            - button "Industry" [ref=e159] [cursor=pointer]
+            - button "Stage & Funding" [ref=e161] [cursor=pointer]
+            - button "Size" [ref=e163] [cursor=pointer]
+            - button "Founding Year" [ref=e165] [cursor=pointer]
+        - generic [ref=e170]:
+          - generic [ref=e171]:
+            - region "Get started" [ref=e173]:
+              - generic [ref=e174]:
+                - heading "Get started" [level=2] [ref=e175]
+                - paragraph [ref=e176]: To get the most out of HiringCafe create an account and upload your resume.
+              - generic [ref=e177]:
+                - generic [ref=e178]:
+                  - textbox "Email" [ref=e179]
+                  - textbox "Password" [ref=e180]
+                - generic [ref=e181]:
+                  - button "Create your account" [ref=e182] [cursor=pointer]
+                  - button "Continue with Google" [ref=e183] [cursor=pointer]
+              - generic [ref=e190]:
+                - button "More options" [ref=e191] [cursor=pointer]
+                - paragraph [ref=e194]:
+                  - text: By continuing you agree to HiringCafe's
+                  - link "Terms" [ref=e195] [cursor=pointer]:
+                    - /url: /terms-and-conditions
+                  - text: and
+                  - link "Privacy Policy" [ref=e196] [cursor=pointer]:
+                    - /url: /private-policy
+                  - text: .
+              - button "Close get started" [ref=e197] [cursor=pointer]
+            - region "How is HiringCafe different?" [ref=e201]:
+              - generic [ref=e202]:
+                - heading "How is HiringCafe different?" [level=2] [ref=e203]
+                - paragraph [ref=e204]: Our quest to destroy Indeed and LinkedIn by building a 10x better job search engine.
+                - generic [ref=e205]:
+                  - button "Learn more" [ref=e206] [cursor=pointer]:
+                    - text: Learn more
+                    - generic [aria-hidden] [ref=e207]: 💡
+                  - link "Join our community" [ref=e208] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/hiringcafe/
+              - generic [aria-hidden] [ref=e211]:
+                - generic:
+                  - button
+              - button "Close banner" [ref=e212] [cursor=pointer]
+          - generic [ref=e216]:
+            - generic [ref=e217]:
+              - generic [ref=e218]: 191,557 jobs
+              - button "Learn about collapsed companies" [ref=e219] [cursor=pointer]:
+                - generic [ref=e220]: · 5,511 companies
+              - generic [ref=e223]: "-"
+              - generic [ref=e224]: Latest jobs - India
+            - 'button "Sort by: Relevance" [ref=e228] [cursor=pointer]'
+          - generic [ref=e232]:
+            - generic [ref=e237]:
+              - generic [ref=e238]:
+                - generic [ref=e239]:
+                  - generic [ref=e240]: 9m
+                  - generic [ref=e244]: Floor Assembly Technician
+                  - generic [ref=e246]: Aurangabad, Maharashtra, India
+                  - generic [ref=e251]:
+                    - generic [ref=e252]: Onsite
+                    - generic [ref=e253]: Full Time, Contract
+                - generic [ref=e254]:
+                  - generic [ref=e255]:
+                    - img "Siemens" [ref=e258]
+                    - generic [ref=e259]:
+                      - text: Siemens
+                      - generic [ref=e260]: "Xetra: SIE"
+                      - text: ": Global technology specializing in industry, infrastructure, transport, and healthcare."
+                  - generic [ref=e264]:
+                    - generic [ref=e265]: 1+ YOE
+                    - text: Diploma in Mechanical or Electrical Engineering; 1 year apprenticeship experience in assembly on shop floor; good communication and teamwork skills.
+              - generic [ref=e266]:
+                - generic [ref=e267]:
+                  - link "Job Posting" [ref=e268] [cursor=pointer]:
+                    - /url: /job/floor-assembly-technician-siemens-aurangabad-maharashtra-pn74iyhnrspgwj6e
+                  - generic [ref=e272]:
+                    - button "Previous job at this company" [disabled] [ref=e273]
+                    - generic [ref=e276]:
+                      - button "Show job 1" [ref=e278] [cursor=pointer]
+                      - button "Show job 2" [ref=e280] [cursor=pointer]
+                      - button "Show job 3" [ref=e282] [cursor=pointer]
+                      - button "Show job 4" [ref=e284] [cursor=pointer]
+                    - button "Next job at this company" [ref=e285] [cursor=pointer]
+                  - button "View all" [ref=e288] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e290] [cursor=pointer]
+            - generic [ref=e301]:
+              - generic [ref=e302]:
+                - generic [ref=e303]:
+                  - generic [ref=e304]: 54m
+                  - generic [ref=e308]: Process Associate
+                  - generic [ref=e310]: Chennai or Indore
+                  - generic [ref=e315]:
+                    - generic [ref=e316]: Onsite
+                    - generic [ref=e317]: Full Time
+                - generic [ref=e318]:
+                  - generic [ref=e319]:
+                    - img "Tata Consultancy Services" [ref=e322]
+                    - generic [ref=e323]:
+                      - text: Tata Consultancy Services
+                      - generic [ref=e324]: "BSE: 532540"
+                      - text: ": Global leader in IT services, consulting, and business solutions."
+                  - generic [ref=e328]:
+                    - generic [ref=e329]: 1+ YOE
+                    - text: Graduate/PG degree; certified French language expert (A2/B1/B2); BFSI back-office experience; proficiency in Excel and Outlook; strong communication and collaboration skills.
+                  - generic [ref=e330]: Microsoft Excel, Microsoft Outlook
+              - generic [ref=e336]:
+                - generic [ref=e337]:
+                  - link "Job Posting" [ref=e338] [cursor=pointer]:
+                    - /url: /job/process-associate-tata-consultancy-services-chennai-tamil-nadu-t0qynqr8j6dl7t2r
+                  - generic [ref=e342]:
+                    - button "Previous job at this company" [disabled] [ref=e343]
+                    - generic [ref=e346]:
+                      - button "Show job 1" [ref=e348] [cursor=pointer]
+                      - button "Show job 2" [ref=e350] [cursor=pointer]
+                      - button "Show job 3" [ref=e352] [cursor=pointer]
+                      - button "Show job 4" [ref=e354] [cursor=pointer]
+                    - button "Next job at this company" [ref=e355] [cursor=pointer]
+                  - button "View all" [ref=e358] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e360] [cursor=pointer]
+            - generic [ref=e371]:
+              - generic [ref=e372]:
+                - generic [ref=e373]:
+                  - generic [ref=e374]: 2h
+                  - generic [ref=e378]: Retirement Trust advisory and operations
+                  - generic [ref=e380]: Bengaluru or Mumbai
+                  - generic [ref=e385]:
+                    - generic [ref=e386]: Onsite
+                    - generic [ref=e387]: Full Time
+                - generic [ref=e388]:
+                  - generic [ref=e389]:
+                    - img "WTW" [ref=e392]
+                    - generic [ref=e393]:
+                      - text: WTW
+                      - generic [ref=e394]: "NASDAQ: WTW"
+                      - text: ": Global advisory, broking, and solutions."
+                  - generic [ref=e398]:
+                    - generic [ref=e399]: 3+ YOE
+                    - text: CA Intermediate or Commerce/Accounting/Finance graduate with 3-6 years experience in retirement trust administration, accounting, payroll or benefits; strong Excel; ability to interpret trust deeds and rules.
+                  - generic [ref=e400]: Microsoft Excel
+              - generic [ref=e406]:
+                - generic [ref=e407]:
+                  - link "Job Posting" [ref=e408] [cursor=pointer]:
+                    - /url: /job/retirement-trust-advisory-and-operations-wtw-bengaluru-karnataka-p8f6dm11gbe3qdlt
+                  - generic [ref=e412]:
+                    - button "Previous job at this company" [disabled] [ref=e413]
+                    - generic [ref=e416]:
+                      - button "Show job 1" [ref=e418] [cursor=pointer]
+                      - button "Show job 2" [ref=e420] [cursor=pointer]
+                      - button "Show job 3" [ref=e422] [cursor=pointer]
+                      - button "Show job 4" [ref=e424] [cursor=pointer]
+                    - button "Next job at this company" [ref=e425] [cursor=pointer]
+                  - button "View all" [ref=e428] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e430] [cursor=pointer]
+            - generic [ref=e441]:
+              - generic [ref=e442]:
+                - generic [ref=e443]:
+                  - generic [ref=e444]: 2h
+                  - generic [ref=e448]: Applications Engineer
+                  - generic [ref=e450]: Bengaluru, Karnataka, India
+                  - generic [ref=e455]:
+                    - generic [ref=e456]: Onsite
+                    - generic [ref=e457]: Full Time
+                - generic [ref=e458]:
+                  - generic [ref=e459]:
+                    - img "Texas Instruments" [ref=e462]
+                    - generic [ref=e463]:
+                      - text: Texas Instruments
+                      - generic [ref=e464]: "NASDAQ: TXN"
+                      - text: ": Global semiconductor designing and manufacturing analog and embedded processing chips."
+                  - generic [ref=e468]:
+                    - generic [ref=e469]: 2+ YOE
+                    - text: Master's degree in Electrical Engineering or ECE; 2+ years application/system experience; experience in applications support of digital power products and embedded C software development; ability to produce high-quality technical documentation.
+                  - generic [ref=e470]: embedded C, CAD tools
+              - generic [ref=e476]:
+                - generic [ref=e477]:
+                  - link "Job Posting" [ref=e478] [cursor=pointer]:
+                    - /url: /job/applications-engineer-texas-instruments-bengaluru-karnataka-uyiv5gc9x3xnke4v
+                  - generic [ref=e482]:
+                    - button "Previous job at this company" [disabled] [ref=e483]
+                    - generic [ref=e486]:
+                      - button "Show job 1" [ref=e488] [cursor=pointer]
+                      - button "Show job 2" [ref=e490] [cursor=pointer]
+                      - button "Show job 3" [ref=e492] [cursor=pointer]
+                      - button "Show job 4" [ref=e494] [cursor=pointer]
+                    - button "Next job at this company" [ref=e495] [cursor=pointer]
+                  - button "View all" [ref=e498] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e500] [cursor=pointer]
+            - generic [ref=e510]:
+              - generic [ref=e511]:
+                - generic [ref=e512]:
+                  - generic [ref=e513]: 2h
+                  - generic [ref=e517]: Record to Report (RTR) Accounting & Opex Specialist - VOIS
+                  - generic [ref=e519]: Pune, Maharashtra, India
+                  - generic [ref=e524]:
+                    - generic [ref=e525]: Onsite
+                    - generic [ref=e526]: Full Time
+                - generic [ref=e527]:
+                  - generic [ref=e528]:
+                    - img "Vodafone" [ref=e531]
+                    - generic [ref=e532]:
+                      - text: Vodafone
+                      - generic [ref=e533]: "London Stock Exchange, NASDAQ: VOD"
+                      - text: ": Multinational telecommunications and digital services provider."
+                  - generic [ref=e534]: Chartered Accountant, CMA, or CA Inter with relevant domain knowledge; strong accounting and financial reporting knowledge; RTR process understanding; ERP experience with Oracle and SAP; IFRS and SOX knowledge; stakeholder management and communication skills.
+                  - generic [ref=e538]: Oracle, SAP
+              - generic [ref=e544]:
+                - generic [ref=e545]:
+                  - link "Job Posting" [ref=e546] [cursor=pointer]:
+                    - /url: /job/record-to-report-rtr-accounting-and-opex-specialist-vois-vodafone-0ka687879a1zcblf
+                  - generic [ref=e550]:
+                    - button "Previous job at this company" [disabled] [ref=e551]
+                    - generic [ref=e554]:
+                      - button "Show job 1" [ref=e556] [cursor=pointer]
+                      - button "Show job 2" [ref=e558] [cursor=pointer]
+                    - button "Next job at this company" [ref=e559] [cursor=pointer]
+                  - button "View all" [ref=e562] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e564] [cursor=pointer]
+            - generic [ref=e575]:
+              - generic [ref=e576]:
+                - generic [ref=e577]:
+                  - generic [ref=e578]: 2h
+                  - generic [ref=e582]: Record to Report (RTR) Accounting & Opex Specialist - VOIS
+                  - generic [ref=e584]: Pune, Maharashtra, India
+                  - generic [ref=e589]:
+                    - generic [ref=e590]: Onsite
+                    - generic [ref=e591]: Full Time
+                - generic [ref=e592]:
+                  - generic [ref=e593]:
+                    - img "VOIS (Vodafone Intelligent Solutions)" [ref=e596]
+                    - generic [ref=e597]: "VOIS (Vodafone Intelligent Solutions): A strategic arm of Vodafone Group delivering intelligent solutions through talent, technology, and transformation."
+                  - generic [ref=e598]: Chartered Accountant, CMA, or CA Inter; strong accounting and financial reporting knowledge; RTR process understanding; ERP experience with Oracle and SAP; IFRS and SOX knowledge; stakeholder management and communication skills.
+                  - generic [ref=e602]: Oracle, SAP
+              - generic [ref=e608]:
+                - generic [ref=e609]:
+                  - link "Job Posting" [ref=e610] [cursor=pointer]:
+                    - /url: /job/record-to-report-rtr-accounting-and-opex-specialist-vois-vois-11ydplz3xiiur2hf
+                  - generic [ref=e614]:
+                    - button "Previous job at this company" [disabled] [ref=e615]
+                    - generic [ref=e618]:
+                      - button "Show job 1" [ref=e620] [cursor=pointer]
+                      - button "Show job 2" [ref=e622] [cursor=pointer]
+                      - button "Show job 3" [ref=e624] [cursor=pointer]
+                      - button "Show job 4" [ref=e626] [cursor=pointer]
+                    - button "Next job at this company" [ref=e627] [cursor=pointer]
+                  - button "View all" [ref=e630] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e632] [cursor=pointer]
+            - generic [ref=e643]:
+              - generic [ref=e644]:
+                - generic [ref=e645]:
+                  - generic [ref=e646]: 2h
+                  - generic [ref=e650]: Erection Engineer -Mechanical
+                  - generic [ref=e652]: Gandhinagar, Gujarat, India
+                  - generic [ref=e657]:
+                    - generic [ref=e658]: Onsite
+                    - generic [ref=e659]: Full Time
+                - generic [ref=e660]:
+                  - generic [ref=e661]:
+                    - img "AECOM" [ref=e664]
+                    - generic [ref=e665]:
+                      - text: AECOM
+                      - generic [ref=e666]: "NYSE: ACM"
+                      - text: ": Global infrastructure consulting and professional services firm."
+                  - generic [ref=e667]: Developmental experience in a professional engineering position; ability to perform engineering calculations, identify discrepancies, and work with little supervision.
+              - generic [ref=e671]:
+                - generic [ref=e672]:
+                  - link "Job Posting" [ref=e673] [cursor=pointer]:
+                    - /url: /job/erection-engineer-mechanical-aecom-gandhinagar-gujarat-70ziecej78pbkurd
+                  - generic [ref=e677]:
+                    - button "Previous job at this company" [disabled] [ref=e678]
+                    - generic [ref=e681]:
+                      - button "Show job 1" [ref=e683] [cursor=pointer]
+                      - button "Show job 2" [ref=e685] [cursor=pointer]
+                      - button "Show job 3" [ref=e687] [cursor=pointer]
+                      - button "Show job 4" [ref=e689] [cursor=pointer]
+                    - button "Next job at this company" [ref=e690] [cursor=pointer]
+                  - button "View all" [ref=e693] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e695] [cursor=pointer]
+            - generic [ref=e706]:
+              - generic [ref=e707]:
+                - generic [ref=e708]:
+                  - generic [ref=e709]: 2h
+                  - generic [ref=e713]: Liaisoning Officer
+                  - generic [ref=e715]: Varanasi, Uttar Pradesh, India
+                  - generic [ref=e720]:
+                    - generic [ref=e721]: Onsite
+                    - generic [ref=e722]: Full Time
+                - generic [ref=e723]:
+                  - generic [ref=e724]:
+                    - img "Sun King" [ref=e727]
+                    - generic [ref=e728]: "Sun King: Global off-grid solar energy and financing provider."
+                  - generic [ref=e729]: Graduate degree required; banking background preferred; prior liaisoning, utility coordination, or customer service experience an advantage; strong communication, relationship management, and problem-solving skills; local candidates preferred; comfortable with field visits.
+              - generic [ref=e733]:
+                - generic [ref=e734]:
+                  - link "Job Posting" [ref=e735] [cursor=pointer]:
+                    - /url: /job/liaisoning-officer-sun-king-varanasi-uttar-pradesh-3uqohdonvhe0t4cx
+                  - generic [ref=e739]:
+                    - button "Previous job at this company" [disabled] [ref=e740]
+                    - generic [ref=e743]:
+                      - button "Show job 1" [ref=e745] [cursor=pointer]
+                      - button "Show job 2" [ref=e747] [cursor=pointer]
+                      - button "Show job 3" [ref=e749] [cursor=pointer]
+                      - button "Show job 4" [ref=e751] [cursor=pointer]
+                    - button "Next job at this company" [ref=e752] [cursor=pointer]
+                  - button "View all" [ref=e755] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e757] [cursor=pointer]
+            - generic [ref=e768]:
+              - generic [ref=e769]:
+                - generic [ref=e770]:
+                  - generic [ref=e771]: 2h
+                  - generic [ref=e775]: QA Engineer, Senior(6-9Yrs)
+                  - generic [ref=e777]: Hyderabad, Telangana, India
+                  - generic [ref=e782]:
+                    - generic [ref=e783]: Onsite
+                    - generic [ref=e784]: Full Time
+                - generic [ref=e785]:
+                  - generic [ref=e786]:
+                    - img "Infor" [ref=e789]
+                    - generic [ref=e790]: "Infor: Global provider of industry-specific enterprise cloud software."
+                  - generic [ref=e794]:
+                    - generic [ref=e795]: 6+ YOE
+                    - text: Experienced automated software testing expert with strong QA process knowledge; experience in test planning, execution, defect tracking, SaaS/cloud development, AWS, unit test frameworks like Selenium, Java programming, SQL, and CI tools like Git, SVN, Maven, Jenkins.
+                  - generic [ref=e796]: Java, Selenium, Infor TAAS, Jira, Jenkins, Git, Amazon AWS, Eclipse, IntelliJ IDEA, SQL, SVN, Maven, REST, SOAP
+              - generic [ref=e802]:
+                - generic [ref=e803]:
+                  - link "Job Posting" [ref=e804] [cursor=pointer]:
+                    - /url: /job/qa-engineer-senior-6-9yrs-infor-hyderabad-telangana-jrtz31h0fpbjeuum
+                  - generic [ref=e808]:
+                    - button "Previous job at this company" [disabled] [ref=e809]
+                    - generic [ref=e812]:
+                      - button "Show job 1" [ref=e814] [cursor=pointer]
+                      - button "Show job 2" [ref=e816] [cursor=pointer]
+                      - button "Show job 3" [ref=e818] [cursor=pointer]
+                    - button "Next job at this company" [ref=e819] [cursor=pointer]
+                  - button "View all" [ref=e822] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e824] [cursor=pointer]
+            - generic [ref=e835]:
+              - generic [ref=e836]:
+                - generic [ref=e837]:
+                  - generic [ref=e838]: 2h
+                  - generic [ref=e842]: Regional Director, Enterprise, Growth
+                  - generic [ref=e844]: Bengaluru, Karnataka, India
+                  - generic [ref=e849]:
+                    - generic [ref=e850]: Hybrid
+                    - generic [ref=e851]: Full Time
+                - generic [ref=e852]:
+                  - generic [ref=e853]:
+                    - img "MongoDB" [ref=e856]
+                    - generic [ref=e857]:
+                      - text: MongoDB
+                      - generic [ref=e858]: "NASDAQ: MDB"
+                      - text: ": Unified data platform for building modern applications."
+                  - generic [ref=e862]:
+                    - generic [ref=e863]: 5+ YOE2+ Mgmt
+                    - text: 2+ years managing a direct software sales team; 5+ years quota-carrying field sales; proven enterprise sales process management; track record of overachievement; experience expanding enterprise segment; strong coaching and development skills.
+                  - generic [ref=e864]: MEDDIC, SPIN, Challenger Sales
+              - generic [ref=e870]:
+                - generic [ref=e871]:
+                  - link "Job Posting" [ref=e872] [cursor=pointer]:
+                    - /url: /job/regional-director-enterprise-growth-mongodb-bengaluru-karnataka-d0b4dfi1aafrcejx
+                  - generic [ref=e876]:
+                    - button "Previous job at this company" [disabled] [ref=e877]
+                    - generic [ref=e880]:
+                      - button "Show job 1" [ref=e882] [cursor=pointer]
+                      - button "Show job 2" [ref=e884] [cursor=pointer]
+                      - button "Show job 3" [ref=e886] [cursor=pointer]
+                      - button "Show job 4" [ref=e888] [cursor=pointer]
+                    - button "Next job at this company" [ref=e889] [cursor=pointer]
+                  - button "View all" [ref=e892] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e894] [cursor=pointer]
+            - generic [ref=e905]:
+              - generic [ref=e906]:
+                - generic [ref=e907]:
+                  - generic [ref=e908]: 2h
+                  - generic [ref=e912]: Data Platform Consultant
+                  - generic [ref=e914]: Pune, Maharashtra, India
+                  - generic [ref=e919]:
+                    - generic [ref=e920]: Hybrid
+                    - generic [ref=e921]: Full Time
+                - generic [ref=e922]:
+                  - generic [ref=e923]:
+                    - img "Snap Analytics" [ref=e926]
+                    - generic [ref=e927]: "Snap Analytics: Data and AI consultancy helping enterprise organisations modernise data platforms and build AI-ready foundations."
+                  - generic [ref=e931]:
+                    - generic [ref=e932]: 4+ YOE
+                    - text: 4+ years consultancy experience, deep familiarity with Snowflake and Databricks, experience with DBT, Matillion, SQL and Python, mentoring and client-facing skills.
+                  - generic [ref=e933]: Snowflake, Databricks, DBT, Matillion, SQL, Python, Bitbucket, GitHub
+              - generic [ref=e939]:
+                - generic [ref=e940]:
+                  - link "Job Posting" [ref=e941] [cursor=pointer]:
+                    - /url: /job/data-platform-consultant-snap-analytics-pune-maharashtra-w6y5dtyipuouxy72
+                  - generic [ref=e945]:
+                    - button "Previous job at this company" [disabled] [ref=e946]
+                    - generic [ref=e949]:
+                      - button "Show job 1" [ref=e951] [cursor=pointer]
+                      - button "Show job 2" [ref=e953] [cursor=pointer]
+                      - button "Show job 3" [ref=e955] [cursor=pointer]
+                    - button "Next job at this company" [ref=e956] [cursor=pointer]
+                  - button "View all" [ref=e959] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e961] [cursor=pointer]
+            - generic [ref=e972]:
+              - generic [ref=e973]:
+                - generic [ref=e974]:
+                  - generic [ref=e975]: 2h
+                  - generic [ref=e979]: Assistant Manager - Coding Auditor
+                  - generic [ref=e981]: Chennai, Tamil Nadu, India
+                  - generic [ref=e986]:
+                    - generic [ref=e987]: Hybrid
+                    - generic [ref=e988]: Full Time
+                - generic [ref=e989]:
+                  - generic [ref=e990]:
+                    - img "EXL Service" [ref=e993]
+                    - generic [ref=e994]:
+                      - text: EXL Service
+                      - generic [ref=e995]: "NASDAQ: EXLS"
+                      - text: ": Global data analytics, AI, and digital operations solutions."
+                  - generic [ref=e999]:
+                    - generic [ref=e1000]: 7+ YOE
+                    - text: 7+ years medical coding experience in surgery coding; CPC, COC or other AAPC/AHIMA coding certification; auditing experience desired; radiation oncology coding experience desired; strong PC skills in Excel, Word, PowerPoint; excellent communication and project management skills.
+                  - generic [ref=e1001]: Microsoft Excel, Microsoft Word, Microsoft PowerPoint
+              - generic [ref=e1007]:
+                - generic [ref=e1008]:
+                  - link "Job Posting" [ref=e1009] [cursor=pointer]:
+                    - /url: /job/assistant-manager-coding-auditor-exl-service-chennai-tamil-nadu-uj29daleyaxg04mc
+                  - generic [ref=e1013]:
+                    - button "Previous job at this company" [disabled] [ref=e1014]
+                    - generic [ref=e1017]:
+                      - button "Show job 1" [ref=e1019] [cursor=pointer]
+                      - button "Show job 2" [ref=e1021] [cursor=pointer]
+                      - button "Show job 3" [ref=e1023] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1024] [cursor=pointer]
+                  - button "View all" [ref=e1027] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1029] [cursor=pointer]
+            - generic [ref=e1040]:
+              - generic [ref=e1041]:
+                - generic [ref=e1042]:
+                  - generic [ref=e1043]: 2h
+                  - generic [ref=e1047]: Specialist, Accounting Operations
+                  - generic [ref=e1049]: Hyderabad, Telangana, India
+                  - generic [ref=e1054]:
+                    - generic [ref=e1055]: Onsite
+                    - generic [ref=e1056]: Full Time
+                - generic [ref=e1057]:
+                  - generic [ref=e1058]:
+                    - img "McDonald's" [ref=e1061]
+                    - generic [ref=e1062]:
+                      - text: McDonald's
+                      - generic [ref=e1063]: "NYSE: MCD"
+                      - text: ": Global leader in fast food and quick service restaurants."
+                  - generic [ref=e1067]:
+                    - generic [ref=e1068]: 2+ YOE
+                    - text: Commerce graduate with accounting skills; 2-5 years Record to Report, Financial Close, or Controllership experience; strong month-end close and GL knowledge; English proficiency; must reside in Hyderabad, India.
+                  - generic [ref=e1069]: Oracle Cloud, Oracle On Prem
+              - generic [ref=e1075]:
+                - generic [ref=e1076]:
+                  - link "Job Posting" [ref=e1077] [cursor=pointer]:
+                    - /url: /job/specialist-accounting-operations-mcdonalds-hyderabad-telangana-9eqdrkbnul6alfuv
+                  - generic [ref=e1081]:
+                    - button "Previous job at this company" [disabled] [ref=e1082]
+                    - generic [ref=e1085]:
+                      - button "Show job 1" [ref=e1087] [cursor=pointer]
+                      - button "Show job 2" [ref=e1089] [cursor=pointer]
+                      - button "Show job 3" [ref=e1091] [cursor=pointer]
+                      - button "Show job 4" [ref=e1093] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1094] [cursor=pointer]
+                  - button "View all" [ref=e1097] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1099] [cursor=pointer]
+            - generic [ref=e1110]:
+              - generic [ref=e1111]:
+                - generic [ref=e1112]:
+                  - generic [ref=e1113]: 2h
+                  - generic [ref=e1117]: Principal Software Engineer
+                  - generic [ref=e1119]: India
+                  - generic [ref=e1124]:
+                    - generic [ref=e1125]: Remote
+                    - generic [ref=e1126]: Full Time
+                - generic [ref=e1127]:
+                  - generic [ref=e1128]:
+                    - img "Akamai Technologies" [ref=e1131]
+                    - generic [ref=e1132]:
+                      - text: Akamai Technologies
+                      - generic [ref=e1133]: "NASDAQ: AKAM"
+                      - text: ": Cloud and edge computing platform for secure digital experiences."
+                  - generic [ref=e1137]:
+                    - generic [ref=e1138]: 12+ YOE
+                    - text: Bachelor's or Master's in CS/IT or related field; 12+ years relevant experience; strong programming in Python or Go and C or C++; experience with containers, infrastructure-as-code, network systems; ability to manage senior engineers.
+                  - generic [ref=e1139]: Python, Go, C, C++, Salt-stack, Terraform, Kubernetes, Ansible, Jenkins, GitHub Actions, Linux
+              - generic [ref=e1145]:
+                - generic [ref=e1146]:
+                  - link "Job Posting" [ref=e1147] [cursor=pointer]:
+                    - /url: /job/principal-software-engineer-akamai-technologies-india-lwlayelxyzhb9vfm
+                  - generic [ref=e1151]:
+                    - button "Previous job at this company" [disabled] [ref=e1152]
+                    - generic [ref=e1155]:
+                      - button "Show job 1" [ref=e1157] [cursor=pointer]
+                      - button "Show job 2" [ref=e1159] [cursor=pointer]
+                      - button "Show job 3" [ref=e1161] [cursor=pointer]
+                      - button "Show job 4" [ref=e1163] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1164] [cursor=pointer]
+                  - button "View all" [ref=e1167] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1169] [cursor=pointer]
+            - generic [ref=e1180]:
+              - generic [ref=e1181]:
+                - generic [ref=e1182]:
+                  - generic [ref=e1183]: 2h
+                  - generic [ref=e1187]: Assistant Manager – Reservations
+                  - generic [ref=e1189]: Chennai, Tamil Nadu, India
+                  - generic [ref=e1194]:
+                    - generic [ref=e1195]: Onsite
+                    - generic [ref=e1196]: Full Time
+                - generic [ref=e1197]:
+                  - generic [ref=e1198]:
+                    - img "Sheraton" [ref=e1201]
+                    - generic [ref=e1202]: "Sheraton: Sheraton is a Marriott-owned global hotel brand serving business and leisure travelers through upscale community-oriented hotels."
+                  - generic [ref=e1206]:
+                    - generic [ref=e1207]: 3+ YOE
+                    - text: High school diploma or GED with 3 years sales/marketing, guest services, front desk or related experience; or 2-year degree in Business Administration, Marketing, Hotel and Restaurant Management with 1 year experience.
+              - generic [ref=e1208]:
+                - generic [ref=e1209]:
+                  - link "Job Posting" [ref=e1210] [cursor=pointer]:
+                    - /url: /job/assistant-manager-reservations-sheraton-chennai-tamil-nadu-nyv3gydroiskj8oo
+                  - generic [ref=e1214]:
+                    - button "Previous job at this company" [disabled] [ref=e1215]
+                    - generic [ref=e1218]:
+                      - button "Show job 1" [ref=e1220] [cursor=pointer]
+                      - button "Show job 2" [ref=e1222] [cursor=pointer]
+                      - button "Show job 3" [ref=e1224] [cursor=pointer]
+                      - button "Show job 4" [ref=e1226] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1227] [cursor=pointer]
+                  - button "View all" [ref=e1230] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1232] [cursor=pointer]
+            - generic [ref=e1243]:
+              - generic [ref=e1244]:
+                - generic [ref=e1245]:
+                  - generic [ref=e1246]: 2h
+                  - generic [ref=e1250]: Senior Fund Accountant
+                  - generic [ref=e1252]: Mumbai or Bengaluru
+                  - generic [ref=e1257]:
+                    - generic [ref=e1258]: Hybrid
+                    - generic [ref=e1259]: Full Time
+                - generic [ref=e1260]:
+                  - generic [ref=e1261]:
+                    - img "CSC" [ref=e1264]
+                    - generic [ref=e1265]: "CSC: Global provider of business, legal, and compliance solutions."
+                  - generic [ref=e1269]:
+                    - generic [ref=e1270]: 8+ YOE4+ Mgmt
+                    - text: 8-12 years in financial services with 4+ years in private equity accounting; CA/CPA/CFA/CMA or Master's in finance preferred; excellent English communication; willing to work global shifts.
+              - generic [ref=e1271]:
+                - generic [ref=e1272]:
+                  - link "Job Posting" [ref=e1273] [cursor=pointer]:
+                    - /url: /job/senior-fund-accountant-csc-mumbai-maharashtra-8hffsrjyhb3ay2y7
+                  - generic [ref=e1277]:
+                    - button "Previous job at this company" [disabled] [ref=e1278]
+                    - generic [ref=e1281]:
+                      - button "Show job 1" [ref=e1283] [cursor=pointer]
+                      - button "Show job 2" [ref=e1285] [cursor=pointer]
+                      - button "Show job 3" [ref=e1287] [cursor=pointer]
+                      - button "Show job 4" [ref=e1289] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1290] [cursor=pointer]
+                  - button "View all" [ref=e1293] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1295] [cursor=pointer]
+            - generic [ref=e1305]:
+              - generic [ref=e1306]:
+                - generic [ref=e1307]:
+                  - generic [ref=e1308]: 3h
+                  - generic [ref=e1312]: EHS Executive
+                  - generic [ref=e1314]: India
+                  - generic [ref=e1319]:
+                    - generic [ref=e1320]: Onsite
+                    - generic [ref=e1321]: Full Time
+                - generic [ref=e1322]:
+                  - generic [ref=e1323]:
+                    - img "Siemens" [ref=e1326]
+                    - generic [ref=e1327]:
+                      - text: Siemens
+                      - generic [ref=e1328]: "Xetra: SIE"
+                      - text: ": Global technology specializing in industry, infrastructure, transport, and healthcare."
+                  - generic [ref=e1332]:
+                    - generic [ref=e1333]: 3+ YOE
+                    - text: 3-7 years EHS system implementation experience in electrical manufacturing; degree/diploma in electrical engineering; Advanced Diploma in Industrial Safety; expert ISO 14001/45001; knowledge of 14489 audit standards; English, Marathi, Hindi proficiency.
+                  - generic [ref=e1334]: Quentic, EHS dashboards
+              - generic [ref=e1340]:
+                - generic [ref=e1341]:
+                  - link "Job Posting" [ref=e1342] [cursor=pointer]:
+                    - /url: /job/ehs-executive-siemens-india-2a0etai4dsi08pli
+                  - generic [ref=e1346]:
+                    - button "Previous job at this company" [disabled] [ref=e1347]
+                    - generic [ref=e1350]:
+                      - button "Show job 1" [ref=e1352] [cursor=pointer]
+                      - button "Show job 2" [ref=e1354] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1355] [cursor=pointer]
+                  - button "View all" [ref=e1358] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1360] [cursor=pointer]
+            - generic [ref=e1371]:
+              - generic [ref=e1372]:
+                - generic [ref=e1373]:
+                  - generic [ref=e1374]: 3h
+                  - generic [ref=e1378]: Customer Relationship Executive
+                  - generic [ref=e1380]: Karaikudi, Tamil Nadu, India
+                  - generic [ref=e1385]:
+                    - generic [ref=e1386]: Onsite
+                    - generic [ref=e1387]: Full Time
+                - generic [ref=e1388]:
+                  - generic [ref=e1389]:
+                    - img "Digitide Solutions" [ref=e1392]
+                    - generic [ref=e1393]:
+                      - text: Digitide Solutions
+                      - generic [ref=e1394]: "BSE and NSE: DIGITIDE"
+                      - text: ": AI-first digital transformation and business process management."
+                  - generic [ref=e1398]:
+                    - generic [ref=e1399]: 1+ YOE
+                    - text: High school diploma required; 1-2 years customer care or relationship management experience, preferably in BFSI; excellent English communication; CRM and Microsoft Office proficiency; flexibility for shifts including occasional weekends.
+                  - generic [ref=e1400]: CRM, Microsoft Office
+              - generic [ref=e1406]:
+                - generic [ref=e1407]:
+                  - link "Job Posting" [ref=e1408] [cursor=pointer]:
+                    - /url: /job/customer-relationship-executive-digitide-solutions-karaikudi-tamil-0iexuesdx28ldawy
+                  - generic [ref=e1412]:
+                    - button "Previous job at this company" [disabled] [ref=e1413]
+                    - generic [ref=e1416]:
+                      - button "Show job 1" [ref=e1418] [cursor=pointer]
+                      - button "Show job 2" [ref=e1420] [cursor=pointer]
+                      - button "Show job 3" [ref=e1422] [cursor=pointer]
+                      - button "Show job 4" [ref=e1424] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1425] [cursor=pointer]
+                  - button "View all" [ref=e1428] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1430] [cursor=pointer]
+            - generic [ref=e1441]:
+              - generic [ref=e1442]:
+                - generic [ref=e1443]:
+                  - generic [ref=e1444]: 3h
+                  - generic [ref=e1448]: Senior GCC Government Relations Manager
+                  - generic [ref=e1450]: Bengaluru, Karnataka, India
+                  - generic [ref=e1455]:
+                    - generic [ref=e1456]: Hybrid
+                    - generic [ref=e1457]: Full Time
+                - generic [ref=e1458]:
+                  - generic [ref=e1459]:
+                    - img "Cloudflare" [ref=e1462]
+                    - generic [ref=e1463]:
+                      - text: Cloudflare
+                      - generic [ref=e1464]: "NYSE: NET"
+                      - text: ": Cloud-based security, performance, and reliability services for Internet applications."
+                  - generic [ref=e1468]:
+                    - generic [ref=e1469]: 8+ YOE
+                    - text: Bachelor's degree or equivalent; 8+ years in government affairs, trade associations, government or law enforcement; expertise in India and Karnataka policy and legal systems; fluency in English; willingness to travel to New Delhi occasionally.
+              - generic [ref=e1470]:
+                - generic [ref=e1471]:
+                  - link "Job Posting" [ref=e1472] [cursor=pointer]:
+                    - /url: /job/senior-gcc-government-relations-manager-cloudflare-bengaluru-karnataka-j7v99sbj649u2slt
+                  - generic [ref=e1476]:
+                    - button "Previous job at this company" [disabled] [ref=e1477]
+                    - generic [ref=e1480]:
+                      - button "Show job 1" [ref=e1482] [cursor=pointer]
+                      - button "Show job 2" [ref=e1484] [cursor=pointer]
+                      - button "Show job 3" [ref=e1486] [cursor=pointer]
+                      - button "Show job 4" [ref=e1488] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1489] [cursor=pointer]
+                  - button "View all" [ref=e1492] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1494] [cursor=pointer]
+            - generic [ref=e1505]:
+              - generic [ref=e1506]:
+                - generic [ref=e1507]:
+                  - generic [ref=e1508]: 3h
+                  - generic [ref=e1512]: Media Investment - Analyst
+                  - generic [ref=e1514]: Bengaluru, Karnataka, India
+                  - generic [ref=e1519]:
+                    - generic [ref=e1520]: Onsite
+                    - generic [ref=e1521]: Full Time
+                - generic [ref=e1522]:
+                  - generic [ref=e1523]:
+                    - img "Annalect" [ref=e1526]
+                    - generic [ref=e1527]: "Annalect: Annalect is a global marketing data, technology, analytics, and AI consultancy serving leading brands."
+                  - generic [ref=e1531]:
+                    - generic [ref=e1532]: 3+ YOE
+                    - text: Full-time graduate degree; 3-6 years digital marketing, media operations, campaign trafficking or media buying support; working knowledge of Prisma, CM360, Adform, Innovid; third-party ad server experience; Microsoft Excel, Word, PowerPoint proficiency.
+                  - generic [ref=e1533]: Prisma, CM360, Adform, Innovid, Flashtalking, DoubleClick, AppNexus, DMP, IAS, Microsoft Excel, Microsoft Word, Microsoft PowerPoint, MBOX, Double Verify
+              - generic [ref=e1539]:
+                - generic [ref=e1540]:
+                  - link "Job Posting" [ref=e1541] [cursor=pointer]:
+                    - /url: /job/media-investment-analyst-annalect-bengaluru-karnataka-luri8ixxu88z3fju
+                  - generic [ref=e1545]:
+                    - button "Previous job at this company" [disabled] [ref=e1546]
+                    - generic [ref=e1549]:
+                      - button "Show job 1" [ref=e1551] [cursor=pointer]
+                      - button "Show job 2" [ref=e1553] [cursor=pointer]
+                      - button "Show job 3" [ref=e1555] [cursor=pointer]
+                      - button "Show job 4" [ref=e1557] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1558] [cursor=pointer]
+                  - button "View all" [ref=e1561] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1563] [cursor=pointer]
+            - generic [ref=e1574]:
+              - generic [ref=e1575]:
+                - generic [ref=e1576]:
+                  - generic [ref=e1577]: 3h
+                  - generic [ref=e1581]: Senior Product Manager
+                  - generic [ref=e1583]: Hyderabad, Telangana, India
+                  - generic [ref=e1588]:
+                    - generic [ref=e1589]: Hybrid
+                    - generic [ref=e1590]: Full Time
+                - generic [ref=e1591]:
+                  - generic [ref=e1592]:
+                    - img "Backbase" [ref=e1595]
+                    - generic [ref=e1596]: "Backbase: The AI-native Banking OS where customers, employees, and AI agents work as one across channels and operations."
+                  - generic [ref=e1597]: Experience shipping AI-native products or enterprise software with AI capabilities, deep LLM integration, cross-functional initiatives; AI fluency, systems thinking, customer grounding, quality obsession, technical depth.
+                  - generic [ref=e1601]: LLM
+              - generic [ref=e1607]:
+                - generic [ref=e1608]:
+                  - link "Job Posting" [ref=e1609] [cursor=pointer]:
+                    - /url: /job/senior-product-manager-backbase-hyderabad-telangana-2br6joojjtztb4ur
+                  - generic [ref=e1613]:
+                    - button "Previous job at this company" [disabled] [ref=e1614]
+                    - generic [ref=e1617]:
+                      - button "Show job 1" [ref=e1619] [cursor=pointer]
+                      - button "Show job 2" [ref=e1621] [cursor=pointer]
+                      - button "Show job 3" [ref=e1623] [cursor=pointer]
+                      - button "Show job 4" [ref=e1625] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1626] [cursor=pointer]
+                  - button "View all" [ref=e1629] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1631] [cursor=pointer]
+            - generic [ref=e1642]:
+              - generic [ref=e1643]:
+                - generic [ref=e1644]:
+                  - generic [ref=e1645]: 3h
+                  - generic [ref=e1649]: Reporter – Debtwire India
+                  - generic [ref=e1651]: Mumbai, Maharashtra, India
+                  - generic [ref=e1656]:
+                    - generic [ref=e1657]: Onsite
+                    - generic [ref=e1658]: Full Time
+                - generic [ref=e1659]:
+                  - generic [ref=e1660]:
+                    - img "Acuris" [ref=e1663]
+                    - generic [ref=e1664]: "Acuris: Private financial intelligence and data firm serving advisory firms, banks, law firms, investors, and corporations."
+                  - generic [ref=e1668]:
+                    - generic [ref=e1669]: 2+ YOE
+                    - text: 2+ years financial journalism or credit/markets reporting experience; proven source development and exclusive story breaking; excellent written English; based in Mumbai with right to work in India.
+                  - generic [ref=e1670]: spreadsheets
+              - generic [ref=e1676]:
+                - generic [ref=e1677]:
+                  - link "Job Posting" [ref=e1678] [cursor=pointer]:
+                    - /url: /job/reporter-debtwire-india-acuris-mumbai-maharashtra-x7u2702afvusu824
+                  - generic [ref=e1682]:
+                    - button "Previous job at this company" [disabled] [ref=e1683]
+                    - generic [ref=e1686]:
+                      - button "Show job 1" [ref=e1688] [cursor=pointer]
+                      - button "Show job 2" [ref=e1690] [cursor=pointer]
+                      - button "Show job 3" [ref=e1692] [cursor=pointer]
+                      - button "Show job 4" [ref=e1694] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1695] [cursor=pointer]
+                  - button "View all" [ref=e1698] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1700] [cursor=pointer]
+            - generic [ref=e1709]:
+              - generic [ref=e1710]:
+                - generic [ref=e1711]:
+                  - generic [ref=e1712]: 3h
+                  - generic [ref=e1716]: Platform Associate
+                  - generic [ref=e1718]: Bengaluru, Karnataka, India
+                  - generic [ref=e1723]:
+                    - generic [ref=e1724]: Onsite
+                    - generic [ref=e1725]: Full Time
+                - generic [ref=e1726]:
+                  - generic [ref=e1727]:
+                    - img "Entrepreneurs First" [ref=e1730]
+                    - generic [ref=e1731]: "Entrepreneurs First: Global talent investor and startup builder that backs exceptional individuals and helps them build technology companies."
+                  - generic [ref=e1735]:
+                    - generic [ref=e1736]: 2+ YOE
+                    - text: 2-4 years experience in operations, programme management, or strategy; proven project management and process improvement; analytical mindset; hands-on AI automation experience; strong communication; proficiency with Airtable, Attio, Slack, and Google Workspace.
+                  - generic [ref=e1737]: Airtable, Attio, Slack, Google Workspace
+              - generic [ref=e1743]:
+                - generic [ref=e1744]:
+                  - link "Job Posting" [ref=e1745] [cursor=pointer]:
+                    - /url: /job/platform-associate-entrepreneurs-first-bengaluru-karnataka-eov4dme98gozz6or
+                  - link "View all" [ref=e1749] [cursor=pointer]:
+                    - /url: /org/joinef.com
+                - button "See how many viewed or applied" [ref=e1751] [cursor=pointer]
+            - generic [ref=e1762]:
+              - generic [ref=e1763]:
+                - generic [ref=e1764]:
+                  - generic [ref=e1765]: 3h
+                  - generic [ref=e1769]: Manager of Software Engineering - .Net, C#, Python
+                  - generic [ref=e1771]: Hyderabad, Telangana, India
+                  - generic [ref=e1776]:
+                    - generic [ref=e1777]: Onsite
+                    - generic [ref=e1778]: Full Time
+                - generic [ref=e1779]:
+                  - generic [ref=e1780]:
+                    - img "JPMorgan Chase" [ref=e1783]
+                    - generic [ref=e1784]:
+                      - text: JPMorgan Chase
+                      - generic [ref=e1785]: "NYSE: JPM"
+                      - text: ": Global financial services and investment banking firm."
+                  - generic [ref=e1789]:
+                    - generic [ref=e1790]: 5+ YOE
+                    - text: 5+ years applied software engineering experience, formal training or certification, experience managing engineering teams, SDLC proficiency, agile methodologies, cloud-native experience, financial services industry knowledge.
+                  - generic [ref=e1791]: Microsoft .NET, C#, Python, JavaScript, React, AWS, Azure, GCP
+              - generic [ref=e1797]:
+                - generic [ref=e1798]:
+                  - link "Job Posting" [ref=e1799] [cursor=pointer]:
+                    - /url: /job/manager-of-software-engineering-net-c-python-jpmorgan-chase-hyderabad-81ub5jh014r2si98
+                  - generic [ref=e1803]:
+                    - button "Previous job at this company" [disabled] [ref=e1804]
+                    - generic [ref=e1807]:
+                      - button "Show job 1" [ref=e1809] [cursor=pointer]
+                      - button "Show job 2" [ref=e1811] [cursor=pointer]
+                      - button "Show job 3" [ref=e1813] [cursor=pointer]
+                      - button "Show job 4" [ref=e1815] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1816] [cursor=pointer]
+                  - button "View all" [ref=e1819] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1821] [cursor=pointer]
+            - generic [ref=e1832]:
+              - generic [ref=e1833]:
+                - generic [ref=e1834]:
+                  - generic [ref=e1835]: 3h
+                  - generic [ref=e1839]: Technical Lead -Java Full Stack
+                  - generic [ref=e1841]: Bangalore, Karnataka, India
+                  - generic [ref=e1846]:
+                    - generic [ref=e1847]: Onsite
+                    - generic [ref=e1848]: Full Time
+                - generic [ref=e1849]:
+                  - generic [ref=e1850]:
+                    - img "Bristlecone" [ref=e1853]
+                    - generic [ref=e1854]: "Bristlecone: Digital supply chain consulting and technology firm."
+                  - generic [ref=e1855]: Solid Java/J2EE coding experience, OOD and J2EE patterns, RESTful APIs, NoSQL, MQ/Kafka, container orchestration (Kubernetes, Docker Swarm, AWS ECS/EKS), AWS, CI/CD, system design, Agile, Linux, networking, Terraform, Packer, Ansible, Chef, Jenkins.
+                  - generic [ref=e1859]: Java, J2EE, RESTful APIs, NoSQL, Kafka, MQ, Docker, LXC, Kubernetes, Docker Swarm, AWS ECS, AWS EKS, AWS, Terraform, Packer, Ansible, Chef, Jenkins, Linux
+              - generic [ref=e1865]:
+                - generic [ref=e1866]:
+                  - link "Job Posting" [ref=e1867] [cursor=pointer]:
+                    - /url: /job/technical-lead-java-full-stack-bristlecone-bangalore-karnataka-48pxky9pyuxertw0
+                  - generic [ref=e1871]:
+                    - button "Previous job at this company" [disabled] [ref=e1872]
+                    - generic [ref=e1875]:
+                      - button "Show job 1" [ref=e1877] [cursor=pointer]
+                      - button "Show job 2" [ref=e1879] [cursor=pointer]
+                      - button "Show job 3" [ref=e1881] [cursor=pointer]
+                      - button "Show job 4" [ref=e1883] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1884] [cursor=pointer]
+                  - button "View all" [ref=e1887] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1889] [cursor=pointer]
+            - generic [ref=e1900]:
+              - generic [ref=e1901]:
+                - generic [ref=e1902]:
+                  - generic [ref=e1903]: 3h
+                  - generic [ref=e1907]: IN_RBIC_Assistant Manager_SAP Support and Co-ordination
+                  - generic [ref=e1909]: Pune, Maharashtra, India
+                  - generic [ref=e1914]:
+                    - generic [ref=e1915]: Onsite
+                    - generic [ref=e1916]: Full Time
+                - generic [ref=e1917]:
+                  - generic [ref=e1918]:
+                    - img "Bosch Group" [ref=e1921]
+                    - generic [ref=e1922]: "Bosch Group: Global supplier of technology and services."
+                  - generic [ref=e1926]:
+                    - generic [ref=e1927]: 4+ YOE
+                    - text: Bachelor's or master's degree with 4-8 years of experience; SAP module expertise (FI/MM/SD/PP), basic SAP ABAP, analytical and troubleshooting skills, communication and stakeholder management.
+                  - generic [ref=e1928]: SAP, SAP ABAP, ServiceNow, Jira, S/4 HANA
+              - generic [ref=e1934]:
+                - generic [ref=e1935]:
+                  - link "Job Posting" [ref=e1936] [cursor=pointer]:
+                    - /url: /job/in-rbic-assistant-manager-sap-support-and-co-ordination-bosch-group-642pk3f7w5fw8bv0
+                  - generic [ref=e1940]:
+                    - button "Previous job at this company" [disabled] [ref=e1941]
+                    - generic [ref=e1944]:
+                      - button "Show job 1" [ref=e1946] [cursor=pointer]
+                      - button "Show job 2" [ref=e1948] [cursor=pointer]
+                      - button "Show job 3" [ref=e1950] [cursor=pointer]
+                      - button "Show job 4" [ref=e1952] [cursor=pointer]
+                    - button "Next job at this company" [ref=e1953] [cursor=pointer]
+                  - button "View all" [ref=e1956] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e1958] [cursor=pointer]
+            - generic [ref=e1969]:
+              - generic [ref=e1970]:
+                - generic [ref=e1971]:
+                  - generic [ref=e1972]: 3h
+                  - generic [ref=e1976]: Administrative Assistant
+                  - generic [ref=e1978]: Hyderabad, Telangana, India
+                  - generic [ref=e1983]:
+                    - generic [ref=e1984]: Hybrid
+                    - generic [ref=e1985]: Full Time
+                - generic [ref=e1986]:
+                  - generic [ref=e1987]:
+                    - img "Citco" [ref=e1990]
+                    - generic [ref=e1991]: "Citco: Global asset servicing and financial solutions for alternative investments."
+                  - generic [ref=e1995]:
+                    - generic [ref=e1996]: 1+ YOE
+                    - text: 1-2 years of work experience in a similar job in a financial industry company; fluent in English; flexible, proactive, attentive to details, team player with excellent communication skills.
+                  - generic [ref=e1997]: DocuSign
+              - generic [ref=e2003]:
+                - generic [ref=e2004]:
+                  - link "Job Posting" [ref=e2005] [cursor=pointer]:
+                    - /url: /job/administrative-assistant-citco-hyderabad-telangana-yay3af365dsoxghu
+                  - generic [ref=e2009]:
+                    - button "Previous job at this company" [disabled] [ref=e2010]
+                    - generic [ref=e2013]:
+                      - button "Show job 1" [ref=e2015] [cursor=pointer]
+                      - button "Show job 2" [ref=e2017] [cursor=pointer]
+                      - button "Show job 3" [ref=e2019] [cursor=pointer]
+                      - button "Show job 4" [ref=e2021] [cursor=pointer]
+                    - button "Next job at this company" [ref=e2022] [cursor=pointer]
+                  - button "View all" [ref=e2025] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e2027] [cursor=pointer]
+            - generic [ref=e2038]:
+              - generic [ref=e2039]:
+                - generic [ref=e2040]:
+                  - generic [ref=e2041]: 3h
+                  - generic [ref=e2045]: Fire Protection Engineer
+                  - generic [ref=e2047]: Pune, Maharashtra, India
+                  - generic [ref=e2052]:
+                    - generic [ref=e2053]: Onsite
+                    - generic [ref=e2054]: Full Time
+                - generic [ref=e2055]:
+                  - generic [ref=e2056]:
+                    - img "Hilti Group" [ref=e2059]
+                    - generic [ref=e2060]: "Hilti Group: Family-owned construction technology manufacturer serving professional builders with tools, software, and services."
+                  - generic [ref=e2064]:
+                    - generic [ref=e2065]: 3+ YOE
+                    - text: University degree in mechanical engineering, civil engineering, or materials science; 3-5 years professional experience; proficiency in CAD, Navisworks, Microsoft Word, Excel, PowerPoint; strong analytical and communication skills.
+                  - generic [ref=e2066]: CAD, Navisworks, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, HCP, ServiceNow, Decisions.com
+              - generic [ref=e2072]:
+                - generic [ref=e2073]:
+                  - link "Job Posting" [ref=e2074] [cursor=pointer]:
+                    - /url: /job/fire-protection-engineer-hilti-group-pune-maharashtra-d3dwrqvry69fvgf2
+                  - generic [ref=e2078]:
+                    - button "Previous job at this company" [disabled] [ref=e2079]
+                    - generic [ref=e2082]:
+                      - button "Show job 1" [ref=e2084] [cursor=pointer]
+                      - button "Show job 2" [ref=e2086] [cursor=pointer]
+                      - button "Show job 3" [ref=e2088] [cursor=pointer]
+                      - button "Show job 4" [ref=e2090] [cursor=pointer]
+                    - button "Next job at this company" [ref=e2091] [cursor=pointer]
+                  - button "View all" [ref=e2094] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e2096] [cursor=pointer]
+            - generic [ref=e2107]:
+              - generic [ref=e2108]:
+                - generic [ref=e2109]:
+                  - generic [ref=e2110]: 3h
+                  - generic [ref=e2114]: Senior Associate Marketing Campaign Management
+                  - generic [ref=e2116]: Mumbai, Maharashtra, India
+                  - generic [ref=e2121]:
+                    - generic [ref=e2122]: Onsite
+                    - generic [ref=e2123]: Full Time
+                - generic [ref=e2124]:
+                  - generic [ref=e2125]:
+                    - img "GLG" [ref=e2128]
+                    - generic [ref=e2129]: "GLG: Private expert network providing financial and professional information services to investors, companies, and consultants."
+                  - generic [ref=e2133]:
+                    - generic [ref=e2134]: 1+ YOE
+                    - text: 1+ years campaign management or marketing operations experience; hands-on email campaign building in a marketing automation platform; audience segmentation, A/B testing, QA, and performance reporting skills; strong attention to detail and communication.
+                  - generic [ref=e2135]: Adobe Marketo Engage, Looker, Salesforce
+              - generic [ref=e2141]:
+                - generic [ref=e2142]:
+                  - link "Job Posting" [ref=e2143] [cursor=pointer]:
+                    - /url: /job/senior-associate-marketing-campaign-management-glg-mumbai-maharashtra-rak00qhpwcbx87c2
+                  - generic [ref=e2147]:
+                    - button "Previous job at this company" [disabled] [ref=e2148]
+                    - generic [ref=e2151]:
+                      - button "Show job 1" [ref=e2153] [cursor=pointer]
+                      - button "Show job 2" [ref=e2155] [cursor=pointer]
+                      - button "Show job 3" [ref=e2157] [cursor=pointer]
+                    - button "Next job at this company" [ref=e2158] [cursor=pointer]
+                  - button "View all" [ref=e2161] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e2163] [cursor=pointer]
+            - generic [ref=e2174]:
+              - generic [ref=e2175]:
+                - generic [ref=e2176]:
+                  - generic [ref=e2177]: 4h
+                  - generic [ref=e2181]: Sr Software Engineer
+                  - generic [ref=e2183]: Hyderabad, Telangana, India
+                  - generic [ref=e2188]:
+                    - generic [ref=e2189]: Hybrid
+                    - generic [ref=e2190]: Full Time
+                - generic [ref=e2191]:
+                  - generic [ref=e2192]:
+                    - img "WebPT" [ref=e2195]
+                    - generic [ref=e2196]: "WebPT: Private U.S. SaaS providing rehab-therapy practice management software to outpatient PT, OT, and SLP practices."
+                  - generic [ref=e2200]:
+                    - generic [ref=e2201]: 4+ YOE
+                    - text: 4-8 years software test automation experience in Agile environment; any bachelor's degree; Java, Selenium, Playwright, Appium, TestNG, Maven, SQL, API testing tools, Git, Jenkins; strong debugging and communication skills.
+                  - generic [ref=e2202]: Java, Selenium, Playwright, Appium, TestNG, Maven, ExtentReport, SQL, Postman, SoapUI, Rest-Assured, Karate, Git, Bitbucket, Jenkins, GitLab
+              - generic [ref=e2208]:
+                - generic [ref=e2209]:
+                  - link "Job Posting" [ref=e2210] [cursor=pointer]:
+                    - /url: /job/sr-software-engineer-webpt-hyderabad-telangana-no2j41aj5xtkumgj
+                  - generic [ref=e2214]:
+                    - button "Previous job at this company" [disabled] [ref=e2215]
+                    - generic [ref=e2218]:
+                      - button "Show job 1" [ref=e2220] [cursor=pointer]
+                      - button "Show job 2" [ref=e2222] [cursor=pointer]
+                      - button "Show job 3" [ref=e2224] [cursor=pointer]
+                    - button "Next job at this company" [ref=e2225] [cursor=pointer]
+                  - button "View all" [ref=e2228] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e2230] [cursor=pointer]
+            - generic [ref=e2241]:
+              - generic [ref=e2242]:
+                - generic [ref=e2243]:
+                  - generic [ref=e2244]: 4h
+                  - generic [ref=e2248]: Manager Sales (m/f/x)
+                  - generic [ref=e2250]: Pune, Maharashtra, India
+                  - generic [ref=e2255]:
+                    - generic [ref=e2256]: Onsite
+                    - generic [ref=e2257]: Full Time
+                - generic [ref=e2258]:
+                  - generic [ref=e2259]:
+                    - img "TOX PRESSOTECHNIK L.L.C." [ref=e2262]
+                    - generic [ref=e2263]: "TOX PRESSOTECHNIK L.L.C.: Family-owned industrial machinery manufacturer serving automotive and other manufacturers with sheet-metal joining, pressing, and assembly equipment."
+                  - generic [ref=e2267]:
+                    - generic [ref=e2268]: 8+ YOE
+                    - text: B.E./B.Tech in Mechanical Engineering; 8-12 years B2B sales/business development experience; industrial automation, machine building, capital equipment or project-based engineering sales; proven track record in new business development and order acquisition; experience with OEMs, automotive companies, Tier-1 customers; technical proposal and commer...
+              - generic [ref=e2269]:
+                - generic [ref=e2270]:
+                  - link "Job Posting" [ref=e2271] [cursor=pointer]:
+                    - /url: /job/manager-sales-m-f-x-tox-pressotechnik-l-l-c-pune-maharashtra-vzgdsuqgx7ma7c64
+                  - generic [ref=e2275]:
+                    - button "Previous job at this company" [disabled] [ref=e2276]
+                    - generic [ref=e2279]:
+                      - button "Show job 1" [ref=e2281] [cursor=pointer]
+                      - button "Show job 2" [ref=e2283] [cursor=pointer]
+                      - button "Show job 3" [ref=e2285] [cursor=pointer]
+                      - button "Show job 4" [ref=e2287] [cursor=pointer]
+                    - button "Next job at this company" [ref=e2288] [cursor=pointer]
+                  - button "View all" [ref=e2291] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e2293] [cursor=pointer]
+            - generic [ref=e2304]:
+              - generic [ref=e2305]:
+                - generic [ref=e2306]:
+                  - generic [ref=e2307]: 4h
+                  - generic [ref=e2311]: SPE-Accounts Payable
+                  - generic [ref=e2313]: India
+                  - generic [ref=e2318]:
+                    - generic [ref=e2319]: Hybrid
+                    - generic [ref=e2320]: Full Time
+                - generic [ref=e2321]:
+                  - generic [ref=e2322]:
+                    - img "Cognizant" [ref=e2325]
+                    - generic [ref=e2326]:
+                      - text: Cognizant
+                      - generic [ref=e2327]: "NASDAQ: CTSH"
+                      - text: ": Global professional services providing technology and consulting services."
+                  - generic [ref=e2331]:
+                    - generic [ref=e2332]: 4+ YOE
+                    - text: 4+ years accounts payable experience, advanced ERP proficiency, solid accounting principles, strong communication, analytical thinking, attention to detail, and ability to work rotational shifts in a hybrid model.
+                  - generic [ref=e2333]: ERP
+              - generic [ref=e2339]:
+                - generic [ref=e2340]:
+                  - link "Job Posting" [ref=e2341] [cursor=pointer]:
+                    - /url: /job/spe-accounts-payable-cognizant-india-5jfzcex7ml0ee4ji
+                  - generic [ref=e2345]:
+                    - button "Previous job at this company" [disabled] [ref=e2346]
+                    - generic [ref=e2349]:
+                      - button "Show job 1" [ref=e2351] [cursor=pointer]
+                      - button "Show job 2" [ref=e2353] [cursor=pointer]
+                      - button "Show job 3" [ref=e2355] [cursor=pointer]
+                      - button "Show job 4" [ref=e2357] [cursor=pointer]
+                    - button "Next job at this company" [ref=e2358] [cursor=pointer]
+                  - button "View all" [ref=e2361] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e2363] [cursor=pointer]
+            - generic [ref=e2374]:
+              - generic [ref=e2375]:
+                - generic [ref=e2376]:
+                  - generic [ref=e2377]: 4h
+                  - generic [ref=e2381]: Finance Executive- Income Audit- Hilton and Hilton Garden Inn Bengaluru Embassy Manyata Business Park
+                  - generic [ref=e2383]: Bengaluru, Karnataka, India
+                  - generic [ref=e2388]:
+                    - generic [ref=e2389]: Onsite
+                    - generic [ref=e2390]: Full Time
+                - generic [ref=e2391]:
+                  - generic [ref=e2392]:
+                    - img "Hilton" [ref=e2395]
+                    - generic [ref=e2396]:
+                      - text: Hilton
+                      - generic [ref=e2397]: "NYSE: HLT"
+                      - text: ": A leading global hospitality managing a diverse hotel portfolio."
+                  - generic [ref=e2401]:
+                    - generic [ref=e2402]: 3+ YOE
+                    - text: University degree with 3-4 years relevant experience; attention to detail, communication and interpersonal skills; proficient in Microsoft Office and Check SCM, SUN; professional accounting qualification advantageous.
+                  - generic [ref=e2403]: Microsoft Office, Check SCM, SUN
+              - generic [ref=e2409]:
+                - generic [ref=e2410]:
+                  - link "Job Posting" [ref=e2411] [cursor=pointer]:
+                    - /url: /job/finance-executive-income-audit-hilton-and-hilton-garden-inn-bengaluru-mk0zuos44sgbnjur
+                  - generic [ref=e2415]:
+                    - button "Previous job at this company" [disabled] [ref=e2416]
+                    - generic [ref=e2419]:
+                      - button "Show job 1" [ref=e2421] [cursor=pointer]
+                      - button "Show job 2" [ref=e2423] [cursor=pointer]
+                      - button "Show job 3" [ref=e2425] [cursor=pointer]
+                      - button "Show job 4" [ref=e2427] [cursor=pointer]
+                    - button "Next job at this company" [ref=e2428] [cursor=pointer]
+                  - button "View all" [ref=e2431] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e2433] [cursor=pointer]
+            - generic [ref=e2444]:
+              - generic [ref=e2445]:
+                - generic [ref=e2446]:
+                  - generic [ref=e2447]: 4h
+                  - generic [ref=e2451]: Client Relationship Support (Apprentice-12 Months)
+                  - generic [ref=e2453]: Mumbai, Maharashtra, India
+                  - generic [ref=e2458]:
+                    - generic [ref=e2459]: Onsite
+                    - generic [ref=e2460]: Full Time, Contract
+                - generic [ref=e2461]:
+                  - generic [ref=e2462]:
+                    - img "HSBC Holdings plc" [ref=e2465]
+                    - generic [ref=e2466]:
+                      - text: HSBC Holdings plc
+                      - generic [ref=e2467]: "London Stock Exchange: HSBA"
+                      - text: ": Global banking and financial services organization."
+                  - generic [ref=e2468]: Bachelor's degree in business, finance or related field; strong accounting, analytical and problem-solving skills; proficiency in Microsoft Excel and PowerPoint; successful completion of AML and Sanctions training.
+                  - generic [ref=e2472]: Microsoft Excel, Microsoft PowerPoint
+              - generic [ref=e2478]:
+                - generic [ref=e2479]:
+                  - link "Job Posting" [ref=e2480] [cursor=pointer]:
+                    - /url: /job/client-relationship-support-apprentice-12-months-hsbc-holdings-plc-yh02tfah7alus2k0
+                  - generic [ref=e2484]:
+                    - button "Previous job at this company" [disabled] [ref=e2485]
+                    - generic [ref=e2488]:
+                      - button "Show job 1" [ref=e2490] [cursor=pointer]
+                      - button "Show job 2" [ref=e2492] [cursor=pointer]
+                      - button "Show job 3" [ref=e2494] [cursor=pointer]
+                      - button "Show job 4" [ref=e2496] [cursor=pointer]
+                    - button "Next job at this company" [ref=e2497] [cursor=pointer]
+                  - button "View all" [ref=e2500] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e2502] [cursor=pointer]
+            - generic [ref=e2513]:
+              - generic [ref=e2514]:
+                - generic [ref=e2515]:
+                  - generic [ref=e2516]: 4h
+                  - generic [ref=e2520]: Services Specialist Commissioning - VFD MV Drives
+                  - generic [ref=e2522]: Chennai, Tamil Nadu, India
+                  - generic [ref=e2527]:
+                    - generic [ref=e2528]: Field
+                    - generic [ref=e2529]: Full Time
+                - generic [ref=e2530]:
+                  - generic [ref=e2531]:
+                    - img "GE Power Conversion" [ref=e2534]
+                    - generic [ref=e2535]: "GE Power Conversion: Industrial electrical engineering division supplying power-conversion, motors, generators, automation systems to utilities and heavy industries."
+                  - generic [ref=e2539]:
+                    - generic [ref=e2540]: 3+ YOE
+                    - text: Diploma, B.E., or M.E. in electrical/electronic engineering; 3-7 years relevant experience; knowledge of power electronics, low voltage equipment, and PLC; frequent travel up to 100% to client sites in India and globally.
+                  - generic [ref=e2541]: PLC
+              - generic [ref=e2547]:
+                - generic [ref=e2548]:
+                  - link "Job Posting" [ref=e2549] [cursor=pointer]:
+                    - /url: /job/services-specialist-commissioning-vfd-mv-drives-ge-power-conversion-uwbxte6ur53nqx7h
+                  - generic [ref=e2553]:
+                    - button "Previous job at this company" [disabled] [ref=e2554]
+                    - generic [ref=e2557]:
+                      - button "Show job 1" [ref=e2559] [cursor=pointer]
+                      - button "Show job 2" [ref=e2561] [cursor=pointer]
+                      - button "Show job 3" [ref=e2563] [cursor=pointer]
+                    - button "Next job at this company" [ref=e2564] [cursor=pointer]
+                  - button "View all" [ref=e2567] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e2569] [cursor=pointer]
+            - generic [ref=e2580]:
+              - generic [ref=e2581]:
+                - generic [ref=e2582]:
+                  - generic [ref=e2583]: 4h
+                  - generic [ref=e2587]: TEST LEAD - Embedded AI Test Automation
+                  - generic [ref=e2589]: Bengaluru, Karnataka, India
+                  - generic [ref=e2594]:
+                    - generic [ref=e2595]: Onsite
+                    - generic [ref=e2596]: Full Time
+                - generic [ref=e2597]:
+                  - generic [ref=e2598]:
+                    - img "Happiest Minds Technologies" [ref=e2601]
+                    - generic [ref=e2602]:
+                      - text: Happiest Minds Technologies
+                      - generic [ref=e2603]: "NSE: HAPPSTMNDS"
+                      - text: ": Public Indian digital engineering and IT services helping enterprises modernize through product engineering, cybersecurity, analytics, and automation."
+                  - generic [ref=e2607]:
+                    - generic [ref=e2608]: 8+ YOE
+                    - text: 8-11 years embedded product testing and firmware validation experience; strong Python and PyTest/Robot Framework; embedded protocols (UART, RS232, RS485, CAN, I2C, SPI, Ethernet); Git, GitHub Actions, Jira; AI assistants (GitHub Copilot, Claude); AI/ML frameworks (PyTorch, Hugging Face); MCP servers, RAG systems; leading technical teams.
+                  - generic [ref=e2609]: Python, PyTest, Robot Framework, UART, RS232, RS485, CAN, I2C, SPI, Ethernet, Git, GitHub Actions, Jira, GitHub Copilot, Claude, PyTorch, Hugging Face, MCP, RAG
+              - generic [ref=e2615]:
+                - generic [ref=e2616]:
+                  - link "Job Posting" [ref=e2617] [cursor=pointer]:
+                    - /url: /job/test-lead-embedded-ai-test-automation-happiest-minds-technologies-yijuzrnrjseie3q8
+                  - generic [ref=e2621]:
+                    - button "Previous job at this company" [disabled] [ref=e2622]
+                    - generic [ref=e2625]:
+                      - button "Show job 1" [ref=e2627] [cursor=pointer]
+                      - button "Show job 2" [ref=e2629] [cursor=pointer]
+                      - button "Show job 3" [ref=e2631] [cursor=pointer]
+                      - button "Show job 4" [ref=e2633] [cursor=pointer]
+                    - button "Next job at this company" [ref=e2634] [cursor=pointer]
+                  - button "View all" [ref=e2637] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e2639] [cursor=pointer]
+            - generic [ref=e2650]:
+              - generic [ref=e2651]:
+                - generic [ref=e2652]:
+                  - generic [ref=e2653]: 4h
+                  - generic [ref=e2657]: Senior Software Globalization Project Manager
+                  - generic [ref=e2659]: Bengaluru, Karnataka, India
+                  - generic [ref=e2664]:
+                    - generic [ref=e2665]: Onsite
+                    - generic [ref=e2666]: Contract
+                - generic [ref=e2667]:
+                  - generic [ref=e2668]:
+                    - img "TransPerfect" [ref=e2671]
+                    - generic [ref=e2672]: "TransPerfect: Global provider of language services and technology solutions."
+                  - generic [ref=e2676]:
+                    - generic [ref=e2677]: 8+ YOE
+                    - text: Bachelor's or Master's in computer science or related field; 8+ years software development lifecycle and technical project management; 4+ years leading software globalization/internationalization/localization programs; strong knowledge of Unicode, RTL, locale handling; Agile/Scrum, CI/CD, AI/ML localization experience; exceptional English communica...
+                  - generic [ref=e2678]: Unicode, RTL, CI/CD, AI, LLM, Machine Translation, TMS, Google Play
+              - generic [ref=e2684]:
+                - generic [ref=e2685]:
+                  - link "Job Posting" [ref=e2686] [cursor=pointer]:
+                    - /url: /job/senior-software-globalization-project-manager-transperfect-bengaluru-bspplcrmiish4xwa
+                  - generic [ref=e2690]:
+                    - button "Previous job at this company" [disabled] [ref=e2691]
+                    - generic [ref=e2694]:
+                      - button "Show job 1" [ref=e2696] [cursor=pointer]
+                      - button "Show job 2" [ref=e2698] [cursor=pointer]
+                      - button "Show job 3" [ref=e2700] [cursor=pointer]
+                      - button "Show job 4" [ref=e2702] [cursor=pointer]
+                    - button "Next job at this company" [ref=e2703] [cursor=pointer]
+                  - button "View all" [ref=e2706] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e2708] [cursor=pointer]
+            - generic [ref=e2719]:
+              - generic [ref=e2720]:
+                - generic [ref=e2721]:
+                  - generic [ref=e2722]: 4h
+                  - generic [ref=e2726]: Recruitment & Onboarding Coordinator
+                  - generic [ref=e2728]: Bangalore, Karnataka, India
+                  - generic [ref=e2733]:
+                    - generic [ref=e2734]: ₹700k-₹800k/yr
+                    - generic [ref=e2735]: Hybrid
+                    - generic [ref=e2736]: Full Time
+                - generic [ref=e2737]:
+                  - generic [ref=e2738]:
+                    - img "Kinly" [ref=e2741]
+                    - generic [ref=e2742]: "Kinly: Global audiovisual and unified-communications systems integrator serving enterprise and public-sector organizations."
+                  - generic [ref=e2743]: Previous HR administration or onboarding experience; strong Microsoft 365 skills; fluency in English; flexibility to work outside standard hours for Americas region; awareness of Right to Work and background verification requirements.
+                  - generic [ref=e2747]: Microsoft 365, Microsoft Outlook, Microsoft Excel, Microsoft Word, Microsoft Teams, Microsoft SharePoint
+              - generic [ref=e2753]:
+                - generic [ref=e2754]:
+                  - link "Job Posting" [ref=e2755] [cursor=pointer]:
+                    - /url: /job/recruitment-and-onboarding-coordinator-kinly-bangalore-karnataka-9tshgyanmk3mwqlk
+                  - generic [ref=e2759]:
+                    - button "Previous job at this company" [disabled] [ref=e2760]
+                    - generic [ref=e2763]:
+                      - button "Show job 1" [ref=e2765] [cursor=pointer]
+                      - button "Show job 2" [ref=e2767] [cursor=pointer]
+                      - button "Show job 3" [ref=e2769] [cursor=pointer]
+                    - button "Next job at this company" [ref=e2770] [cursor=pointer]
+                  - button "View all" [ref=e2773] [cursor=pointer]
+                - button "See how many viewed or applied" [ref=e2775] [cursor=pointer]
+            - generic [ref=e2784]:
+              - generic [ref=e2785]:
+                - generic [ref=e2786]:
+                  - generic [ref=e2787]: 22h
+                  - generic [ref=e2791]: Manager, Service Management
+                  - generic [ref=e2793]: Hyderabad, Telangana, India
+                  - generic [ref=e2798]:
+                    - generic [ref=e2799]: Onsite
+                    - generic [ref=e2800]: Full Time
+                - generic [ref=e2801]:
+                  - generic [ref=e2802]:
+                    - img "McDonald's Belgium" [ref=e2805]
+                    - generic [ref=e2806]: "McDonald's Belgium: Belgian quick-service restaurant franchisor supporting independent local franchisees serving burgers, fries, and other meals to diners."
+                  - generic [ref=e2810]:
+                    - generic [ref=e2811]: 4+ YOE
+                    - text: Bachelor's degree required; 4-6 years experience in knowledge management, content development, or service delivery; procurement experience required; hands-on ServiceNow Knowledge Management or similar platform experience; strong communication and cross-functional skills.
+                  - generic [ref=e2812]: ServiceNow Knowledge, SharePoint, LMS
+              - generic [ref=e2818]:
+                - generic [ref=e2819]:
+                  - link "Job Posting" [ref=e2820] [cursor=pointer]:
+                    - /url: /job/manager-service-management-mcdonalds-belgium-hyderabad-telangana-ieimen35l531mu9m
+                  - link "View all" [ref=e2824] [cursor=pointer]:
+                    - /url: /org/mcdonalds.be
+                - button "See how many viewed or applied" [ref=e2826] [cursor=pointer]
+          - navigation "Pagination" [ref=e2833]:
+            - generic [ref=e2837]:
+              - link "1" [ref=e2838] [cursor=pointer]:
+                - /url: /
+              - link "2" [ref=e2839] [cursor=pointer]:
+                - /url: /?page=1
+              - link "3" [ref=e2840] [cursor=pointer]:
+                - /url: /?page=2
+              - link "4" [ref=e2841] [cursor=pointer]:
+                - /url: /?page=3
+              - link "5" [ref=e2842] [cursor=pointer]:
+                - /url: /?page=4
+              - link "6" [ref=e2843] [cursor=pointer]:
+                - /url: /?page=5
+              - link "7" [ref=e2844] [cursor=pointer]:
+                - /url: /?page=6
+              - link "8" [ref=e2845] [cursor=pointer]:
+                - /url: /?page=7
+              - link "9" [ref=e2846] [cursor=pointer]:
+                - /url: /?page=8
+              - link "10" [ref=e2847] [cursor=pointer]:
+                - /url: /?page=9
+            - link "Next page" [ref=e2848] [cursor=pointer]:
+              - /url: /?page=1
+          - generic [ref=e2852]:
+            - paragraph [ref=e2853]: Explore Jobs
+            - tablist "Explore Jobs" [ref=e2854]:
+              - tab "By State" [selected] [ref=e2855] [cursor=pointer]
+              - tab "Top Cities" [ref=e2856] [cursor=pointer]
+              - tab "Popular Searches" [ref=e2857] [cursor=pointer]
+              - tab "Work Your Way" [ref=e2858] [cursor=pointer]
+              - link "Recently Posted" [ref=e2859] [cursor=pointer]:
+                - /url: /recently-posted-jobs
+            - tabpanel "By State" [ref=e2860]:
+              - heading "Browse Jobs by State" [level=3] [ref=e2861]
+              - list [ref=e2862]:
+                - listitem [ref=e2863]:
+                  - link "Texas jobs" [ref=e2864] [cursor=pointer]:
+                    - /url: /jobs/texas
+                - listitem [ref=e2865]:
+                  - link "California jobs" [ref=e2866] [cursor=pointer]:
+                    - /url: /jobs/california
+                - listitem [ref=e2867]:
+                  - link "Florida jobs" [ref=e2868] [cursor=pointer]:
+                    - /url: /jobs/florida
+                - listitem [ref=e2869]:
+                  - link "New York jobs" [ref=e2870] [cursor=pointer]:
+                    - /url: /jobs/new-york
+                - listitem [ref=e2871]:
+                  - link "Pennsylvania jobs" [ref=e2872] [cursor=pointer]:
+                    - /url: /jobs/pennsylvania
+                - listitem [ref=e2873]:
+                  - link "Ohio jobs" [ref=e2874] [cursor=pointer]:
+                    - /url: /jobs/ohio
+                - listitem [ref=e2875]:
+                  - link "North Carolina jobs" [ref=e2876] [cursor=pointer]:
+                    - /url: /jobs/north-carolina
+                - listitem [ref=e2877]:
+                  - link "Illinois jobs" [ref=e2878] [cursor=pointer]:
+                    - /url: /jobs/illinois
+                - listitem [ref=e2879]:
+                  - link "Georgia jobs" [ref=e2880] [cursor=pointer]:
+                    - /url: /jobs/georgia
+                - listitem [ref=e2881]:
+                  - link "Virginia jobs" [ref=e2882] [cursor=pointer]:
+                    - /url: /jobs/virginia
+                - listitem [ref=e2883]:
+                  - link "Michigan jobs" [ref=e2884] [cursor=pointer]:
+                    - /url: /jobs/michigan
+                - listitem [ref=e2885]:
+                  - link "Massachusetts jobs" [ref=e2886] [cursor=pointer]:
+                    - /url: /jobs/massachusetts
+                - listitem [ref=e2887]:
+                  - link "New Jersey jobs" [ref=e2888] [cursor=pointer]:
+                    - /url: /jobs/new-jersey
+                - listitem [ref=e2889]:
+                  - link "Indiana jobs" [ref=e2890] [cursor=pointer]:
+                    - /url: /jobs/indiana
+                - listitem [ref=e2891]:
+                  - link "Tennessee jobs" [ref=e2892] [cursor=pointer]:
+                    - /url: /jobs/tennessee
+                - listitem [ref=e2893]:
+                  - link "Colorado jobs" [ref=e2894] [cursor=pointer]:
+                    - /url: /jobs/colorado
+                - listitem [ref=e2895]:
+                  - link "Washington jobs" [ref=e2896] [cursor=pointer]:
+                    - /url: /jobs/washington
+                - listitem [ref=e2897]:
+                  - link "Arizona jobs" [ref=e2898] [cursor=pointer]:
+                    - /url: /jobs/arizona
+                - listitem [ref=e2899]:
+                  - link "Missouri jobs" [ref=e2900] [cursor=pointer]:
+                    - /url: /jobs/missouri
+                - listitem [ref=e2901]:
+                  - link "Wisconsin jobs" [ref=e2902] [cursor=pointer]:
+                    - /url: /jobs/wisconsin
+                - listitem [ref=e2903]:
+                  - link "Maryland jobs" [ref=e2904] [cursor=pointer]:
+                    - /url: /jobs/maryland
+                - listitem [ref=e2905]:
+                  - link "Minnesota jobs" [ref=e2906] [cursor=pointer]:
+                    - /url: /jobs/minnesota
+                - listitem [ref=e2907]:
+                  - link "South Carolina jobs" [ref=e2908] [cursor=pointer]:
+                    - /url: /jobs/south-carolina
+                - listitem [ref=e2909]:
+                  - link "Alabama jobs" [ref=e2910] [cursor=pointer]:
+                    - /url: /jobs/alabama
+                - listitem [ref=e2911]:
+                  - link "Kentucky jobs" [ref=e2912] [cursor=pointer]:
+                    - /url: /jobs/kentucky
+          - contentinfo [ref=e2913]:
+            - generic [ref=e2914]:
+              - generic [ref=e2915]:
+                - link "Browse all jobs" [ref=e2916] [cursor=pointer]:
+                  - /url: /jobs
+                - navigation [ref=e2917]:
+                  - link "About" [ref=e2918] [cursor=pointer]:
+                    - /url: /about
+                  - link "Blog" [ref=e2919] [cursor=pointer]:
+                    - /url: /insights
+                  - link "Careers" [ref=e2920] [cursor=pointer]:
+                    - /url: /work-here
+                  - link "Talent Network" [ref=e2921] [cursor=pointer]:
+                    - /url: /talent-network
+                  - button "Espresso Club" [ref=e2922] [cursor=pointer]
+                  - link "Terms" [ref=e2923] [cursor=pointer]:
+                    - /url: /terms-and-conditions
+                  - link "Privacy" [ref=e2924] [cursor=pointer]:
+                    - /url: /private-policy
+                  - link "Your Privacy Choices" [ref=e2925] [cursor=pointer]:
+                    - /url: /private-policy#do-not-sell-or-share
+                  - link [ref=e2931] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/hiringcafe/
+                  - link [ref=e2934] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/hiring-cafe
+              - paragraph [ref=e2937]: © 2026 HiringCafe. All rights reserved.
+  - alert [ref=e2938]
+  - generic:
+    - region "Notifications-top"
+    - region "Notifications-top-left"
+    - region "Notifications-top-right"
+    - region "Notifications-bottom-left"
+    - region "Notifications-bottom"
+    - region "Notifications-bottom-right"
