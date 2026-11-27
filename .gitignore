@@ -1,1 +1,4 @@
 .hiringcafe-profile/
+
+# secrets
+config.py

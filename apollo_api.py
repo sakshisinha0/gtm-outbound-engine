@@ -25,6 +25,12 @@ class ApolloError(RuntimeError):
 def get_api_key():
     key = os.environ.get("APOLLO_API_KEY", "").strip()
     if not key:
+        try:
+            from config import APOLLO_API_KEY
+            key = (APOLLO_API_KEY or "").strip()
+        except ImportError:
+            pass
+    if not key:
         raise ApolloError(
             "APOLLO_API_KEY is not set. Create an API key in Apollo (Settings > Integrations > API), "
             "then set it:\n  PowerShell:  $env:APOLLO_API_KEY = 'your-key'\n"
